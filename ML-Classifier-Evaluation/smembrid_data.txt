@@ -1,0 +1,1485 @@
+label	col_00	col_01	col_02	col_03	col_04	col_05	col_06	col_07	col_08	col_09	col_10	col_11
+2	812 mph	0.0504 kg/s	sacramento	REPTILE	0.3522 m^2	56	0.2101	0.9054	578 kg/s	dog	0.3391	426 m^3
+2	817 mph	0.2736 kg/s	Modesto	bird	0.2333 m^2	238	0.4489	1.1045	132 kg/s	dog	0.4947	591 m^3
+0	397 mph	0.2755 kg/s	San Jose	guinea pig	0.7766 m^2	761	0.8635	0.4515	253 kg/s	reptile	0.9268	-27 m^3
+1	908 mph	0.219 kg/s	Irvine	rabbit	0.6577 m^2	631	0.8218	0.0901	612 kg/s	guinea pig	0.1285	429 m^3
+0	9 mph	0.2077 kg/s	San Jose	guinea pig	0.8752 m^2	562	0.7052	0.5017	261 kg/s	reptile	0.766	62 m^3
+5	0 mph	0.7913 kg/s	San Diego	rat	0.1431 m^2	-167	0.6897	0.8289	572 kg/s	rabbit	0.7919	626 m^3
+5	108 mph	1.0099 kg/s	San Jose	rat	0.1433 m^2	-151	0.9826	0.8597	907 kg/s	cat	0.957	907 m^3
+4	700 mph	0.6274 kg/s	Bakersfield	chicken	0.5907 m^2	456	0.5165	0.1891	268 kg/s	bird	0.5715	603 m^3
+1	1001 mph	0.4767 kg/s	Irvine	Ferret	0.875 m^2	408	0.7458	0.3282	732 kg/s	rabbit	0.0917	240 m^3
+2	741 mph	0.0845 kg/s	Modesto	bird	0.3219 m^2	308	0.287	0.9356	401 kg/s	fish	0.5851	839 m^3
+2	988 mph	0.063 kg/s	Long Beach	bird	0.1831 m^2	235	0.0948	1.1648	286 kg/s	fish	0.3999	740 m^3
+4	572 mph	0.8009 kg/s	Stockton	cat	0.3266 m^2	296	0.4193	0.3299	255 kg/s	pig	0.6192	288 m^3
+3	234 mph	0.6971 kg/s	Fremont	dog, pig	0.5617 m^2	1099	0.1547	0.2063	929 kg/s	rat	0.2986	1043 m^3
+0	254 mph	0.0037 kg/s	San Jose	rabbit	0.9472 m^2	579	0.9368	0.3804	-35 kg/s	HAMSTER	0.8417	109 m^3
+0	170 mph	0.34 kg/s	Fremont	guinea pig	1.3339 m^2	809	0.8583	0.572	329 kg/s	reptile	0.7726	62 m^3
+0	298 mph	0.3605 kg/s	Long Beach	GUINEA PIG	1.0692 m^2	957	0.5624	0.5245	51 kg/s	pig	0.491	42 m^3
+0	246 mph	0.3715 kg/s	San Jose	rabbit	0.883 m^2	882	0.6881	0.5558	423 kg/s	hamster	0.702	-28 m^3
+4	669 mph	0.5861 kg/s	Stockton	chicken	0.3986 m^2	548	0.1808	0.48	352 kg/s	pig	0.5957	245 m^3
+4	853 mph	0.5965 kg/s	Santa Clarita	cat	0.4109 m^2	483	0.5073	0.188	283 kg/s	pig	0.753	170 m^3
+4	689 mph	0.7898 kg/s	San Jose	chicken	0.7649 m^2	456	0.488	0.3257	385 kg/s	ferret	0.6024	279 m^3
+1	994 mph	0.5137 kg/s	Anaheim	ferret	0.8998 m^2	534	0.338	0.2815	471 kg/s	guinea pig	0.1102	480 m^3
+1	938 mph	0.4573 kg/s	Fresno	ferret	0.8235 m^2	483	0.5998	0.3599	553 kg/s	guinea pig	0.0958	472 m^3
+3	396 mph	0.6396 kg/s	Fremont	pig	0.6274 m^2	1181	0.0105	0.2494	1039 kg/s	rat	0.3396	1023 m^3
+3	487 mph	0.3699 kg/s	Fremont	dog, fish	0.7233 m^2	902	0.1809	0.0977	836 kg/s	RAT	0.1181	1232 m^3
+1	742 mph	0.2901 kg/s	Anaheim	ferret	0.8497 m^2	511	0.6953	0.3695	351 kg/s	guinea pig	0.0978	649 m^3
+2	564 mph	0.1221 kg/s	Sacramento	bird	0.2081 m^2	70	0.5804	0.8048	320 kg/s	fish	0.5779	730 m^3
+1	n/a	0.5283 kg/s	Irvine	ferret	0.6555 m^2	538	0.6673	0.3312	447 kg/s	guinea pig	-0.0014	614 m^3
+0	198 mph	0.3546 kg/s	San Jose	rabbit	0.7068 m^2	876	0.7585	0.5527	70 kg/s	hamster	0.88	108 m^3
+3	171 mph	0.4124 kg/s	Fremont	pig	0.6984 m^2	1160	-0.2135	0.3722	782 kg/s	rat	0.1975	848 m^3
+2	714 mph	-0.0949 kg/s	Sacramento	reptile	0.2832 m^2	397	0.5447	1.0117	288 kg/s	fish	0.5282	824 m^3
+4	490 mph	0.5347 kg/s	Bakersfield	cat	0.2501 m^2	364	0.297	0.3981	502 kg/s	ferret	0.3016	397 m^3
+1	908 mph	0.5243 kg/s	Riverside	ferret	0.7369 m^2	741	0.6653	0.1908	664 kg/s	guinea pig	0.0115	296 m^3
+0	218 mph	0.3592 kg/s	San Jose	guinea pig	1.0774 m^2	578	0.7935	0.6482	99 kg/s	reptile	0.8705	289 m^3
+3	489 mph	0.3595 kg/s	San Francisco	dog	0.7608 m^2	1107	0.134	0.1349	1063 kg/s	rat	0.2176	943 m^3
+4	738 mph	0.4949 kg/s	San Bernardino	chicken	0.4799 m^2	443	0.7928	0.2559	157 kg/s	ferret	0.4167	372 m^3
+0	173 mph	0.3068 kg/s	Long Beach	guinea pig	1.1429 m^2	884	0.5326	0.5299	194 kg/s	reptile	0.8333	-162 m^3
+4	471 mph	0.8541 kg/s	Bakersfield	cat	0.3903 m^2	495	0.3186	0.3972	139 kg/s	pig	0.5513	395 m^3
+4	641 mph	0.456 kg/s	Chula Vista	cat	0.6313 m^2	462	0.3224	0.4401	316 kg/s	ferret	0.6344	310 m^3
+0	39 mph	0.3482 kg/s	San Jose	guinea pig	1.0208 m^2	445	0.6888	0.4877	172 kg/s	fish	0.9424	49 m^3
+3	492 mph	0.5582 kg/s	San Francisco	dog	0.6523 m^2	838	0.0425	0.2971	1075 kg/s	bird	0.0606	858 m^3
+1	977 mph	0.3654 kg/s	Anaheim	ferret	0.6203 m^2	868	0.4333	0.5382	525 kg/s	GUINEA PIG	0.1996	285 m^3
+4	841 mph	0.6285 kg/s	Bakersfield	chicken	0.5073 m^2	385	0.424	0.35	405 kg/s	pig	0.5845	345 m^3
+3	370 mph	0.6668 kg/s	Fremont	pig	0.6948 m^2	959	0.3328	NULL	1166 kg/s	rat	0.3827	785 m^3
+0	201 mph	0.3391 kg/s	San Francisco	rabbit	0.9303 m^2	693	0.6965	0.5788	237 kg/s	reptile	0.6847	-48 m^3
+4	617 mph	0.7681 kg/s	Santa Clarita	reptile	0.5821 m^2	411	0.1821	0.3144	410 kg/s	ferret	0.4825	465 m^3
+2	639 mph	-0.0012 kg/s	San Diego	reptile	0.1877 m^2	313	0.2218	0.9206	154 kg/s	fish	0.5045	676 m^3
+5	114 mph	1.0089 kg/s	Long Beach	hamster	0.1755 m^2	-71	1.066	0.8045	727 kg/s	rabbit	0.8085	752 m^3
+4	506 mph	0.7574 kg/s	San Bernardino	chicken	0.5116 m^2	734	0.0694	0.3764	433 kg/s	ferret	0.5519	348 m^3
+3	285 mph	0.4145 kg/s	Moreno Valley	dog, fish	0.6482 m^2	889	0.197	0.1439	926 kg/s	rat	0.1974	901 m^3
+3	497 mph	0.3229 kg/s	San Francisco	dog, fish	0.8356 m^2	1154	0.2272	0.3248	957 kg/s	reptile	0.2399	1034 m^3
+4	531 mph	0.551 kg/s	Bakersfield	chicken	0.1895 m^2	490	0.6053	0.1009	383 kg/s	hamster	0.6509	446 m^3
+0	315 mph	0.2348 kg/s	San Jose	guinea pig	1.1727 m^2	751	0.5877	0.6275	269 kg/s	hamster	0.7735	69 m^3
+0	268 mph	0.4324 kg/s	Los Angeles	rabbit	0.862 m^2	1055	0.5618	0.7135	128 kg/s	guinea pig	0.6312	152 m^3
+3	11 mph	0.4421 kg/s	Fremont	Dog, Fish	0.8114 m^2	1170	0.2607	0.1233	781 kg/s	bird	0.1058	1051 m^3
+1	864 mph	0.0777 kg/s	san francisco	ferret	0.8472 m^2	866	0.7589	0.3236	403 kg/s	guinea pig	0.2288	613 m^3
+0	299 mph	0.3303 kg/s	San Jose	guinea pig	0.9954 m^2	589	0.6548	0.6172	276 kg/s	reptile	0.8073	116 m^3
+0	474 mph	0.3886 kg/s	San Jose	guinea pig	1.0562 m^2	789	0.7448	0.6516	145 kg/s	hamster	0.9105	-62 m^3
+3	429 mph	0.4827 kg/s	San Francisco	pig	0.4682 m^2	1047	0.1553	0.0648	596 kg/s	rat	0.2614	849 m^3
+3	419 mph	0.6974 kg/s	Sacramento	FISH	0.6944 m^2	1143	-0.0387	0.0897	699 kg/s	rat	0.3263	882 m^3
+3	324 mph	0.4977 kg/s	Fremont	pig, fish	0.6827 m^2	1071	0.1188	0.2069	941 kg/s	bird	0.2402	1018 m^3
+5	-112 mph	0.5099 kg/s	Oakland	hamster	0.1053 m^2	-68	1.2355	0.8085	882 kg/s	rabbit	0.6961	800 m^3
+4	811 mph	0.8978 kg/s	Chula Vista	cat	0.6615 m^2	662	0.2582	0.3784	139 kg/s	ferret	0.5283	408 m^3
+2	801 mph	0.1856 kg/s	los angeles	bird	0.2682 m^2	176	0.1492	0.7925	367 kg/s	dog	0.2045	798 m^3
+0	387 mph	0.352 kg/s	San Jose	rabbit	1.0084 m^2	801	n/a	0.4742	407 kg/s	hamster	0.9237	-262 m^3
+1	908 mph	0.2733 kg/s	Long Beach	ferret	1.1103 m^2	702	0.699	0.5896	708 kg/s	guinea pig	0.3087	314 m^3
+1	913 mph	0.4206 kg/s	Irvine	ferret	1.1909 m^2	539	0.5681	0.3933	574 kg/s	guinea pig	0.1728	258 m^3
+5	-13 mph	0.9832 kg/s	Oakland	hamster	0.0494 m^2	288	0.8843	0.8372	669 kg/s	cat	0.8387	711 m^3
+5	269 mph	1.0584 kg/s	Long Beach	rat	0.1165 m^2	-253	0.8398	1.0071	430 kg/s	rabbit	0.7418	847 m^3
+3	437 mph	0.6057 kg/s	San Francisco	pig	0.6076 m^2	995	-0.1244	0.1631	951 kg/s	bird	0.0547	859 m^3
+2	773 mph	0.0 kg/s	Los Angeles	bird	0.4435 m^2	320	0.3597	0.9133	615 kg/s	fish	0.6433	677 m^3
+4	678 mph	0.4285 kg/s	San Bernardino	cat	0.3384 m^2	509	0.1571	0.0908	366 kg/s	pig	NULL	361 m^3
+2	857 mph	0.0431 kg/s	Santa Ana	bird	0.3592 m^2	167	0.3668	0.9416	428 kg/s	fish	0.3759	765 m^3
+0	308 mph	0.2444 kg/s	San Jose	rabbit	1.194 m^2	1006	0.6165	0.5474	562 kg/s	reptile	0.8077	33 m^3
+4	728 mph	0.5962 kg/s	Bakersfield	chicken	0.5134 m^2	491	0.4898	0.3548	405 kg/s		0.5027	247 m^3
+3	273 mph	0.598 kg/s	Anaheim	fish	0.7017 m^2	809	0.2715	0.0711	814 kg/s	rat	0.3579	1113 m^3
+0	299 mph	0.2155 kg/s	San Jose	rabbit	1.0288 m^2	368	0.5365	0.5099	142 kg/s	hamster	0.6484	-62 m^3
+5	-84 mph	0.7737 kg/s	Long Beach	hamster	0.1673 m^2	147	0.7796	0.59	916 kg/s	cat	0.7953	584 m^3
+4	591 mph	0.7265 kg/s	Chula Vista	cat	0.5534 m^2	377	0.429	0.2336	193 kg/s	pig	0.6628	302 m^3
+3	328 mph	0.6325 kg/s	San Jose	fish	0.8514 m^2	1072	-0.0061	0.0955	1084 kg/s	rat	-0.0317	1324 m^3
+4	666 mph	0.7551 kg/s	Moreno Valley	cat	0.4065 m^2	626	0.3368	0.3481	282 kg/s	pig	0.7073	357 m^3
+5	193 mph	0.968 kg/s	Fremont	hamster	0.1111 m^2	-34	0.9751	0.8166	758 kg/s	rabbit	0.9193	593 m^3
+0	116 mph	0.4094 kg/s	San Jose	guinea pig	1.0129 m^2	577	0.7393	0.5158	200 kg/s	hamster	0.8969	249 m^3
+3	229 mph	0.6053 kg/s	San Francisco	fish, pig	0.9226 m^2	1187	-0.0061	-0.0427	634 kg/s	rat	0.2661	987 m^3
+5	103 mph	0.7594 kg/s	Long Beach	rat	-0.0722 m^2	299	0.7669	0.697	944 kg/s	cat	0.6818	791 m^3
+5	-43 mph	0.6614 kg/s	Oakland	HAMSTER	0.1251 m^2	21	0.6939	0.8341	637 kg/s	chicken	0.763	663 m^3
+4	937 mph	0.8219 kg/s	San Jose	chicken	0.4653 m^2	566	0.4831	0.3346	341 kg/s	ferret	0.6005	226 m^3
+0	104 mph	0.1372 kg/s	San Jose	rabbit	0.6995 m^2	722	0.8162	0.7678	61 kg/s	hamster	0.7106	-31 m^3
+3	194 mph	0.5757 kg/s	Fremont	fish, pig	0.7026 m^2	1087	-0.0701	0.0601	912 kg/s	rat	0.296	815 m^3
+0	72 mph	0.3221 kg/s	N/A	rabbit	1.0869 m^2	565	1.0604	0.5358	11 kg/s	fish	0.7679	38 m^3
+4	607 mph	0.5186 kg/s	Riverside	chicken	0.5888 m^2	318	0.6315	0.3753	257 kg/s	pig	0.7697	309 m^3
+1	1126 mph	0.2164 kg/s	San Francisco	ferret	0.5341 m^2	516	0.7109	0.407	614 kg/s	guinea pig	0.1234	410 m^3
+2	760 mph	0.1585 kg/s	SAN FRANCISCO	reptile	0.3769 m^2	551	0.3431	1.1326	323 kg/s	guinea pig	0.1888	628 m^3
+1	977 mph	0.3462 kg/s	Irvine	ferret	0.78 m^2	510	0.7286	0.3744	660 kg/s	guinea pig	0.2555	355 m^3
+1	971 mph	0.1786 kg/s	Irvine	ferret	0.7846 m^2	411	0.7464	0.4146	366 kg/s	guinea pig	0.1385	442 m^3
+0	282 mph	0.0878 kg/s	San Jose	guinea pig	1.1649 m^2	711	0.8223	0.7795	47 kg/s	ferret	0.9307	11 m^3
+2	510 mph	0.0884 kg/s	Los Angeles	reptile	0.1663 m^2	244	0.2249	0.9427	428 kg/s	dog	0.5476	600 m^3
+4	729 mph	0.9039 kg/s	Moreno Valley	chicken	0.5162 m^2	434	0.3347	0.2478	292 kg/s	fish	0.3024	327 m^3
+5	146 mph	1.1132 kg/s	Long Beach	rat	0.1145 m^2	-194	0.7904	0.9217		rabbit	0.5754	745 m^3
+2	729 mph	0.0636 kg/s	Sacramento	bird	0.2396 m^2	262	0.1751	1.0091	435 kg/s	fish	0.5635	704 m^3
+5	?	0.8411 kg/s	Oakland	rat	0.0824 m^2	-9	0.7196	0.8789	997 kg/s	rabbit	0.7625	566 m^3
+5	182 mph	0.9404 kg/s	Long Beach	hamster	0.2804 m^2	77	0.8426	0.8523	861 kg/s	cat	0.82	1118 m^3
+4	940 mph	0.6549 kg/s	Bakersfield	dog, pig	0.3942 m^2	448	0.3346	0.2329	293 kg/s	bird	0.6588	420 m^3
+1	832 mph	0.4774 kg/s	San Jose	ferret	1.0946 m^2	482	0.6387	0.449	679 kg/s	guinea pig	0.241	180 m^3
+4	457 mph	0.7834 kg/s	San Bernardino	cat	0.3311 m^2	482	0.2173	0.2988	195 kg/s	rat	0.7496	562 m^3
+0	279 mph	0.3695 kg/s	San Jose	guinea pig	0.8731 m^2	701	0.5127	0.5885	197 kg/s	hamster	0.999	NULL
+3	315 mph	0.5118 kg/s	Anaheim	pig, dog	0.8756 m^2	792	-0.0943	0.2865	671 kg/s	bird	0.1673	937 m^3
+0	261 mph	0.1656 kg/s	San Jose	guinea pig	0.8321 m^2	510	0.6203	0.4566	435 kg/s	hamster	0.9892	-89 m^3
+4	469 mph	0.7195 kg/s	Bakersfield	cat	0.4366 m^2	735	0.3575	0.4447	236 kg/s	FERRET	0.5123	417 m^3
+1	762 mph	0.4718 kg/s	Anaheim	ferret	0.6688 m^2	566	0.4198	0.2738	289 kg/s	Guinea Pig	0.1925	None
+4	848 mph	0.5391 kg/s	Santa Clarita	cat	0.2979 m^2	601	0.0444	0.1952	433 kg/s	ferret	0.5091	307 m^3
+1	862 mph	0.4273 kg/s	Anaheim	ferret	1.0626 m^2	604	0.6113	0.1981	399 kg/s	guinea pig	0.2477	367 m^3
+4	659 mph	0.6259 kg/s	San Bernardino	cat	0.5763 m^2	410	0.6016	0.2198	109 kg/s	pig	0.6663	262 m^3
+0	406 mph	0.2414 kg/s	Oakland	guinea pig	1.1735 m^2	724	0.5859	0.5548	358 kg/s	reptile	0.9591	-56 m^3
+1	1201 mph	0.4727 kg/s	riverside	ferret	0.7567 m^2	369	0.5186	0.2712	774 kg/s	guinea pig	0.1311	344 m^3
+4	839 mph	0.7376 kg/s	San Bernardino	cat	0.2746 m^2	721	0.4226	0.2141	240 kg/s	pig	0.345	526 m^3
+0	422 mph	0.2756 kg/s	Long Beach	guinea pig	1.0376 m^2	770	0.6097	0.5573	151 kg/s	hamster	0.8657	149 m^3
+2	471 mph	0.051 kg/s	Modesto	bird	0.1505 m^2	427	-0.1079	0.9013	283 kg/s	fish	0.5421	557 m^3
+4	424 mph	0.7169 kg/s	Chula Vista	cat	0.3691 m^2	802	0.0448	0.1665	319 kg/s	hamster	0.4892	195 m^3
+4	641 mph	0.4727 kg/s	Moreno Valley	cat	0.404 m^2	608	0.2921	0.2474	300 kg/s	pig	0.7617	684 m^3
+1	998 mph	0.3 kg/s	Anaheim	ferret	0.9497 m^2	562	0.6847	0.5074	441 kg/s	guinea pig	0.1206	304 m^3
+3	597 mph	0.5831 kg/s	San Francisco	fish	0.2892 m^2	1061	0.1791	0.0783	725 kg/s	bird	0.1667	1055 m^3
+3	251 mph	0.3455 kg/s	Fremont	dog	0.5994 m^2	1022	0.0729	0.0467	811 kg/s	bird	0.2104	1098 m^3
+1	975 mph	0.4533 kg/s	Anaheim	ferret	1.0485 m^2	742	0.9123	0.4211	658 kg/s	guinea pig	0.0723	498 m^3
+0	122 mph	0.5026 kg/s	San Jose	guinea pig	0.9157 m^2	805	0.7324	0.6342	228 kg/s	reptile	0.9876	-45 m^3
+0	360 mph	0.123 kg/s	San Jose	rabbit	1.0183 m^2	922	0.7339	0.475	160 kg/s	reptile	0.927	-80 m^3
+3	378 mph	0.4352 kg/s	San Francisco	fish	0.6145 m^2	1200	0.0915	0.4486	837 kg/s	bird	0.1803	920 m^3
+5	196 mph	0.8497 kg/s	San Bernardino	hamster	0.1127 m^2	114	0.9972	0.7834	675 kg/s	cat	0.7063	913 m^3
+0	83 mph	0.2302 kg/s	San Jose	guinea pig	0.7887 m^2	498	0.701	0.7674	239 kg/s	hamster	1.023	175 m^3
+1	825 mph	0.147 kg/s	Riverside	FERRET	0.8746 m^2	311	0.3257	0.2614	398 kg/s	guinea pig	0.1855	478 m^3
+1	750 mph	0.3692 kg/s	Anaheim	ferret	0.8651 m^2	490	0.4054	0.3577	528 kg/s	guinea pig	0.224	367 m^3
+3	405 mph	n/a	San Francisco		0.4221 m^2	996	-0.1021	0.1285	944 kg/s	cat	0.2537	1139 m^3
+0	273 mph	0.3056 kg/s	San Jose	rabbit	0.9627 m^2	574	0.6825	0.5156	-57 kg/s	chicken	0.8178	177 m^3
+3	278 mph	0.5861 kg/s	San Francisco	fish	0.7417 m^2	1104	-0.0133	0.0592	796 kg/s	rat	0.1419	708 m^3
+4	691 mph	0.9744 kg/s	Santa Clarita	chicken	0.5212 m^2	592	0.347	0.3909	458 kg/s	pig	0.4793	239 m^3
+5	142 mph	0.918 kg/s	Long Beach	hamster	0.3273 m^2	-157	0.6532	0.6913	1040 kg/s	Guinea Pig	0.7615	671 m^3
+1	1069 mph	0.3028 kg/s	Riverside	ferret	0.7733 m^2	480	0.6279	0.3947	749 kg/s	guinea pig	0.074	211 m^3
+0	248 mph	0.1725 kg/s	San Jose	rat	0.8904 m^2	934	0.844	0.4432	-85 kg/s	hamster	1.0423	250 m^3
+0	198 mph	0.3092 kg/s	San Jose	guinea pig	0.8932 m^2	1079	0.8381	0.6013	148 kg/s	hamster	0.8156	-141 m^3
+2	633 mph	0.2101 kg/s	Santa Ana	bird	0.4894 m^2	373	0.1272	0.9043	259 kg/s	fish	0.5946	560 m^3
+1	944 mph	0.391 kg/s	Anaheim	ferret	0.8544 m^2	None	0.4723	0.2035	891 kg/s	guinea pig	0.2461	284 m^3
+3	606 mph	0.4859 kg/s	Fremont	dog	0.5627 m^2	974	0.0145	0.2459	844 kg/s	rat	0.1545	979 m^3
+2	594 mph	0.1868 kg/s	Fresno	bird	0.6418 m^2	304	0.3281	0.9462	415 kg/s	fish	0.5476	891 m^3
+0	95 mph	0.2112 kg/s	San Jose	guinea pig	0.837 m^2	710	0.591	0.5438	281 kg/s	hamster	0.8672	86 m^3
+3	520 mph	0.6232 kg/s	San Francisco	dog, fish	0.4187 m^2	885	0.0618	0.2197	950 kg/s	bird	0.3259	934 m^3
+1	1037 mph	0.5362 kg/s	Riverside	ferret	0.8404 m^2	649	0.7249	0.2979	718 kg/s	guinea pig	0.0821	473 m^3
+1	929 mph		MODESTO	ferret	0.9867 m^2	584	0.634	0.4697	699 kg/s	guinea pig	?	356 m^3
+0	87 mph	0.3087 kg/s	San Jose	guinea pig	1.0462 m^2	729	0.6384	0.2135	157 kg/s	reptile	0.815	71 m^3
+2	526 mph	0.0816 kg/s	San Diego	bird	0.3564 m^2	267	0.0171	1.0642	185 kg/s	fish	0.3625	716 m^3
+4	769 mph	0.5445 kg/s	Stockton	chicken	0.366 m^2	280	0.6478	0.2978	638 kg/s	pig	0.447	439 m^3
+2	687 mph	0.1529 kg/s	Los Angeles	bird	0.4155 m^2	103	0.0993	1.0616	449 kg/s	dog	0.5367	591 m^3
+4	746 mph	0.433 kg/s	Bakersfield	cat	0.4368 m^2	796	0.3213	0.2445	338 kg/s	ferret	0.4678	540 m^3
+0	77 mph	0.1883 kg/s	San Jose	guinea pig	0.8004 m^2	790	0.6432	0.5428	15 kg/s	reptile	0.9889	111 m^3
+5	78 mph	1.1208 kg/s	Oakland	rat	-0.087 m^2	329	0.8841	0.9415	742 kg/s	cat	0.7781	814 m^3
+5	80 mph	0.7796 kg/s	Oakland	RAT	-0.0679 m^2	-39	0.6876	0.7559	412 kg/s	chicken	0.7934	790 m^3
+5	38 mph	0.8267 kg/s	Oakland	rat	-0.023 m^2	-243	1.0566	0.8033	438 kg/s	chicken	0.7962	859 m^3
+0	130 mph	0.1319 kg/s	San Jose	guinea pig	1.0229 m^2	673	0.5218	0.5273	43 kg/s	hamster	0.9318	64 m^3
+1	943 mph	0.3574 kg/s	Anaheim	PIG	0.8361 m^2	493	0.5852	0.3177	588 kg/s	guinea pig	0.2112	227 m^3
+3	?	0.4723 kg/s	Long Beach	fish	0.7069 m^2	1223	0.1845	0.2424	754 kg/s	bird	0.1352	1005 m^3
+0	138 mph	0.3994 kg/s	Modesto	guinea pig	1.0816 m^2	819	0.6817	0.6135	360 kg/s	hamster	0.8755	53 m^3
+2	665 mph	0.0886 kg/s	Fresno	reptile	0.2563 m^2	336	0.3217	1.0308	158 kg/s	dog	0.5977	790 m^3
+3	440 mph	0.5423 kg/s	Oakland	pig, fish	0.4896 m^2	847	-0.0806	0.1733	687 kg/s	rat	0.2097	1132 m^3
+1	981 mph	0.1178 kg/s	IRVINE	ferret	0.7488 m^2	349	0.7707	0.4679	727 kg/s	guinea pig	-0.0427	267 m^3
+3	432 mph	0.4498 kg/s	Fremont	fish	0.6788 m^2	1114	0.05	0.0416	978 kg/s	rat	0.1003	991 m^3
+2	658 mph	-0.032 kg/s	Fresno	reptile	0.508 m^2	-61	0.0348	0.95	NULL	dog	0.2742	509 m^3
+3	290 mph	0.4337 kg/s	San Francisco	hamster	1.1132 m^2	1109	0.0092	0.0877	764 kg/s	rat	0.434	873 m^3
+5	-14 mph	0.872 kg/s	Santa Clarita	HAMSTER	0.3247 m^2	-238	0.6159	0.8545	669 kg/s	chicken	0.8448	766 m^3
+5	62 mph	0.893 kg/s	Long Beach	rat	0.2775 m^2	-90	0.9965	0.8764	991 kg/s	cat	0.9046	654 m^3
+1	958 mph	0.1972 kg/s	Riverside	ferret	0.9041 m^2	422	0.6984	0.3642	467 kg/s	guinea pig	0.2524	273 m^3
+3	137 mph	0.4793 kg/s	San Francisco	dog, pig	0.7752 m^2	826	-0.1195	0.0406	725 kg/s	rat	0.3325	973 m^3
+4	405 mph	0.6801 kg/s	Bakersfield	None	0.5574 m^2	709	0.1484	0.6026	353 kg/s	ferret	0.76	429 m^3
+1	1056 mph	0.2997 kg/s	Riverside	ferret	0.8435 m^2	523	0.4611	0.2681	552 kg/s	guinea pig	0.0894	288 m^3
+5	113 mph	1.1415 kg/s	Fresno	rat	0.1044 m^2	91	0.7884	0.8088	481 kg/s	chicken	0.642	954 m^3
+4	704 mph	0.7047 kg/s	Chula Vista	chicken	0.6754 m^2	529	0.3723	0.2239	118 kg/s	pig	0.7615	357 m^3
+5	127 mph	0.9741 kg/s	Long Beach	hamster	0.1326 m^2	-3	0.5828	0.6708	655 kg/s	rabbit	0.7156	492 m^3
+4	647 mph	0.6221 kg/s	Bakersfield	cat	0.4118 m^2	767	0.2909	0.4632	344 kg/s	pig	0.4245	198 m^3
+1	1057 mph	0.6108 kg/s	Riverside	Ferret	0.7414 m^2	642	0.5739	0.5356	624 kg/s	guinea pig	0.2508	569 m^3
+0	92 mph	0.3868 kg/s	San Jose	RABBIT	0.9348 m^2	936	0.5815	0.492	N/A	hamster	1.1634	-50 m^3
+5	-84 mph	1.0416 kg/s	Long Beach	hamster	0.1154 m^2	189	0.9078	0.9066	1035 kg/s	cat	0.8782	891 m^3
+3	316 mph	0.5035 kg/s	Fremont	dog	0.5319 m^2	911	-0.018	0.1007	691 kg/s	rat	0.2066	752 m^3
+0	280 mph	0.2463 kg/s	San Jose	rabbit	0.8408 m^2	796	0.5677	0.4727	399 kg/s	hamster	1.0167	30 m^3
+3	298 mph	0.5058 kg/s	San Francisco	pig, fish	0.4996 m^2	1069	0.0243	0.0848	1017 kg/s	bird	-0.007	848 m^3
+1	1174 mph	0.2133 kg/s	Riverside	ferret	0.9028 m^2	573	0.6252	0.3476	635 kg/s	guinea pig	0.0324	431 m^3
+4	709 mph	0.6641 kg/s	Stockton	chicken	0.5756 m^2	574	0.3501	0.2941	176 kg/s	ferret	0.6125	403 m^3
+0	270 mph	0.2858 kg/s	San Jose	rabbit	0.9498 m^2	749	0.7321	0.558	46 kg/s	hamster	1.0926	258 m^3
+0	237 mph	0.4205 kg/s	San Jose	rabbit	0.9296 m^2	925	0.6342	0.3927	63 kg/s	reptile	0.7047	70 m^3
+0	155 mph	0.2312 kg/s	San Jose	rabbit	0.8878 m^2	438	0.8	0.592	358 kg/s	hamster	1.0147	144 m^3
+5	188 mph	0.9101 kg/s	Oakland	hamster	-0.0146 m^2	-64	0.8847	0.8553	660 kg/s	cat	0.7355	831 m^3
+4	478 mph	0.5283 kg/s	Santa Clarita	chicken	0.6289 m^2	430	0.5296	0.4805	326 kg/s	ferret	0.3841	412 m^3
+4	546 mph	0.8565 kg/s	Santa Clarita	chicken	0.5449 m^2	311	0.4846	0.5566	673 kg/s	ferret	0.4791	113 m^3
+2	861 mph	0.1829 kg/s	Sacramento	bird	0.3622 m^2	103	0.2048	0.7671	314 kg/s	fish	0.3573	691 m^3
+3	213 mph	0.5646 kg/s	Fremont	pig	0.4136 m^2	789	-0.0179	0.092	669 kg/s	bird	0.3812	933 m^3
+3	352 mph	0.6949 kg/s	San Francisco	dog, fish	0.673 m^2	1017	0.2786	0.239	837 kg/s	bird	0.2807	771 m^3
+1	928 mph	0.2152 kg/s	Riverside	FERRET	0.893 m^2	249	0.4806	0.6182	347 kg/s	guinea pig	0.366	271 m^3
+1	810 mph	0.0968 kg/s	Riverside	ferret	0.6424 m^2	818	0.4685	0.3569	697 kg/s	guinea pig	0.2824	567 m^3
+5	-122 mph	1.0818 kg/s	Sacramento	hamster	0.2851 m^2	-53	0.787	0.6621	588 kg/s	chicken	0.7147	599 m^3
+2	688 mph	0.0648 kg/s	San Diego	reptile	0.2299 m^2	-6	0.4316	1.0406	280 kg/s	fish	0.4186	427 m^3
+1	990 mph	0.2987 kg/s	Anaheim	ferret	0.9892 m^2	682	0.5483	0.4909	656 kg/s	guinea pig	0.1892	464 m^3
+4	548 mph	0.8756 kg/s	Santa Clarita	cat	0.4279 m^2	494	0.1712	0.1888	471 kg/s	ferret	0.6265	309 m^3
+5	-12 mph	0.8208 kg/s	Oakland	rat	0.1104 m^2	-244	0.838	0.966	397 kg/s	rabbit	0.7454	795 m^3
+1	1063 mph	0.3227 kg/s	Anaheim	ferret	0.8698 m^2	656	0.6686	0.5006	670 kg/s	guinea pig	0.2431	393 m^3
+4	603 mph	0.7999 kg/s	Moreno Valley	cat	0.3909 m^2	758	0.5778	0.4018	342 kg/s	pig	0.745	388 m^3
+2	970 mph	-0.103 kg/s	San Jose	bird	0.4606 m^2	111	0.3848	0.9298	394 kg/s	fish	0.4936	651 m^3
+3	479 mph	0.456 kg/s	Fremont	pig	0.7079 m^2	1081	0.0125	0.0967	1003 kg/s	bird	0.0881	1034 m^3
+1	967 mph	0.3021 kg/s	San Jose	ferret	0.709 m^2	725	0.3773	0.1882	727 kg/s	guinea pig	0.0462	366 m^3
+5	94 mph	0.8725 kg/s	Long Beach	rat	0.086 m^2	88	0.8139	0.752	940 kg/s	chicken	0.9996	671 m^3
+3	452 mph	0.5937 kg/s	San Francisco	dog	0.6666 m^2	1194	0.2901	0.1055	1104 kg/s	rat	0.2038	665 m^3
+5	-167 mph	0.9823 kg/s	Long Beach	rat	0.3185 m^2	59	0.9943	0.6606	589 kg/s	rabbit	0.6553	980 m^3
+2	850 mph	-0.1519 kg/s	Fresno	bird	0.2428 m^2	420	0.24	0.9678	143 kg/s	fish	0.4764	823 m^3
+0	494 mph	0.231 kg/s	San Jose	GUINEA PIG	1.0233 m^2	639	0.629	0.6586	299 kg/s	hamster	1.0197	264 m^3
+4	694 mph	0.8244 kg/s	Chula Vista	chicken	0.6349 m^2	639	0.3676	0.1165	421 kg/s	ferret	0.5306	287 m^3
+1	876 mph	0.3012 kg/s	NULL	ferret	1.0363 m^2	572	0.6972	0.6584	494 kg/s	guinea pig	0.1872	323 m^3
+1	1004 mph	0.3094 kg/s	Riverside	ferret	0.8528 m^2	888	0.4471	0.4015	768 kg/s	ferret	0.1719	401 m^3
+0	154 mph	0.2955 kg/s	San Jose	rabbit	0.6521 m^2	670	0.8627	0.5338	150 kg/s	reptile	0.7229	86 m^3
+5	193 mph	0.7664 kg/s	Oakland	rat	0.0823 m^2	71	0.7759	0.5696	647 kg/s	chicken	0.5151	617 m^3
+2	675 mph	0.0622 kg/s	Fresno	reptile	0.5024 m^2	78	0.0922	0.8939	705 kg/s	fish	0.4562	605 m^3
+1	818 mph	0.3068 kg/s	Irvine	ferret	0.5893 m^2	760	0.5927	0.5452	679 kg/s	guinea pig	0.0422	306 m^3
+3	339 mph	0.6141 kg/s	San Bernardino	dog, fish	0.7858 m^2	868	-0.0893	-0.0427	1038 kg/s	rat	0.1364	1024 m^3
+4	465 mph	0.7177 kg/s	Bakersfield	cat	0.3449 m^2	621	0.4145	0.3307	271 kg/s	pig	0.695	389 m^3
+0	207 mph	0.3682 kg/s	San Jose	guinea pig	0.9037 m^2	807	0.5647	?	262 kg/s	HAMSTER	0.8184	147 m^3
+2	762 mph	0.0804 kg/s	Los Angeles	bird	0.346 m^2	439	0.1577	0.9584	403 kg/s	fish	0.3058	792 m^3
+0	192 mph	0.3608 kg/s	San Jose	guinea pig	1.0342 m^2	707	0.7549	0.6045	201 kg/s	reptile	1.2343	-25 m^3
+1	964 mph	0.4122 kg/s	Irvine	ferret	0.7182 m^2	543	0.7715	0.5145	645 kg/s	guinea pig	0.2532	509 m^3
+5	99 mph	0.6477 kg/s	Oakland	hamster	0.0968 m^2	-145	0.9163	0.7669	995 kg/s	chicken	0.8829	792 m^3
+4	444 mph	0.7757 kg/s	Moreno Valley	chicken	0.6847 m^2	314	0.1798	0.0508	494 kg/s	pig	0.7738	582 m^3
+0	260 mph	0.2887 kg/s	Long Beach	Rabbit	0.8738 m^2	638	0.5632	0.7296	304 kg/s	reptile	0.6146	276 m^3
+5	194 mph	0.6752 kg/s	Oakland	rat	0.1947 m^2	-171		1.0778	843 kg/s	chicken	0.6765	873 m^3
+5	51 mph	0.9557 kg/s	Long Beach	hamster	0.1517 m^2	-107	0.8272	0.8843	770 kg/s	chicken	0.8574	902 m^3
+3	495 mph	0.6682 kg/s	San Francisco	pig	0.8816 m^2	1132	0.1143	-0.1305	969 kg/s	bird	0.3545	912 m^3
+4	591 mph	0.6768 kg/s	Modesto	cat	0.6633 m^2	646	0.5206	0.3538	376 kg/s	pig	0.5133	316 m^3
+3	328 mph	0.3834 kg/s	Fremont	pig	0.6778 m^2	970	-0.1299	0.0818	628 kg/s	bird	0.319	1066 m^3
+2	463 mph	0.1166 kg/s	Los Angeles	bird	0.314 m^2	272	0.3702	0.9811	356 kg/s	fish	0.4663	717 m^3
+2	484 mph	0.2301 kg/s	Modesto	ferret	0.2682 m^2	184	0.2588	1.0745	590 kg/s	dog	0.4929	738 m^3
+4	738 mph	0.5254 kg/s	Santa Ana	cat	0.3282 m^2	772	0.4357	0.3164	375 kg/s	pig	0.4364	338 m^3
+5	201 mph	0.9908 kg/s	Long Beach	hamster	-0.0306 m^2	135	0.5946	0.8027	710 kg/s	cat	0.6229	797 m^3
+2	697 mph	0.1009 kg/s	Modesto	Bird	0.5199 m^2	367	0.2212	0.9467	560 kg/s	dog	0.5318	890 m^3
+2	798 mph	0.0982 kg/s	Los Angeles	bird	0.5785 m^2	149	0.1895	1.0742	388 kg/s	dog	0.4959	805 m^3
+0	108 mph	0.3947 kg/s	San Jose	rabbit	0.886 m^2	570	0.8584	0.6226	148 kg/s	hamster	0.8258	85 m^3
+4	667 mph	0.5798 kg/s	Irvine	cat	0.6863 m^2	467	0.4474	0.2378	222 kg/s	ferret	0.5464	235 m^3
+0	-50 mph	0.1484 kg/s	San Jose	rabbit	0.8434 m^2	804	0.6521	0.4606	230 kg/s		0.8861	70 m^3
+4	335 mph	0.5769 kg/s	Bakersfield	cat	0.5544 m^2	557	0.3186	0.2559	205 kg/s	ferret	0.3913	282 m^3
+0	284 mph	0.3592 kg/s	San Jose	guinea pig	0.8971 m^2	814	0.5851	0.5648	278 kg/s	reptile	1.0336	18 m^3
+3	311 mph	0.321 kg/s	Fremont	pig, dog	0.7551 m^2	879	-0.0831	0.1019	817 kg/s	bird	0.3211	1128 m^3
+5	-47 mph	0.9069 kg/s	lONG bEACH	rat	0.2441 m^2	-143	0.7457	0.7744	736 kg/s	rabbit	0.6758	587 m^3
+5	1 mph	0.7625 kg/s	Oakland	hamster	0.1388 m^2	152	1.166	0.989	957 kg/s	cat	0.8563	888 m^3
+5	68 mph	0.7317 kg/s	Oakland	rat	0.0684 m^2	-148	0.9531	0.829	630 kg/s	rabbit	0.6752	678 m^3
+1	729 mph	0.4139 kg/s	Oakland	ferret	0.6529 m^2	531	0.4779	0.3711	816 kg/s	guinea pig	0.206	368 m^3
+0	302 mph	0.2761 kg/s	San Jose	guinea pig	1.0851 m^2	933	0.5047	0.34	175 kg/s	reptile	0.8425	184 m^3
+4	447 mph	0.6652 kg/s	Bakersfield	chicken	0.568 m^2	538	0.3637	0.4239	347 kg/s	ferret	0.6983	215 m^3
+1	939 mph	0.4566 kg/s	Riverside	ferret	0.691 m^2	671	0.7358	0.4894	277 kg/s	guinea pig	0.3481	321 m^3
+3	146 mph	0.4685 kg/s	San Francisco	pig, fish	0.5789 m^2	1244	-0.0439	0.2584	925 kg/s	bird	0.0304	1186 m^3
+4	506 mph	0.4445 kg/s	Bakersfield	chicken	0.1236 m^2	495	0.249	0.414	114 kg/s	pig	0.6221	480 m^3
+4	924 mph	n/a	Stockton	cat	0.3389 m^2	237	0.3061	0.3877	632 kg/s	ferret	0.6336	269 m^3
+3	361 mph	0.5545 kg/s	San Francisco	dog, fish	0.7348 m^2	1153	0.0542	0.1294	522 kg/s	rat	-0.0268	1005 m^3
+0	248 mph	0.2085 kg/s	San Jose	guinea pig	1.074 m^2	320	0.8364	0.4575	267 kg/s	hamster	0.8767	-4 m^3
+5	250 mph	0.9923 kg/s	Long Beach	rat	-0.0208 m^2	253	0.9061	1.0648	722 kg/s	chicken	0.6822	738 m^3
+5	128 mph	0.8019 kg/s	Long Beach	rat	0.0084 m^2	-75	0.9912	0.8957	742 kg/s	rabbit	0.568	730 m^3
+2	542 mph	0.0264 kg/s	San Diego	bird	0.2359 m^2	64	0.2037	1.0906	437 kg/s	dog	0.5012	571 m^3
+4	751 mph	0.7064 kg/s	Moreno Valley	cat	0.5207 m^2	574	0.5669	0.3194	43 kg/s	ferret	0.5025	236 m^3
+5	136 mph	0.789 kg/s	Long Beach	rat	0.2527 m^2	-202	1.0646	0.9887	663 kg/s	cat	0.6869	901 m^3
+4	519 mph	0.7211 kg/s	Modesto	cat	0.8134 m^2	482	0.3568	0.2359	251 kg/s	ferret	NULL	295 m^3
+4	587 mph	0.6739 kg/s	Oakland	cat	0.4109 m^2	404	0.4426	0.4179	92 kg/s	ferret	0.4404	157 m^3
+1	1159 mph	0.3628 kg/s	Anaheim	ferret	0.8839 m^2	362	0.5148	0.6229	504 kg/s	guinea pig	0.161	405 m^3
+1	1076 mph	0.2717 kg/s	Irvine	ferret	0.8476 m^2	531	0.8848	0.3298	547 kg/s	guinea pig	-0.1898	356 m^3
+2	598 mph	-0.1459 kg/s	Santa Ana	reptile	0.4863 m^2	189	0.2063	1.0565	431 kg/s	dog	0.5027	945 m^3
+2	795 mph	-0.1037 kg/s	Modesto	bird	0.2351 m^2	284	0.1975	0.9913	144 kg/s	dog	0.6009	533 m^3
+4	511 mph	0.7377 kg/s	Long Beach	chicken	0.5387 m^2	577	0.7275	0.2529	392 kg/s	cat	0.617	628 m^3
+4	447 mph	0.8354 kg/s	San Bernardino	chicken	0.4276 m^2	232	0.372	0.2426	309 kg/s	pig	0.7618	327 m^3
+0	46 mph	0.2962 kg/s	San Jose	guinea pig	0.9176 m^2	NULL	0.6327	0.8496	333 kg/s	hamster	0.8833	-81 m^3
+2	663 mph	-0.0011 kg/s	Santa Ana	bird	0.2933 m^2	369	0.203	0.8425	222 kg/s	FISH	0.2913	548 m^3
+5	-1 mph	1.0246 kg/s	Oakland	rat	0.0887 m^2	225	0.7415	0.8787	750 kg/s	cat	0.7999	844 m^3
+2	748 mph	-0.1076 kg/s	Fremont	REPTILE	0.3168 m^2	11	0.0864	1.0568	299 kg/s	fish	0.3285	611 m^3
+5	63 mph	1.0041 kg/s	Oakland	rat	0.0628 m^2	-267	0.669	0.545	978 kg/s	rabbit	0.7748	550 m^3
+1	1002 mph	0.4285 kg/s	Anaheim	ferret	0.7823 m^2	464	0.6426	0.4376	424 kg/s	guinea pig	0.2512	444 m^3
+0	116 mph	0.1451 kg/s	San Jose	rabbit	0.9023 m^2	969	0.4997	0.623	58 kg/s	Reptile	0.8943	-41 m^3
+1	853 mph	0.2562 kg/s	Irvine	ferret	0.7978 m^2	396	0.6972	0.2984	564 kg/s	guinea pig	-0.0341	480 m^3
+0	330 mph	0.2372 kg/s	San Jose	rabbit	0.9933 m^2	521	0.5648	0.7055	-45 kg/s	reptile	0.9864	202 m^3
+3	371 mph	0.457 kg/s	San Francisco	fish	0.7489 m^2	882	0.0488	0.1925	789 kg/s	bird	0.2254	958 m^3
+5	198 mph	0.8837 kg/s	Oakland	hamster	0.1087 m^2	-72	0.9934	0.7707	445 kg/s	rabbit	0.7713	739 m^3
+5	91 mph	1.0339 kg/s	Fremont	rat	0.0385 m^2	181	1.06	0.8847	699 kg/s	rabbit	0.7453	920 m^3
+1	939 mph	0.4831 kg/s	Irvine	ferret	0.7135 m^2	514	0.8958	0.5706	592 kg/s	guinea pig	0.0671	142 m^3
+5	229 mph	1.0962 kg/s	LONG BEACH	rat	0.3453 m^2	32	0.774	0.7799	913 kg/s	rabbit	0.8055	870 m^3
+5	80 mph	0.8808 kg/s	Oakland	hamster	0.164 m^2	-75	0.5342	0.7784	740 kg/s	cat	0.6228	744 m^3
+5	47 mph	0.7248 kg/s	Long Beach	rat	0.2479 m^2	115	1.0284	None	712 kg/s	rabbit	0.7568	906 m^3
+2	605 mph	-0.1078 kg/s	Sacramento	reptile	0.2866 m^2	314	0.3222	1.0334	-63 kg/s	dog	0.1913	639 m^3
+0	159 mph	0.2931 kg/s	San Jose	rabbit	0.8585 m^2	795	0.9592	0.644	148 kg/s	reptile	0.7809	161 m^3
+3	477 mph	0.6125 kg/s	San Francisco	pig	1.0035 m^2	990	0.3314	0.0541	888 kg/s	bird	0.3857	1198 m^3
+0	149 mph	0.3837 kg/s	San Jose	guinea pig	0.8927 m^2	850	0.8227	0.6158	73 kg/s	hamster	0.8805	30 m^3
+0	89 mph	0.4118 kg/s	San Jose	guinea pig	0.8384 m^2	372	0.4126	0.6309	135 kg/s	hamster	0.9092	-57 m^3
+0	340 mph	0.3712 kg/s	San Jose	rabbit	1.0405 m^2	750	0.9622	0.473	47 kg/s	reptile	1.0191	247 m^3
+3	466 mph	0.4515 kg/s	San Francisco	pig, fish	0.6259 m^2	1182	0.0267	0.2131	812 kg/s	bird	0.2033	942 m^3
+3	NULL	0.6073 kg/s	San Francisco	dog	0.6177 m^2	994	0.007	0.3315	727 kg/s	rat	0.0782	955 m^3
+3	485 mph	0.5208 kg/s	San Francisco	cat	0.7029 m^2	920	0.2339	0.1402	1086 kg/s	rat	0.261	786 m^3
+5	116 mph	1.0032 kg/s	Long Beach	rat	0.0624 m^2	191	0.7118	0.9749	464 kg/s	cat	0.9199	589 m^3
+5	51 mph	0.9035 kg/s	Oakland	rat	0.0211 m^2	-47	0.6771	0.7921	931 kg/s	chicken	0.9134	790 m^3
+1	813 mph	0.3013 kg/s	Riverside	ferret	0.9698 m^2	610	0.4357	None	741 kg/s	guinea pig	0.2981	114 m^3
+2	647 mph	0.105 kg/s	sAN jOSE	reptile	0.1288 m^2	100	0.0482	1.0436	315 kg/s	rat	0.2758	713 m^3
+0	151 mph	0.3927 kg/s	San Jose	rabbit	1.0503 m^2	765	0.8118	0.3376	375 kg/s	reptile	0.7305	23 m^3
+0	282 mph	0.2254 kg/s	SAN JOSE	guinea pig	0.7647 m^2	816	0.7975	0.9012	175 kg/s	hamster	0.954	25 m^3
+3	238 mph	0.4681 kg/s	San Francisco	pig, fish	0.7401 m^2	1095	0.2349	0.1668	860 kg/s	hamster	0.1637	1141 m^3
+0	145 mph	0.2321 kg/s	San Jose	guinea pig	1.0775 m^2	836	n/a	0.5607	254 kg/s	reptile	0.9527	13 m^3
+3	444 mph	0.6341 kg/s	San Francisco	fish	0.7532 m^2	933	-0.1989	0.284	1009 kg/s	n/a	0.2988	1041 m^3
+1	1026 mph	0.5012 kg/s	San Jose	ferret	0.8423 m^2	465	0.5898	0.4838	261 kg/s	guinea pig	0.1916	326 m^3
+2	872 mph	0.3001 kg/s	San Diego	bird	0.0121 m^2	356	0.274	1.0888	678 kg/s	dog	0.5987	612 m^3
+1	1063 mph	0.3851 kg/s	Irvine	ferret	0.8163 m^2	660	0.3527	0.4974	NULL	guinea pig	0.0026	411 m^3
+5	200 mph	0.6164 kg/s	Oakland	hamster	0.0782 m^2	-49	0.7199	0.8827	533 kg/s	chicken	0.9638	619 m^3
+4	692 mph	0.8365 kg/s	Santa Clarita	cat	0.4668 m^2	368	0.425	0.2267	135 kg/s	ferret	0.5365	94 m^3
+1	813 mph	0.3105 kg/s	Riverside	ferret	0.5742 m^2	588	0.6888	0.3658	485 kg/s	guinea pig	-0.1268	427 m^3
+2	NULL	0.2675 kg/s	Sacramento	rat	0.1772 m^2	253	0.5649	1.1991	236 kg/s	dog	0.3943	659 m^3
+5	81 mph	0.8187 kg/s	San Jose	rat	0.1496 m^2	-207	0.8015	0.7867	564 kg/s	rabbit	0.9534	832 m^3
+3	597 mph	0.5142 kg/s	Fremont	DOG	0.749 m^2	679	0.0082	0.13	597 kg/s	rat	0.0766	989 m^3
+3	234 mph	0.5646 kg/s	San Francisco	dog, fish	0.4262 m^2	949	0.1775	0.0554	1095 kg/s	bird	0.1782	1134 m^3
+0	263 mph	0.2937 kg/s	San Jose	guinea pig	0.8481 m^2	697	0.7766	0.6696	27 kg/s	hamster	0.8062	-191 m^3
+3	515 mph	0.4904 kg/s	Modesto	fish	0.689 m^2	1017	0.6104	-0.0823	619 kg/s	bird	0.2714	929 m^3
+3	240 mph	0.5068 kg/s	San Jose	dog, pig	0.6001 m^2	1148	0.1614	0.2131	674 kg/s	BIRD	0.1728	977 m^3
+3	252 mph	0.6304 kg/s	San Francisco	fish	0.5087 m^2	1176	0.1954	0.146	1008 kg/s	rat	0.1393	857 m^3
+3	238 mph	0.4323 kg/s	Fremont	dog, pig	0.6561 m^2	1065	0.1119	None	760 kg/s	rat	0.3984	999 m^3
+1	1082 mph	0.151 kg/s	Irvine	ferret	0.8973 m^2	217	0.7321	0.2244	565 kg/s	guinea pig	0.1969	331 m^3
+1	1070 mph	0.2043 kg/s	Anaheim	ferret	0.8119 m^2	509	0.7759	0.6134	600 kg/s	guinea pig	-0.0429	183 m^3
+1	861 mph	0.2852 kg/s	Irvine	ferret	0.8936 m^2	505	0.7041	0.5212	289 kg/s	guinea pig	0.4198	463 m^3
+0	5 mph	0.4192 kg/s	San Jose	guinea pig	1.053 m^2	770	0.7216	0.713	426 kg/s	reptile	0.9113	15 m^3
+3	422 mph	0.6053 kg/s	San Francisco	fish	0.7591 m^2	1076	0.1788	-0.0185	983 kg/s	rat	0.1704	781 m^3
+2	479 mph	0.1879 kg/s	mODESTO	ferret	0.3302 m^2	242	0.4167	0.8926	408 kg/s	fish	0.5617	818 m^3
+5	128 mph	1.0675 kg/s	LONG BEACH	hamster	0.251 m^2	50	0.9139	0.5438	1020 kg/s	chicken	0.4278	913 m^3
+5	59 mph	1.011 kg/s	Long Beach	hamster	0.0659 m^2	0	1.0104	0.8926	829 kg/s	chicken	0.8189	n/a
+5	46 mph	0.8241 kg/s	Oakland	hamster	0.4832 m^2	42	0.9306	0.8757	721 kg/s	cat	0.8234	685 m^3
+5	46 mph	0.9502 kg/s	Sacramento	rat	-0.0074 m^2	178	0.8905	0.6897	732 kg/s	chicken	0.7455	853 m^3
+1	1004 mph	0.3028 kg/s	Riverside	ferret	0.7394 m^2	579	0.3165	0.1923	679 kg/s	guinea pig	0.2738	398 m^3
+4	883 mph	0.7008 kg/s	Chula Vista	cat	0.5702 m^2	447	0.639	0.4148	69 kg/s	Ferret	0.5311	320 m^3
+4	759 mph	0.6273 kg/s	San Bernardino	CAT	0.4987 m^2	486	0.1373	0.3898	267 kg/s	pig	0.6591	213 m^3
+1	949 mph	0.3295 kg/s	IRVINE	ferret	0.9856 m^2	596	0.562	0.2869	746 kg/s	guinea pig	0.2606	438 m^3
+4	674 mph	0.7179 kg/s	Moreno Valley	chicken	0.4333 m^2	387	0.4883	0.301	357 kg/s	ferret	0.6204	490 m^3
+1	827 mph	0.3379 kg/s	Los Angeles	ferret	1.0389 m^2	496	0.691	0.203	775 kg/s	guinea pig	0.2057	301 m^3
+3	408 mph	0.736 kg/s	Fremont	dog, fish	0.6494 m^2	902	0.0078	0.3358	808 kg/s	bird	0.2626	954 m^3
+3	362 mph	0.4997 kg/s	San Francisco	fish	0.7471 m^2	998	-0.0632	0.1513	1037 kg/s	rat	0.1942	967 m^3
+2	811 mph	-0.2188 kg/s	Fresno	bird	0.2869 m^2	-7	0.7787	1.104	213 kg/s	fish	0.7086	645 m^3
+1	876 mph	0.4837 kg/s	Anaheim	ferret	0.5046 m^2	508	0.8507	0.5447	589 kg/s	pig	0.206	440 m^3
+1	812 mph	0.4433 kg/s	Anaheim	ferret	0.8492 m^2	481	0.5126	0.2962	471 kg/s	guinea pig	0.0156	151 m^3
+2	764 mph	0.2127 kg/s	Sacramento	reptile	0.1881 m^2	134	0.1256	0.7072	437 kg/s	pig	0.589	625 m^3
+3	278 mph	0.7151 kg/s	San Francisco	pig, fish	0.7701 m^2	942	0.2805	0.2037	971 kg/s	rat	0.2798	790 m^3
+0	253 mph	None	San Jose	rabbit	0.9968 m^2	912	0.9563	0.497	-102 kg/s	reptile	0.9336	250 m^3
+0	250 mph	0.2074 kg/s	SAN JOSE	rabbit	0.9093 m^2	587	0.2705	0.6367	350 kg/s	hamster	1.0831	268 m^3
+2	423 mph	0.1498 kg/s	Santa Ana	bird	0.2066 m^2	209	0.2802	0.9207	179 kg/s	chicken	0.5437	718 m^3
+5	36 mph	0.7974 kg/s	Oakland	rat	-0.1422 m^2	34	0.8721	0.7893	610 kg/s	rabbit	0.4659	675 m^3
+2	605 mph	0.0692 kg/s	Fresno	bird	0.5267 m^2	277	0.1728	0.9541	81 kg/s	fish	0.3874	544 m^3
+1	845 mph	0.4185 kg/s	Anaheim	ferret	0.8707 m^2	613	0.6322	0.4239	479 kg/s	guinea pig	0.0972	273 m^3
+0	368 mph	0.3416 kg/s	Fremont	guinea pig	0.9092 m^2	772	0.6173	0.6803	152 kg/s	hamster	0.9449	16 m^3
+4	695 mph	0.8176 kg/s	Santa Clarita	chicken	0.7742 m^2	525	0.2119	0.4248	207 kg/s	ferret	0.7675	263 m^3
+5	-96 mph	0.8063 kg/s	Long Beach	hamster	-0.0023 m^2	163	0.7933	0.9031	938 kg/s	cat	0.691	761 m^3
+1	933 mph	0.1676 kg/s	Sacramento	ferret	0.6759 m^2	468	0.6239	0.4529	718 kg/s	guinea pig	0.3314	379 m^3
+2	615 mph	0.1449 kg/s	Modesto	bird	0.4331 m^2	39	0.4328	0.9001	137 kg/s	dog	0.3642	644 m^3
+5	-31 mph	0.7615 kg/s	Long Beach	hamster	-0.0108 m^2	167	0.7873	0.6273	786 kg/s	cat	1.0107	679 m^3
+3	277 mph	0.4291 kg/s	San Francisco	hamster	0.8059 m^2	1124	0.1849	-0.1177	905 kg/s	rat	0.044	1096 m^3
+3	52 mph	0.5974 kg/s	San Francisco	pig	0.6677 m^2	1000	0.0122	0.0717	762 kg/s	rat	0.3025	921 m^3
+0	158 mph	0.3402 kg/s	San Jose	rabbit	1.0051 m^2	612	0.6625	0.7172	352 kg/s	hamster	0.7862	64 m^3
+3	402 mph	0.4188 kg/s	San Francisco	fish	0.6383 m^2	1044	0.0064	-0.0462	898 kg/s		0.1175	1154 m^3
+2	431 mph	0.2328 kg/s	Sacramento	bird	0.221 m^2	-16	0.1032	0.9905	374 kg/s	fish	0.3893	610 m^3
+1	1110 mph	0.2557 kg/s	Irvine	ferret	0.4954 m^2	754	0.837	0.4996	485 kg/s	guinea pig	0.1234	413 m^3
+0	275 mph	0.31 kg/s	San Jose	rabbit	0.9943 m^2	780	0.4882	0.7049	220 kg/s	reptile	0.7808	81 m^3
+2	858 mph	0.2523 kg/s	sacramento	bird	0.2928 m^2	258	0.3537	0.9378	299 kg/s	bird	NULL	661 m^3
+1	1211 mph	0.3107 kg/s	Anaheim	ferret	0.7446 m^2	696	0.8152	0.603	707 kg/s	guinea pig	0.1533	585 m^3
+2	815 mph	0.025 kg/s	Sacramento	reptile	0.6252 m^2	406	0.5	1.0157	395 kg/s	dog	0.4661	756 m^3
+3	246 mph	0.4343 kg/s	San Francisco	dog, pig	0.4847 m^2	1253		0.0606	626 kg/s	rat	0.0314	None
+2	661 mph	0.0303 kg/s	San Diego	bird	0.3806 m^2	74	0.1252	0.979	553 kg/s	dog	0.6703	958 m^3
+0	339 mph	0.0339 kg/s	San Jose	rabbit	0.9189 m^2	782	0.7452	0.6242	-122 kg/s	REPTILE	0.6679	99 m^3
+3	235 mph	0.5256 kg/s	San Francisco	dog, fish	0.6604 m^2	1022	0.1618	0.1306	787 kg/s	BIRD	0.2618	984 m^3
+4	617 mph	0.8179 kg/s	Bakersfield	CAT	0.5447 m^2	608	-0.056	0.1187	391 kg/s	ferret	0.8344	520 m^3
+1	997 mph	0.332 kg/s	Riverside	ferret	0.7196 m^2	576	0.924	0.4499	749 kg/s	guinea pig	0.2441	184 m^3
+1	1013 mph	0.3939 kg/s	San Francisco	pig, fish	0.7236 m^2	512	0.7588	0.5646	688 kg/s	guinea pig	0.2336	325 m^3
+0	326 mph	0.5533 kg/s	san jose	rabbit	0.8065 m^2	574	0.7963	0.4146	211 kg/s	hamster	0.6759	28 m^3
+1	1068 mph	0.3036 kg/s	Riverside	FERRET	0.6118 m^2	522	0.4342	0.4905	474 kg/s	guinea pig	-0.0135	373 m^3
+5	-74 mph	0.7563 kg/s	Oakland	rat	0.1507 m^2	-102	1.0387	0.7454	1048 kg/s	rabbit	0.6713	756 m^3
+5	112 mph	0.8853 kg/s	Long Beach	hamster	-0.1623 m^2	131	1.1793	0.7423	654 kg/s	chicken	0.9363	804 m^3
+5	174 mph	0.9778 kg/s	Oakland	rat	0.2096 m^2	-90	0.6377	0.651	929 kg/s	chicken	0.8366	699 m^3
+1	869 mph	0.2318 kg/s	Anaheim	ferret	0.7964 m^2	377	0.9125	0.3523	669 kg/s	guinea pig	0.0343	461 m^3
+1	989 mph	0.3835 kg/s	Anaheim	ferret	0.6767 m^2	645	0.562	0.1996	574 kg/s	guinea pig	0.0735	409 m^3
+5	217 mph	0.7272 kg/s	Oakland	rat	0.233 m^2	-36	0.734	0.9566	1019 kg/s	chicken	0.5779	813 m^3
+1	1272 mph	0.2488 kg/s	Anaheim	ferret	0.8683 m^2	744	0.5548	0.4337	671 kg/s	guinea pig	0.1524	551 m^3
+1	762 mph	0.5166 kg/s	San Bernardino	ferret	0.754 m^2	630	0.5622	0.245	457 kg/s	guinea pig	0.1085	477 m^3
+3	423 mph	0.5011 kg/s	San Francisco	dog	0.4183 m^2	855	0.0306	0.0937	845 kg/s	rabbit	0.3762	839 m^3
+5	233 mph	0.8025 kg/s	Oakland	rat	0.199 m^2	40	0.9092	0.8808	733 kg/s	cat	0.886	771 m^3
+1	1003 mph	0.3589 kg/s	Irvine	ferret	0.7554 m^2	262	0.4813	0.4892	644 kg/s	bird	-0.0382	392 m^3
+0	279 mph	0.4774 kg/s	San Jose	rabbit	1.0418 m^2	666	0.9564	0.5082	-44 kg/s	reptile	0.8281	10 m^3
+1	848 mph	0.1838 kg/s	Anaheim	ferret	0.736 m^2	560	0.6321	0.5048	681 kg/s	guinea pig	-0.077	435 m^3
+2	800 mph	-0.0192 kg/s	San Diego	reptile	0.3897 m^2	-23	0.2483	0.835	246 kg/s	DOG	0.422	917 m^3
+4	760 mph	0.4517 kg/s	San Bernardino	cat	0.4303 m^2	319	0.4697	0.2298	483 kg/s	pig	0.6942	280 m^3
+5	201 mph	1.0837 kg/s	Long Beach	rat	0.1314 m^2	316	0.8748	0.7901	718 kg/s	RABBIT	0.7321	701 m^3
+4	650 mph	0.7316 kg/s	Stockton	cat	0.3649 m^2	427	0.4823	0.3188	294 kg/s	pig	0.591	298 m^3
+4	715 mph	0.4523 kg/s	San Bernardino	chicken	0.3506 m^2	676	0.6	0.3497	257 kg/s	ferret	0.5137	458 m^3
+5	64 mph	0.8632 kg/s	Oakland	rat	-0.0767 m^2	180	0.8961	0.7616	970 kg/s	cat	0.7211	704 m^3
+3	160 mph	0.7418 kg/s	Fremont	dog, fish	0.6736 m^2	1161	0.378	0.2033	763 kg/s	rat	0.0438	827 m^3
+0	263 mph	0.379 kg/s	San Jose	rabbit	1.1784 m^2	742	0.663	0.5603	135 kg/s	hamster	1.0066	130 m^3
+2	656 mph	-0.0446 kg/s	San Diego	REPTILE	0.5791 m^2	562	0.1562	0.8849	204 kg/s	dog	0.5519	940 m^3
+1	1046 mph	0.2799 kg/s	Irvine	ferret	0.577 m^2	659	0.6253	0.464	777 kg/s	guinea pig	0.0534	308 m^3
+1	930 mph	0.31 kg/s	Riverside	ferret	0.8354 m^2	719	0.7187	0.4102	574 kg/s	guinea pig	0.0988	258 m^3
+3	237 mph	0.3683 kg/s	Fremont	dog, pig	0.6986 m^2	1229	-0.1112	0.4616	907 kg/s	rat	0.4631	898 m^3
+4	659 mph	0.6375 kg/s	Stockton	cat	0.3712 m^2	275	0.3314	0.1595	335 kg/s	chicken	0.5199	458 m^3
+5	NULL	0.8772 kg/s	Long Beach	hamster	0.095 m^2	-127	0.7427	1.0741	725 kg/s	CAT	0.9088	711 m^3
+4	461 mph	0.6491 kg/s	Fresno	cat	0.6812 m^2	655	0.5173	0.1911	438 kg/s	ferret	0.7357	242 m^3
+2	672 mph	0.2177 kg/s	San Diego	reptile	0.355 m^2	?	0.1404	1.0215	429 kg/s	fish	0.3977	865 m^3
+1	912 mph	0.1291 kg/s	San Jose	ferret	0.7499 m^2	395	0.5578	0.2716	871 kg/s	guinea pig	0.3303	421 m^3
+1	947 mph	0.5175 kg/s	Irvine	ferret	0.5518 m^2	305	0.5637	0.3721	692 kg/s	guinea pig	-0.0467	269 m^3
+4	721 mph	0.7522 kg/s	Stockton	cat	0.4606 m^2	671	0.3218	0.3155	443 kg/s	pig	0.8325	367 m^3
+3	329 mph	0.5554 kg/s	Santa Ana	fish, pig	0.8649 m^2	1063	-0.1252	0.0847	978 kg/s	rat	0.0789	919 m^3
+3	176 mph	0.5931 kg/s	San Francisco	pig, dog	0.3482 m^2	1182	0.303	0.2372	825 kg/s	bird	0.2276	948 m^3
+3	262 mph	0.5269 kg/s	Fremont	fish, dog	0.6299 m^2	840	-0.2462	0.1536	769 kg/s	rat	0.1647	1059 m^3
+5	40 mph	1.2439 kg/s	Oakland	rat	-0.1267 m^2	143	1.2834	0.8122	659 kg/s	cat	0.7577	834 m^3
+3	382 mph	0.3527 kg/s	San Francisco	pig	0.5828 m^2	984	0.3126	0.2731	962 kg/s	rat	0.2246	903 m^3
+5	134 mph	1.074 kg/s	Oakland	hamster	-0.0229 m^2	-107	0.9593	0.7586	605 kg/s	chicken	0.8516	836 m^3
+3	N/A	0.4304 kg/s	San Francisco	dog	0.4818 m^2	1044	-0.0605	-0.1121	886 kg/s	rat	0.3223	951 m^3
+2	658 mph	0.007 kg/s	Fresno	reptile	0.085 m^2	358	0.4952	1.1976	268 kg/s	fish	0.5215	449 m^3
+3	429 mph	0.6356 kg/s	San Francisco	fish	0.4587 m^2	944	0.3448	0.077	996 kg/s	bird	0.2864	979 m^3
+2	641 mph	-0.188 kg/s	Fresno	bird	0.4532 m^2	302	0.2523	0.9062	413 kg/s	fish	0.5175	698 m^3
+5	-42 mph	1.0136 kg/s	Long Beach	rat	0.2481 m^2	93	1.018	0.8314	836 kg/s	chicken	0.517	870 m^3
+1	842 mph	0.1934 kg/s	Riverside	ferret	0.8572 m^2	396	0.3884	0.2671	620 kg/s	guinea pig	0.3153	404 m^3
+2	877 mph	0.2905 kg/s	Modesto	cat	0.3244 m^2	211	0.3578	0.826	232 kg/s	fish	0.3618	717 m^3
+4	723 mph	0.6201 kg/s	Bakersfield	cat	0.6392 m^2	432	0.2798	0.3293	420 kg/s	pig	0.595	273 m^3
+3	266 mph	0.5458 kg/s	San Francisco	dog	0.8264 m^2	813	-0.1753	0.137	648 kg/s	rat	0.2589	798 m^3
+3	453 mph	0.5001 kg/s	Long Beach	fish, dog	0.7419 m^2	1327	0.0899	0.237	933 kg/s	RAT	0.2866	965 m^3
+0	187 mph	0.2939 kg/s	San Jose	guinea pig	0.7037 m^2	640	0.7518	0.4798	37 kg/s	reptile	0.7798	132 m^3
+3	418 mph	0.6296 kg/s	Fremont	None	0.6429 m^2	797	0.2296	0.1595	792 kg/s	bird	0.051	1020 m^3
+2	589 mph	0.273 kg/s	Sacramento	dog	0.2574 m^2	161	-0.0159	1.1349	160 kg/s	fish	0.5782	556 m^3
+1	897 mph	0.2959 kg/s	Anaheim	rat	0.6524 m^2	462	0.7422	0.4539	865 kg/s	guinea pig	0.1405	238 m^3
+3	383 mph	0.6849 kg/s	Fremont	fish	0.9 m^2	1173	0.1651	0.0434	578 kg/s	bird	0.278	714 m^3
+0	88 mph	0.1705 kg/s	San Jose	rabbit	1.0155 m^2	975	0.7196	0.5972	43 kg/s	hamster	0.8469	-96 m^3
+1	910 mph	0.456 kg/s	Anaheim	ferret	0.8177 m^2	172	0.7207	0.3234	435 kg/s	guinea pig	0.1883	305 m^3
+1	1030 mph	0.6614 kg/s	Riverside	ferret	0.7994 m^2	631	0.3708	0.481	680 kg/s	guinea pig	0.1593	376 m^3
+3	490 mph	0.2745 kg/s	San Francisco	dog	0.6493 m^2	917	0.1068	0.2273	963 kg/s	bird	0.1137	830 m^3
+5	97 mph	0.9134 kg/s	?	hamster	0.2123 m^2	31	0.8742	0.9367	772 kg/s	rabbit	0.9979	620 m^3
+4	508 mph	0.7494 kg/s	Moreno Valley	chicken	0.5547 m^2	n/a	0.2722	0.2737	133 kg/s	pig	0.5344	304 m^3
+5	-149 mph	0.9032 kg/s	Long Beach	hamster	0.2589 m^2	-299	0.8358	0.631	686 kg/s	rabbit	0.5992	623 m^3
+1	819 mph	0.3624 kg/s	Anaheim	ferret	0.7221 m^2	583	0.5474	0.6508	877 kg/s	GUINEA PIG	0.4242	193 m^3
+3	335 mph	0.7218 kg/s	Fremont	dog	0.6935 m^2	955	0.3289	0.1932	1128 kg/s	bird	0.0707	1106 m^3
+0	228 mph	0.3248 kg/s	San Jose	GUINEA PIG	0.9512 m^2	779	0.7192	0.572	106 kg/s	reptile	0.9201	131 m^3
+0	264 mph	0.1349 kg/s	San Jose	rabbit	1.2531 m^2	698	0.8911	0.6239	225 kg/s	hamster	0.8487	267 m^3
+4	642 mph	0.5856 kg/s	Santa Clarita	cat	0.6782 m^2	300	0.3415	0.2355	414 kg/s	pig	0.8395	227 m^3
+3	353 mph	0.4636 kg/s	San Francisco	fish, dog	0.6628 m^2	935	0.2854	0.1415	736 kg/s	bird	0.0307	792 m^3
+2	705 mph	0.0093 kg/s	Santa Ana	bird	0.182 m^2	126	0.3212	1.03	147 kg/s	dog	0.326	738 m^3
+0	62 mph	0.4407 kg/s	San Jose	rabbit	1.1334 m^2	891	0.8744	0.5503	158 kg/s	hamster	0.7682	86 m^3
+5	78 mph	0.6394 kg/s	Oakland	ferret	0.1169 m^2	-84	1.0229	0.6749	998 kg/s	cat	0.8668	740 m^3
+0	384 mph	0.29 kg/s	San Jose	fish, pig	0.8634 m^2	653	0.6488	0.5215	-5 kg/s	HAMSTER	0.6988	181 m^3
+1	1057 mph	0.4541 kg/s	Irvine	ferret	0.9055 m^2	518	0.5895	0.4049	832 kg/s	guinea pig	0.0959	424 m^3
+3	279 mph	0.4295 kg/s	San Francisco	dog	0.4637 m^2	942	0.2835	0.0939	849 kg/s	bird	0.098	921 m^3
+4	909 mph	0.71 kg/s	San Bernardino	cat	0.664 m^2	184	0.3486	0.3094	87 kg/s	ferret	0.574	452 m^3
+3	249 mph	0.3744 kg/s	Fremont	pig, fish	0.5393 m^2	808	0.1556	0.1313	1020 kg/s	rat	0.1613	923 m^3
+1	932 mph	0.3144 kg/s	Irvine	ferret	0.752 m^2	372	0.5247	0.5175	397 kg/s	guinea pig	0.2566	326 m^3
+3	362 mph	0.3468 kg/s	San Francisco	pig, fish	0.8162 m^2	913	0.4545	0.1327	736 kg/s	bird	0.2016	1029 m^3
+5	217 mph	0.8339 kg/s	Long Beach	hamster	0.1192 m^2	71	0.6153	0.7977	614 kg/s	chicken	0.6399	902 m^3
+3	251 mph	0.5886 kg/s	Fremont	fish	0.7898 m^2	1167	-0.1783	0.0622	827 kg/s	hamster	0.6398	758 m^3
+1	902 mph	0.4865 kg/s	Riverside	ferret	0.7696 m^2	395	0.749	0.4685	827 kg/s	guinea pig	0.0208	441 m^3
+0	180 mph	0.2947 kg/s	Los Angeles	guinea pig	0.8296 m^2	510	0.781	0.4904	-15 kg/s	hamster	1.0023	15 m^3
+3	564 mph	0.481 kg/s	San Francisco	pig, fish	0.772 m^2	789	0.1959	0.0067	1165 kg/s	bird	0.178	934 m^3
+5	4 mph	1.1587 kg/s	Fremont	rat	0.0275 m^2	231	0.7325	0.8105	590 kg/s	chicken	0.6786	976 m^3
+0	365 mph	0.1016 kg/s	san jose	guinea pig	1.0846 m^2	619	0.6929	0.445	137 kg/s	reptile	0.7529	39 m^3
+0	240 mph	0.3237 kg/s	San Jose	RABBIT	1.1015 m^2	645	0.6631	0.7546	-32 kg/s	hamster	0.8109	-124 m^3
+1	889 mph	0.1932 kg/s	Anaheim	ferret	0.6236 m^2	453	0.8954	0.4814	732 kg/s	guinea pig	0.2762	374 m^3
+3	363 mph	0.6682 kg/s	Fremont	pig	0.7197 m^2	811	-0.0293	0.0774	788 kg/s	rat	0.24	1055 m^3
+1	1118 mph	0.3818 kg/s	Anaheim	ferret	0.6701 m^2	292	0.7245	0.4705	682 kg/s	guinea pig	0.0027	583 m^3
+0	160 mph	0.1989 kg/s	San Jose	guinea pig	1.1273 m^2	719	0.7251	0.5899	-50 kg/s	hamster	0.9461	-65 m^3
+0	297 mph	0.2997 kg/s	San Jose	guinea pig	0.774 m^2	516	0.8588	0.631	255 kg/s	reptile	1.0022	20 m^3
+2	811 mph	-0.1088 kg/s	Sacramento	reptile	0.3857 m^2	187	0.2999	1.0238	475 kg/s	fish	0.3255	785 m^3
+0	297 mph	0.2577 kg/s	San Jose	rabbit	1.195 m^2	744	0.8658	0.443	180 kg/s	hamster	0.5796	-80 m^3
+3	205 mph	0.4861 kg/s	Fremont	PIG	0.5249 m^2	841	-0.0805	-0.0134	704 kg/s	rat	0.1381	764 m^3
+1	655 mph	0.4019 kg/s	Fremont	ferret	0.8735 m^2	429	1.0207	0.4446	302 kg/s	guinea pig	0.0524	257 m^3
+3	329 mph	0.5915 kg/s	San Jose	fish, dog	0.7097 m^2	773	0.0445	0.3466	864 kg/s	rat	0.0515	986 m^3
+2	749 mph	0.236 kg/s	Fresno	reptile	0.6525 m^2	5	-0.0173	0.9946	-54 kg/s	fish	0.4102	728 m^3
+1	799 mph	0.4357 kg/s	Anaheim	ferret	0.8298 m^2	580	0.6741	0.3567	667 kg/s	bird	0.3131	408 m^3
+1	859 mph	0.1956 kg/s	Anaheim	ferret	0.5318 m^2	737	0.4914	0.3769	567 kg/s	guinea pig	0.076	344 m^3
+3	217 mph	0.5866 kg/s	Bakersfield	dog	0.6318 m^2	1012	0.2924	0.3533	633 kg/s	rat	0.189	1095 m^3
+4	615 mph	0.699 kg/s	Stockton	chicken	0.3843 m^2	346	0.4279	0.2888	386 kg/s	ferret	0.5853	498 m^3
+3	489 mph	0.6003 kg/s	San Francisco	dog, fish	0.5855 m^2	1349	0.0531	0.108	873 kg/s	rat	0.2877	837 m^3
+0	34 mph	0.3111 kg/s	San Jose	rabbit	0.9755 m^2	632	0.6066	0.6262	246 kg/s	hamster	0.6963	285 m^3
+2	678 mph	0.1128 kg/s	San Diego	reptile	0.0945 m^2	328	0.0826	1.126	189 kg/s	dog	0.333	701 m^3
+5	-1 mph	0.5334 kg/s	Long Beach	rat	0.1136 m^2	-33	0.851	0.6214	774 kg/s	rabbit	0.5812	576 m^3
+0	612 mph	NULL	San Jose	guinea pig	0.908 m^2	503	0.8797	0.5162	33 kg/s	hamster	0.7068	76 m^3
+2	505 mph	0.2041 kg/s	Sacramento	None	0.2807 m^2	323	0.2754	1.1021	463 kg/s	fish	0.5913	717 m^3
+4	682 mph	0.9615 kg/s	Bakersfield	None	0.6452 m^2	609	0.5435	0.4844	279 kg/s	pig	0.5859	291 m^3
+5	254 mph	0.6687 kg/s	Oakland	HAMSTER	-0.0455 m^2	-56	0.6367	0.7531	368 kg/s	cat	0.7234	685 m^3
+0	314 mph	0.2918 kg/s	San Jose	rabbit		811	0.6541	0.6788	255 kg/s	hamster	0.7826	-78 m^3
+3	263 mph	0.4981 kg/s	San Francisco	Dog, Pig	0.7369 m^2	822	-0.0652	0.3129	900 kg/s	bird	0.2539	920 m^3
+5	257 mph	0.7151 kg/s	San Francisco	hamster	0.026 m^2	-2	0.7711	0.7815	754 kg/s	cat	0.9819	651 m^3
+2	812 mph	0.1705 kg/s	Los Angeles	reptile	0.2995 m^2	327	0.1712	1.0735	357 kg/s	dog	0.436	720 m^3
+5	-61 mph	0.8147 kg/s	Oakland	rat	-0.1487 m^2	96	1.0198	0.5994	636 kg/s	chicken	0.8161	890 m^3
+2	474 mph	0.0103 kg/s	Fresno	bird	0.3692 m^2	263	0.2616	1.0404	384 kg/s	fish	0.3815	679 m^3
+3	72 mph	0.4446 kg/s	Fremont	N/A	0.7172 m^2	1076	0.2803	0.1449	884 kg/s	rat	0.2268	1008 m^3
+5	382 mph	0.8329 kg/s	Long Beach	hamster	-0.0946 m^2	-140	0.9116	0.605	879 kg/s	cat	0.6396	836 m^3
+4	605 mph	0.7184 kg/s	Santa Clarita	cat	0.3633 m^2	614	0.4511	0.3063	219 kg/s	ferret	0.8203	443 m^3
+4	592 mph	0.4306 kg/s	Santa Clarita	chicken	0.5091 m^2	295	0.5745	0.333	311 kg/s	ferret	0.621	380 m^3
+4	568 mph	0.6773 kg/s	Santa Clarita	cat	0.3015 m^2	463	0.3005	0.1927	365 kg/s	pig	0.5712	333 m^3
+5	-38 mph	0.6534 kg/s	Chula Vista	rat	0.0451 m^2	253	1.11	0.8344	841 kg/s	chicken	0.6786	496 m^3
+5	157 mph	0.9636 kg/s	San Jose	rat	0.0347 m^2	311	0.8965	0.8795	706 kg/s	cat	0.9188	737 m^3
+5	154 mph	0.8023 kg/s	Oakland	hamster	0.1018 m^2	179	1.0551	0.7391	854 kg/s	rabbit	0.7377	681 m^3
+3	359 mph	0.5442 kg/s	San Francisco	fish	0.4871 m^2	843	0.0482	0.007	1029 kg/s	rat	0.427	920 m^3
+3	391 mph	0.4439 kg/s	San Francisco	fish, pig	0.4265 m^2	1121	-0.1156	0.0086	884 kg/s	rat	0.1298	1004 m^3
+5	-83 mph	0.8292 kg/s	Long Beach	rat	0.0685 m^2	112	1.2544	0.7103	835 kg/s	rabbit	0.6042	821 m^3
+1	935 mph	0.4554 kg/s	Irvine	ferret	0.575 m^2	474	0.5004	0.2827	661 kg/s	guinea pig	0.1991	316 m^3
+5	223 mph	0.8817 kg/s	Long Beach	hamster	0.1656 m^2	260	0.9568	0.7477	835 kg/s	chicken	0.9397	768 m^3
+0	140 mph	0.313 kg/s	San Jose	guinea pig	0.8043 m^2	783	0.7306	0.671	77 kg/s	Reptile	0.5775	144 m^3
+4	758 mph	0.567 kg/s	Chula Vista	cat	0.6798 m^2	365	0.5084	0.4952	349 kg/s	pig	0.6741	694 m^3
+4	624 mph	0.4175 kg/s	San Bernardino	cat	0.647 m^2	678	0.5482	0.1785	240 kg/s	ferret	0.5051	267 m^3
+1	1081 mph	0.5398 kg/s	Irvine	ferret	0.5157 m^2	810	0.7179	0.2971	661 kg/s	guinea pig	0.1131	398 m^3
+2	586 mph	-0.217 kg/s	Modesto	bird	0.2684 m^2	99	0.286	0.9826	393 kg/s	fish	0.5276	844 m^3
+2	885 mph	0.0399 kg/s	San Diego	reptile	0.2086 m^2	337	0.2842	1.0707	92 kg/s	fish	0.5049	833 m^3
+2	694 mph	0.1221 kg/s	None	reptile	0.3721 m^2	67	0.1538	0.9193	26 kg/s	dog	0.5567	652 m^3
+4	641 mph	0.6602 kg/s	Santa Clarita	chicken	0.2544 m^2	547	0.6042	0.3953	327 kg/s	ferret	0.5512	244 m^3
+2	720 mph	0.3045 kg/s	Fresno	reptile	0.1955 m^2	177	0.2401	1.0794	303 kg/s	dog	0.491	589 m^3
+0	243 mph	0.1152 kg/s	San Jose	rabbit	0.8054 m^2	682	0.8087	0.4566	238 kg/s	hamster	0.8092	263 m^3
+2	519 mph	-0.0213 kg/s	Santa Ana	bird	0.1703 m^2	246	0.1015	1.2527	81 kg/s	dog	0.4874	677 m^3
+0	76 mph	0.1249 kg/s	San Jose	rabbit	0.7926 m^2	739	0.7511	0.481	14 kg/s	hamster	0.7943	319 m^3
+4	507 mph	0.4983 kg/s	Santa Clarita	cat	0.5953 m^2	516	0.4333	0.3282	51 kg/s	FERRET	0.5833	373 m^3
+0	353 mph	0.2178 kg/s	San Jose	rabbit	0.9717 m^2	504	0.8187	0.5574	407 kg/s	hamster	0.7506	308 m^3
+5	179 mph	0.7353 kg/s	Long Beach	rat	0.2818 m^2	217	0.8807	0.9213	821 kg/s	chicken	0.8058	789 m^3
+4	628 mph	0.506 kg/s	Santa Clarita	chicken	0.5616 m^2	515	0.3995	0.2473	416 kg/s	pig	0.6245	321 m^3
+4	703 mph	0.676 kg/s	Bakersfield	cat	0.3984 m^2	562	0.1938	0.1	269 kg/s	pig	0.5929	326 m^3
+4	658 mph	0.739 kg/s	Moreno Valley	chicken	0.634 m^2	558	0.243	0.2328	267 kg/s	ferret	0.5617	305 m^3
+5	86 mph	0.9111 kg/s	None	HAMSTER	0.2121 m^2	-332	0.7258	0.5908	674 kg/s	RABBIT	0.6896	895 m^3
+4	744 mph	0.84 kg/s	bakersfield	cat	0.3216 m^2	752	0.3406	N/A	433 kg/s	pig	0.5119	371 m^3
+5	-14 mph	0.8752 kg/s	Long Beach	rat	0.0818 m^2	51	0.7835	0.9405	945 kg/s	chicken	0.7768	564 m^3
+4	584 mph	0.7463 kg/s	Chula Vista	chicken	0.4456 m^2	417	0.592	0.4075	345 kg/s	pig	0.7675	257 m^3
+4	845 mph	0.6306 kg/s	Stockton	rabbit	0.6022 m^2	337	0.7343	0.3855	285 kg/s	pig	0.4914	433 m^3
+0	205 mph	0.237 kg/s	Long Beach	rabbit	0.8186 m^2	876	0.8107	0.5522	356 kg/s	reptile	0.7909	291 m^3
+1	941 mph	0.3847 kg/s	Riverside	ferret	0.5487 m^2	383	0.378	0.5482	643 kg/s	guinea pig	0.1925	276 m^3
+5	133 mph	0.962 kg/s	Oakland	rat	-0.0049 m^2	-96	0.881	0.6076	813 kg/s	rabbit	0.8357	822 m^3
+5	283 mph	1.0626 kg/s	Oakland	rat	-0.1051 m^2	-122	0.4748	0.7187	690 kg/s	cat	0.6486	759 m^3
+0	347 mph	0.5631 kg/s	San Jose	guinea pig	0.6147 m^2	500	0.6871	0.6864	174 kg/s	hamster	1.0527	-143 m^3
+5	-12 mph	1.0177 kg/s	Oakland	hamster	0.0629 m^2	333	1.149	0.9309	703 kg/s	chicken	0.7941	741 m^3
+5	-44 mph	1.0053 kg/s	Long Beach	hamster	0.1517 m^2	-12	1.1869	0.6355	756 kg/s	chicken	0.6447	774 m^3
+1	969 mph	0.1083 kg/s	Anaheim	ferret	0.9098 m^2	n/a	0.7278	0.4058	357 kg/s	guinea pig	0.0012	423 m^3
+5	191 mph	1.1789 kg/s	Oakland	hamster	0.042 m^2	-11	0.6453	0.7097	685 kg/s	chicken	0.9963	756 m^3
+4	802 mph	0.5833 kg/s	Riverside	chicken	0.6474 m^2	561	0.4236	0.5484	632 kg/s	pig	0.3812	327 m^3
+5	-40 mph	0.7016 kg/s	Long Beach	hamster	0.1286 m^2	49	0.7955	0.9005	1051 kg/s	fish	0.8373	915 m^3
+4	568 mph	0.7123 kg/s	moreno valley	chicken	0.1872 m^2	755	0.2364	0.3057	698 kg/s	ferret	0.601	406 m^3
+1	841 mph	0.2574 kg/s	Anaheim	ferret	0.6828 m^2	135	0.7459	0.5029	674 kg/s	GUINEA PIG	0.1443	501 m^3
+4	675 mph	0.5359 kg/s	Bakersfield	chicken	0.3329 m^2	549	0.3809	0.155	258 kg/s	ferret	0.5007	366 m^3
+3	419 mph	0.8683 kg/s	Fremont	pig	0.6792 m^2	889	0.2745	0.2647	1105 kg/s	bird	0.2234	920 m^3
+0	301 mph	0.1641 kg/s	San Jose	Guinea Pig	1.0352 m^2	400	0.6081	0.6325	238 kg/s	hamster	0.7852	148 m^3
+5	135 mph	0.8308 kg/s	Long Beach	rat	0.2242 m^2	15	0.9759	0.702	833 kg/s	chicken	0.6217	930 m^3
+3	434 mph	0.4375 kg/s	San Francisco	dog	0.6486 m^2	1099	0.0683	0.1116	780 kg/s	cat	0.247	715 m^3
+5	-72 mph	0.7852 kg/s	Oakland	hamster	0.0202 m^2	-67	0.9014	1.0476	785 kg/s	rabbit	0.9312	817 m^3
+1	997 mph	0.4987 kg/s	RIVERSIDE	ferret	0.7733 m^2	412	0.8337	0.3903	554 kg/s	guinea pig	0.1767	476 m^3
+5	-80 mph	0.8173 kg/s	Long Beach	hamster	0.0759 m^2	-65	1.0549	0.711	844 kg/s	rabbit	0.6942	908 m^3
+1	1126 mph	0.351 kg/s	Riverside	ferret	0.8747 m^2	512	0.6837	0.4213	487 kg/s	guinea pig	0.2495	364 m^3
+3	517 mph	0.5 kg/s	San Francisco	fish	0.5277 m^2	903	-0.1073	-0.1925	738 kg/s	RAT	0.2168	None
+3	484 mph	0.4879 kg/s	Anaheim	pig	0.598 m^2	945	-0.106	-0.0131	933 kg/s	rat	0.1615	925 m^3
+2	662 mph	0.1872 kg/s	San Diego	fish, dog	0.3853 m^2	271	0.1958	0.987	563 kg/s	rat	0.5567	780 m^3
+3	239 mph	0.5108 kg/s	Fremont	fish, dog	0.8915 m^2	986	0.01	0.0911	878 kg/s	bird	0.3287	1090 m^3
+5	54 mph	0.8493 kg/s	Oakland	rat	0.3298 m^2	-1	0.5744	0.794	662 kg/s	fish	0.6543	764 m^3
+3	440 mph	0.4501 kg/s	San Francisco	dog	0.656 m^2	950	-0.0915	0.3496	1084 kg/s	rat	0.4284	968 m^3
+0	137 mph	0.2001 kg/s	San Jose	guinea pig	1.0158 m^2	770	0.6926	0.5463	161 kg/s	reptile	1.0032	246 m^3
+0	141 mph	0.2172 kg/s	San Jose	GUINEA PIG	0.9966 m^2	616	0.273	0.5555	41 kg/s	rat	0.8338	119 m^3
+4	664 mph	0.6609 kg/s	Santa Clarita	chicken	0.394 m^2	824	0.4783	0.1888	305 kg/s	ferret	0.6644	341 m^3
+4	547 mph	0.707 kg/s	Moreno Valley	CHICKEN	0.3186 m^2	479	0.5345	0.0289	436 kg/s	ferret	0.5667	427 m^3
+2	434 mph	0.1377 kg/s	Modesto	bird	0.469 m^2	308	0.3175	0.7734	505 kg/s	fish	0.6573	719 m^3
+2	876 mph	0.1655 kg/s	Los Angeles	reptile	0.1336 m^2	529	0.444	0.8877	155 kg/s	fish	0.4778	723 m^3
+3	603 mph	0.5912 kg/s	Fremont	pig, fish	0.6736 m^2	1145	0.0452	0.1099	989 kg/s	bird	0.2291	886 m^3
+3	439 mph	0.6387 kg/s	San Francisco	dog	0.7598 m^2	1338	-0.0205	0.0634	680 kg/s	bird	0.3257	956 m^3
+4	660 mph	0.8624 kg/s	Chula Vista	chicken	0.6286 m^2	638	0.5493	0.3822	413 kg/s	pig	0.495	343 m^3
+5	190 mph	0.7757 kg/s	Long Beach	rat	0.1921 m^2	-68	1.1205	0.795	503 kg/s	rabbit	0.6531	1067 m^3
+3	344 mph	0.5 kg/s	Fremont	fish	0.5995 m^2	1009	0.1906	-0.0636	1151 kg/s	rat	0.0096	1003 m^3
+4	774 mph	0.6934 kg/s	Long Beach	chicken	0.4431 m^2	306	0.6119	0.4128	630 kg/s	ferret	0.4393	149 m^3
+4	623 mph	0.8647 kg/s	San Jose	chicken	0.4008 m^2	417	0.5569	0.4161	229 kg/s	ferret	0.648	335 m^3
+0	98 mph	0.289 kg/s	San Jose	RABBIT	0.9666 m^2	549	0.6381	0.4978	-44 kg/s	hamster	0.8701	282 m^3
+1	916 mph	0.3181 kg/s	Chula Vista	ferret	0.9254 m^2	567	0.5953	0.672	411 kg/s	guinea pig	0.2279	385 m^3
+5	47 mph	0.771 kg/s	Oakland	hamster	0.2052 m^2	24	0.6903	1.0158	592 kg/s	rabbit	0.6572	986 m^3
+3	512 mph	0.4465 kg/s	Fremont	fish	0.6854 m^2	986	-0.0946	0.0611	961 kg/s	bird	0.2988	976 m^3
+1	1225 mph	0.0039 kg/s	Anaheim	ferret	0.7203 m^2	264	0.8997	0.276	482 kg/s	guinea pig	0.0638	516 m^3
+5	31 mph	0.7404 kg/s	Long Beach	Rat	0.1668 m^2	-144	1.0138	0.6467	781 kg/s	cat	0.7381	855 m^3
+2	628 mph	0.13 kg/s	Modesto	bird	0.1595 m^2	562	0.3662	0.9647	304 kg/s	dog	0.2706	702 m^3
+3	445 mph	0.678 kg/s	Fremont	bird	0.6616 m^2	1123	0.1129	-0.0175	790 kg/s	bird	0.1472	1073 m^3
+4	624 mph	0.5282 kg/s	Santa Clarita	cat	0.2808 m^2	494	0.2681	n/a	296 kg/s	pig	0.63	241 m^3
+1	1075 mph	0.2907 kg/s	Irvine	?	0.8125 m^2	519	0.6081	0.3598	229 kg/s	guinea pig	0.0442	336 m^3
+1	962 mph	0.5562 kg/s	Riverside	ferret	0.9122 m^2	403	0.8363	0.2268	337 kg/s	guinea pig	0.0987	272 m^3
+0	317 mph	0.4894 kg/s	San Jose	guinea pig	0.9858 m^2	899	0.3844	0.5254	-202 kg/s	hamster	0.7097	111 m^3
+0	257 mph	0.2264 kg/s	San Jose	guinea pig	0.9128 m^2	602	0.6813	0.7325	253 kg/s	reptile	0.5831	-105 m^3
+2	860 mph	-0.0959 kg/s	Sacramento	reptile	0.2948 m^2	352	0.1887	1.0382	580 kg/s	dog	0.3243	746 m^3
+1	816 mph	0.1947 kg/s	Irvine	ferret	0.8038 m^2	528	0.7758	0.2423	390 kg/s	guinea pig	0.039	395 m^3
+4		0.8563 kg/s	San Bernardino	cat	0.4262 m^2	248	0.1793	0.1512	528 kg/s	fish	0.6409	366 m^3
+1	1115 mph	0.4468 kg/s	Anaheim	ferret	0.7517 m^2	746	0.9378	0.5297	665 kg/s	guinea pig	0.3589	69 m^3
+0	43 mph	0.2278 kg/s	San Jose	guinea pig	0.957 m^2	519	0.7797	0.5831	60 kg/s	hamster	0.7263	-139 m^3
+2	788 mph	0.0598 kg/s	Modesto	BIRD	0.313 m^2	399	0.3441	0.9192	346 kg/s	bird	0.568	442 m^3
+2	730 mph	-0.0677 kg/s	San Francisco	reptile	0.3264 m^2	175	0.1382	0.986	386 kg/s	fish	0.5218	667 m^3
+4	742 mph	0.6645 kg/s	Bakersfield	chicken	0.6151 m^2	415	0.5514	?	458 kg/s	ferret	0.5882	408 m^3
+3	302 mph	0.5985 kg/s	San Francisco	pig, fish	0.7203 m^2	1028	0.1169	0.056	894 kg/s	guinea pig	0.2353	954 m^3
+2	868 mph	0.2429 kg/s	Fresno	reptile	0.3558 m^2	-89	0.3697	1.0925	351 kg/s	dog	0.4862	652 m^3
+5	95 mph	0.7551 kg/s	oakland	hamster	0.1392 m^2	236	0.9116	0.8353	1127 kg/s	rabbit	0.8683	732 m^3
+1	1077 mph	0.3813 kg/s	Irvine	ferret	0.9217 m^2	647	0.6069	0.601	579 kg/s	guinea pig	0.1824	483 m^3
+5	191 mph	0.8 kg/s	San Jose	rat	0.2372 m^2	114	0.791	0.6756	1010 kg/s	guinea pig	0.8402	634 m^3
+0	195 mph	0.2699 kg/s	San Jose	guinea pig	0.9359 m^2	727	0.6463	0.5113	19 kg/s	reptile	0.8827	-22 m^3
+4	542 mph	0.5261 kg/s	Bakersfield	cat	0.5433 m^2	529	0.5852	0.4076	238 kg/s	hamster	0.521	492 m^3
+2	658 mph	0.0508 kg/s	Modesto	reptile	0.3091 m^2	54	0.2916	1.0066	397 kg/s	fish	0.5182	696 m^3
+0	259 mph	0.1739 kg/s	San Jose	RABBIT	1.0706 m^2	618	0.865	0.5767	-12 kg/s	hamster	0.7875	87 m^3
+0	226 mph	0.3661 kg/s	San Jose	guinea pig	0.9156 m^2	741	0.5821	0.4987	327 kg/s	hamster	0.9431	9 m^3
+4	618 mph	0.6892 kg/s	Riverside	chicken	0.4411 m^2	532	0.4995	0.2277	304 kg/s	ferret	0.7454	NULL
+4	557 mph	0.8784 kg/s	Moreno Valley	chicken	0.5511 m^2	273	0.6164	0.3088	395 kg/s	pig	0.6292	451 m^3
+0	250 mph	0.4093 kg/s	San Jose	guinea pig	0.9657 m^2	1019	0.7795	0.4291	173 kg/s	hamster	0.8316	93 m^3
+5	291 mph	0.742 kg/s	Oakland	hamster	0.1596 m^2	-70	1.0098	0.787	671 kg/s	cat	0.7259	836 m^3
+5	-43 mph	0.8888 kg/s	Long Beach	rat	0.2667 m^2	162	0.914	0.9225	743 kg/s	cat	0.918	898 m^3
+5	210 mph	0.7488 kg/s	Oakland	rat	0.3506 m^2	186	0.8516	0.8058	754 kg/s	rabbit	0.8078	776 m^3
+4	522 mph	0.72 kg/s		reptile	0.4659 m^2	576	0.3538	0.2459	102 kg/s	pig	0.6248	561 m^3
+0	124 mph	0.1413 kg/s		rabbit	0.9104 m^2	548	0.7056	0.4163	130 kg/s	reptile	0.8172	150 m^3
+4	612 mph	0.2992 kg/s	Long Beach	cat	0.4405 m^2	548	0.2637	0.2223	312 kg/s	pig	0.4838	354 m^3
+4	827 mph	0.7594 kg/s	Santa Clarita	cat	0.5263 m^2	567	0.4658	0.5104	326 kg/s	pig	0.5894	362 m^3
+5	201 mph	0.8675 kg/s	Long Beach	hamster	0.078 m^2	173	1.2114	0.9595	370 kg/s	chicken	0.7507	881 m^3
+2	844 mph	0.2077 kg/s	Los Angeles	bird	0.215 m^2	185	0.2467	0.9873	413 kg/s	fish	0.622	362 m^3
+5	64 mph	0.7232 kg/s	Oakland	HAMSTER	0.1799 m^2	-176	0.9959	0.73	654 kg/s	chicken	0.6836	689 m^3
+2	882 mph	0.0713 kg/s	Sacramento	reptile	0.238 m^2	23	0.2432	1.0785	676 kg/s	fish	0.7687	674 m^3
+3	301 mph	0.6253 kg/s	San Francisco	pig	0.7582 m^2	1006	-0.0151	0.2375	932 kg/s	Bird	0.2767	693 m^3
+4	585 mph	0.7313 kg/s	Chula Vista	chicken	0.3802 m^2	325	0.2109	0.4314	365 kg/s	pig	0.5946	346 m^3
+5	146 mph	0.7034 kg/s	Oakland	rat	0.4064 m^2	47	0.9677	0.7635	925 kg/s	cat	0.6404	744 m^3
+1	1114 mph	0.2309 kg/s	Irvine	ferret	0.6813 m^2	440	0.6931	0.4676	642 kg/s	guinea pig	0.0046	306 m^3
+0	194 mph	0.3213 kg/s	San Jose	guinea pig	0.8526 m^2	741	0.7388	0.4946	226 kg/s	hamster	0.6593	179 m^3
+3	447 mph	0.3613 kg/s	San Jose	pig	0.7272 m^2	648	0.1391	0.1476	913 kg/s	bird	0.3188	956 m^3
+5	-294 mph	0.8076 kg/s	Long Beach	hamster	0.1705 m^2	280	0.7031	1.0629	640 kg/s	chicken	0.6515	952 m^3
+5	99 mph	0.6938 kg/s	San Jose	hamster	0.2424 m^2	75	0.94	0.7232	709 kg/s	cat	0.6953	891 m^3
+2	780 mph	0.1244 kg/s	Anaheim	reptile	0.2626 m^2	331	0.2183	1.0399	153 kg/s	fish	0.3515	418 m^3
+1	1061 mph	0.3528 kg/s	?	ferret	0.7327 m^2	772	0.5358	0.3366	694 kg/s	guinea pig	0.3469	426 m^3
+0	346 mph	0.3016 kg/s	San Jose	rabbit	?	550	0.6043	0.5881	35 kg/s	hamster	0.7503	146 m^3
+5	116 mph	0.8161 kg/s	Oakland	hamster	0.039 m^2	62	1.1169	0.9074	769 kg/s	chicken	0.9528	787 m^3
+1	931 mph	0.5424 kg/s	Irvine	ferret	0.9001 m^2	597	0.3571	0.4803	501 kg/s	guinea pig	0.2491	223 m^3
+3	309 mph	0.8921 kg/s	San Francisco	dog, pig	0.8067 m^2	1103	-0.2073	0.0234	816 kg/s	RAT	0.2987	1039 m^3
+5	-12 mph	0.9251 kg/s	Long Beach	hamster	0.0655 m^2	-124	1.0192	0.9585	682 kg/s	chicken	0.846	869 m^3
+3	353 mph	0.6069 kg/s	San Francisco	dog, fish	0.6324 m^2	1030	0.1624	0.052	840 kg/s	chicken	0.2771	687 m^3
+2	719 mph	-0.0066 kg/s	Fresno	bird	0.2852 m^2	-24	-0.0031	1.1994	452 kg/s	dog	0.5201	692 m^3
+5	-56 mph	0.8828 kg/s	Long Beach	rat	0.2653 m^2	220	0.9624	0.65	872 kg/s	guinea pig	0.9097	815 m^3
+4	749 mph	0.7637 kg/s	Riverside	chicken	0.5489 m^2	822	0.1286	0.4007	187 kg/s	pig	0.6363	532 m^3
+2	715 mph	-0.0121 kg/s	Los Angeles	bird	0.1735 m^2	407	0.2391	1.024	353 kg/s	dog	0.3774	703 m^3
+0	208 mph	None	San Jose	chicken	0.8664 m^2	477	0.6074	0.5105	-79 kg/s	hamster	0.8814	-169 m^3
+5	202 mph	0.7052 kg/s	Long Beach	hamster	0.2771 m^2	108	1.2412	0.8326	972 kg/s	rabbit	0.4403	754 m^3
+1	988 mph	0.3731 kg/s	Irvine	ferret	0.8146 m^2	283	0.6798	0.6629	596 kg/s	guinea pig	0.0076	151 m^3
+1	880 mph	0.5459 kg/s	Riverside	FERRET	0.8408 m^2	381	0.6789	0.3666	679 kg/s	guinea pig	0.1694	416 m^3
+4	652 mph	0.7303 kg/s	Bakersfield	chicken	0.5458 m^2	420	0.465	0.3133	-13 kg/s	ferret	0.6243	519 m^3
+4	510 mph	0.6256 kg/s	Santa Clarita	cat	0.1813 m^2	557	0.4295	0.2897	481 kg/s	pig	0.6486	178 m^3
+3	459 mph	0.6053 kg/s	San Francisco	dog, pig	0.6519 m^2	818	-0.0327	0.3258	985 kg/s	BIRD	0.3709	1031 m^3
+3	505 mph	0.5066 kg/s	San Francisco	dog	0.6511 m^2	938	0.0792	0.0746	823 kg/s	bird	0.0861	1182 m^3
+0	243 mph	0.1892 kg/s	San Jose	rabbit	0.6077 m^2	771	0.664	0.6888	84 kg/s	reptile	0.8968	62 m^3
+2	674 mph	0.0886 kg/s	Los Angeles	reptile	0.1507 m^2	199	0.3113	0.8164	-72 kg/s	dog	0.6287	856 m^3
+5	76 mph	0.8143 kg/s	Long Beach	hamster	0.2306 m^2	235	0.9148	0.6839	563 kg/s	chicken	0.6796	854 m^3
+5	147 mph	0.7606 kg/s	Long Beach	rat	0.1388 m^2	94	0.8049	0.8605	553 kg/s	rabbit	0.5997	683 m^3
+1	1007 mph	0.3826 kg/s	Riverside	ferret	0.7297 m^2	707	0.7015	0.4206	488 kg/s	guinea pig	0.0933	572 m^3
+4	473 mph	0.6339 kg/s	Santa Clarita	cat	0.5616 m^2	353	0.5026	0.2914	395 kg/s	pig	0.6553	434 m^3
+0	233 mph	0.2168 kg/s	San Jose	rabbit	1.1288 m^2	None	0.9345	0.5883	-131 kg/s	reptile	0.8127	194 m^3
+2	641 mph	0.0429 kg/s	Santa Ana	reptile	0.3678 m^2	316	-0.0474	1.0025	332 kg/s	dog	0.5268	514 m^3
+4	752 mph	0.5793 kg/s	Oakland	cat	0.6072 m^2	522	0.5689	0.5102	356 kg/s	FERRET	0.6074	284 m^3
+5	104 mph	0.7773 kg/s	Long Beach	rat	0.0847 m^2	-83	1.1458	0.9115	674 kg/s	chicken	0.723	698 m^3
+5	30 mph	0.9256 kg/s	Oakland	rat	0.1339 m^2	252	1.1331	0.6973	644 kg/s	cat	0.7247	849 m^3
+1	952 mph	0.5102 kg/s	Anaheim	ferret	1.0962 m^2	344	0.6379	0.5333	707 kg/s	guinea pig	0.0841	509 m^3
+2	749 mph	0.0228 kg/s	Santa Ana	reptile	0.2228 m^2	100	0.1032	0.962	9 kg/s	dog	0.4671	780 m^3
+2	816 mph	-0.1414 kg/s	Long Beach	bird	0.2742 m^2	397	0.2743	0.7873	623 kg/s	dog	0.5719	531 m^3
+3	454 mph	0.3247 kg/s	Fremont	fish	0.7737 m^2	1352	-0.0878	0.0411	664 kg/s	rat	0.1476	1077 m^3
+1	1046 mph	0.2722 kg/s	Riverside	ferret	0.9929 m^2	564	0.5114	0.5247	337 kg/s	guinea pig	0.1969	444 m^3
+3	537 mph	0.6875 kg/s	SAN FRANCISCO	None	0.5209 m^2	1061	0.0256	0.0075	686 kg/s	Bird	0.1154	906 m^3
+3	197 mph	0.6199 kg/s	San Francisco	Pig	0.7645 m^2	787	0.0405	0.126	830 kg/s	bird	0.1679	608 m^3
+1	977 mph	0.6016 kg/s	Riverside	ferret	0.5815 m^2	339	0.7406	0.3988	621 kg/s	guinea pig	0.0679	355 m^3
+1	1020 mph	0.1668 kg/s	Fremont	n/a	0.7301 m^2	385	0.386	0.3433	689 kg/s	guinea pig	0.1513	331 m^3
+2	576 mph	0.0386 kg/s	San Diego	bird	0.4099 m^2	281	0.1642	1.1641	284 kg/s	dog	0.5758	637 m^3
+4	616 mph	NULL	Chula Vista	cat	0.4728 m^2	280	0.3321	0.2257	389 kg/s	pig	0.605	358 m^3
+4	739 mph	0.7136 kg/s	Bakersfield	chicken	0.5058 m^2	240	0.5681	0.2776	248 kg/s	ferret	0.7276	492 m^3
+2	700 mph	-0.1263 kg/s	Santa Ana	reptile	0.2859 m^2	213	0.3205	1.0137	343 kg/s	dog	0.7234	621 m^3
+3	337 mph	0.5592 kg/s	San Jose	dog	0.5015 m^2	931	0.19	0.2114	832 kg/s	rat	0.3721	820 m^3
+5	17 mph	0.8808 kg/s	Long Beach	rat	0.4096 m^2	-58	1.08	0.678	494 kg/s	rabbit	0.7342	715 m^3
+0	146 mph	0.3302 kg/s	San Jose	rabbit	0.9637 m^2	726	0.7097	0.6223	49 kg/s	hamster	0.7182	221 m^3
+5	-52 mph	0.7675 kg/s	San Francisco	hamster	-0.0115 m^2	105	0.7817	0.69	789 kg/s	rabbit	0.6746	858 m^3
+0	173 mph	0.2768 kg/s	San Jose	rabbit	0.9453 m^2	832	0.3052	0.5847	175 kg/s	hamster	0.88	151 m^3
+1	1082 mph	0.5211 kg/s	San Francisco	ferret	0.6782 m^2	529	0.5723	0.5768	747 kg/s	guinea pig	0.1904	514 m^3
+0	369 mph	0.2815 kg/s	Oakland	rabbit	1.0245 m^2	957	0.7872	0.527	628 kg/s	reptile	0.886	112 m^3
+5	-82 mph	0.9863 kg/s	Oakland	rat	0.1572 m^2	-138	0.965	0.7755	884 kg/s	rabbit	0.8302	658 m^3
+4	629 mph	0.3861 kg/s	Moreno Valley	chicken	0.3501 m^2	505	0.2479	0.281	139 kg/s	ferret	0.7335	588 m^3
+2	740 mph	0.0941 kg/s	Modesto	reptile	0.3749 m^2	-61	0.183	0.918	545 kg/s	dog	0.4872	686 m^3
+5	43 mph	1.1751 kg/s	Oakland	rat	-0.1253 m^2	208	1.064	0.9255	989 kg/s	chicken	0.7316	901 m^3
+2	616 mph	-0.1341 kg/s	San Diego	bird	0.3731 m^2	397	-0.0757	1.0646	303 kg/s	dog	0.2964	830 m^3
+3	341 mph	0.4009 kg/s	Fremont	pig	0.7416 m^2	1142	0.0947	0.0876	1147 kg/s	bird	0.1615	908 m^3
+1	1100 mph	0.4328 kg/s	rIVERSIDE	ferret	0.6513 m^2	348	0.7807	0.3602	540 kg/s	guinea pig	0.1978	147 m^3
+1	1078 mph	0.2927 kg/s	NULL	ferret	0.7627 m^2	705	0.4165	0.1001	538 kg/s	guinea pig	0.0215	168 m^3
+4	576 mph	0.5708 kg/s	Bakersfield	cat	0.6862 m^2	425	0.546	0.3285	388 kg/s	pig	0.6582	196 m^3
+3	390 mph	0.6718 kg/s	San Francisco	fish	0.6217 m^2	979	-0.3502	0.2174	902 kg/s	rat	0.2549	739 m^3
+1	1204 mph	0.1518 kg/s	Anaheim	ferret	0.852 m^2	300	0.6284	0.3916	798 kg/s	guinea pig	0.055	314 m^3
+3	654 mph	0.5192 kg/s	Fremont	fish, pig	0.8391 m^2	1229	0.1562	0.151	715 kg/s	BIRD	0.2703	1132 m^3
+3	220 mph	0.7475 kg/s	Fremont	pig, fish	0.5895 m^2	956	0.4084	0.2404	1060 kg/s	bird	0.1403	1101 m^3
+0	518 mph	0.2575 kg/s	San Jose	guinea pig	0.9446 m^2	435	0.7734	0.6458	299 kg/s	reptile	0.8139	-128 m^3
+5	4 mph	1.2568 kg/s	Long Beach	rat	0.2854 m^2	92	0.7529	0.8493	680 kg/s	rabbit	0.7652	687 m^3
+5	209 mph	0.7564 kg/s	Oakland	rat	0.1975 m^2	99	0.9846	0.9621	802 kg/s	rabbit	0.7605	557 m^3
+0	239 mph	0.3063 kg/s	San Diego	rabbit	0.9892 m^2	530	0.7205	0.6188	-10 kg/s	reptile	0.8454	-56 m^3
+4	654 mph	0.5614 kg/s	Chula Vista	chicken	0.4643 m^2	373	0.5823	0.4165	156 kg/s	pig	0.2703	276 m^3
+3	419 mph	0.6924 kg/s	San Francisco	pig	0.8362 m^2	1170	0.2298	0.0517	1289 kg/s	bird	0.4722	901 m^3
+3	308 mph	0.356 kg/s	Fremont	dog	0.6676 m^2	978	0.0729	0.3208	705 kg/s	bird	0.2477	999 m^3
+2	764 mph	0.1363 kg/s	Modesto	reptile	0.5477 m^2	54	0.299	0.9169	211 kg/s	dog	0.3182	817 m^3
+0	325 mph	0.3636 kg/s	San Jose	guinea pig	1.1411 m^2	810	0.7843	0.4091	-79 kg/s	hamster	0.8809	217 m^3
+5	326 mph	0.9565 kg/s	Oakland	rat	?	199	0.8229	0.6073	1124 kg/s	rabbit	0.6812	945 m^3
+4	418 mph	0.8015 kg/s	San Bernardino	cat	0.5612 m^2	425	0.6557	0.1394	264 kg/s	pig	0.4772	354 m^3
+5	217 mph	0.9057 kg/s	Long Beach	rat	?	-304	0.9086	0.9882	633 kg/s	cat	0.9198	862 m^3
+3	547 mph	0.432 kg/s	Los Angeles	fish, dog	0.6814 m^2	867	0.285	0.0626	884 kg/s	bird	0.3116	994 m^3
+3	319 mph	0.526 kg/s	Fremont	dog	0.7539 m^2	1002	-0.1753	n/a	841 kg/s	bird	0.3216	917 m^3
+2	740 mph	0.0569 kg/s	Santa Ana	bird	0.2591 m^2	498	0.3482	0.8964	195 kg/s	fish	0.3865	567 m^3
+5	62 mph	0.7739 kg/s	Oakland	rat	N/A	-85	0.9404	0.8298	616 kg/s	cat	0.7755	768 m^3
+0	274 mph	0.2059 kg/s	San Jose	guinea pig	1.1542 m^2	1158	0.6586	0.7189	-56 kg/s	pig	0.6964	82 m^3
+1	934 mph	0.2889 kg/s	Riverside	ferret	0.8967 m^2	288	0.7724	0.3986	669 kg/s	guinea pig	0.2065	281 m^3
+4	599 mph	0.4309 kg/s	Chula Vista	chicken	0.606 m^2	637	0.547	0.3982	1 kg/s	cat	0.7389	145 m^3
+5	141 mph	0.8891 kg/s	Oakland	rat	0.2494 m^2	118	0.7811	0.8444	813 kg/s	chicken	0.8442	741 m^3
+0	218 mph	0.4086 kg/s	San Jose	guinea pig	0.9085 m^2	681	0.8378	0.6627	264 kg/s	hamster	0.8314	277 m^3
+5	240 mph	0.7799 kg/s	Long Beach	hamster	-0.2225 m^2	-124	0.7195	0.8947	1022 kg/s	rabbit	0.8248	682 m^3
+1	947 mph	0.499 kg/s	Irvine	ferret	0.7693 m^2	282	0.6621	0.4607	677 kg/s	guinea pig	0.3008	471 m^3
+1	840 mph	0.5642 kg/s	Riverside	ferret	0.4833 m^2	743	0.7305	0.5561	740 kg/s	guinea pig	0.1342	508 m^3
+5	-111 mph	0.8737 kg/s	Long Beach	hamster	-0.09 m^2	-50	0.8378	1.0118	810 kg/s	cat	0.7119	632 m^3
+4	329 mph	0.6451 kg/s	Moreno Valley	cat	0.3197 m^2	432	0.673	0.1845	256 kg/s	pig	0.67	308 m^3
+2	778 mph	0.2255 kg/s	Sacramento	bird	0.2951 m^2	127	0.0562	1.0912	310 kg/s	fish	0.5194	921 m^3
+1	862 mph	0.1443 kg/s	Riverside	ferret	1.0179 m^2	545	0.5437	0.3564	305 kg/s	guinea pig		366 m^3
+0	239 mph	NULL	San Jose	rabbit	0.8851 m^2	701	0.791	0.4908	-167 kg/s	hamster	0.6297	51 m^3
+5	269 mph	0.6377 kg/s	Oakland	rat	0.0415 m^2	270	0.8168	0.7015	666 kg/s	chicken		1162 m^3
+1	1091 mph	0.0395 kg/s	Anaheim	ferret	0.6322 m^2	235	0.8522	0.3067	866 kg/s	reptile	-0.0741	487 m^3
+1	1010 mph	0.5609 kg/s	Anaheim	ferret	0.7812 m^2	473	0.8389	0.2795	814 kg/s	guinea pig	0.4438	480 m^3
+0	169 mph	0.2904 kg/s	San Jose	guinea pig	0.8347 m^2	850	0.9422	0.5913	373 kg/s	hamster	0.8414	-42 m^3
+4	560 mph	0.6306 kg/s	Long Beach	chicken	0.4883 m^2	450	0.6259	0.3709	45 kg/s	pig	0.5399	400 m^3
+5	212 mph	0.7021 kg/s	Long Beach	hamster	0.1283 m^2	-100	0.9316	1.0805	742 kg/s	rabbit	0.864	648 m^3
+4	621 mph	0.8978 kg/s	Moreno Valley	chicken	0.5833 m^2	647	0.6134	0.3887	456 kg/s	pig	0.7256	452 m^3
+5	-31 mph	0.6942 kg/s	Long Beach	rat	0.4078 m^2	186	0.9466	0.9163	866 kg/s	rabbit	0.8871	816 m^3
+4	610 mph	0.8403 kg/s	Chula Vista	cat	0.3379 m^2	318	0.2486	0.3941	496 kg/s	pig	0.6263	502 m^3
+4	867 mph	0.8078 kg/s	Chula Vista	chicken	0.3978 m^2	645	0.5049	0.332	282 kg/s	pig	0.7867	262 m^3
+3	372 mph	0.2659 kg/s	San Francisco	dog	0.5597 m^2	797	0.1638	0.0411	827 kg/s	rat	0.2392	1124 m^3
+4	512 mph	0.6374 kg/s	Stockton	cat	0.4212 m^2	657	0.3245	0.1506	436 kg/s	pig	0.4426	617 m^3
+1	945 mph	0.4624 kg/s	RIVERSIDE	ferret	0.9672 m^2	431	0.71	0.3986	524 kg/s	guinea pig	0.0411	216 m^3
+5	128 mph	0.9631 kg/s	Long Beach	hamster	0.0685 m^2	146	1.0439	0.9891	707 kg/s	rabbit	0.6323	913 m^3
+0	183 mph	0.4963 kg/s	San Jose	rabbit	1.101 m^2	450	0.5717	0.5689	271 kg/s	hamster	0.8229	139 m^3
+1	781 mph	0.5981 kg/s	Irvine	ferret	0.7459 m^2	637	0.5801	0.1561	664 kg/s	guinea pig	0.0963	492 m^3
+3	64 mph	0.5364 kg/s	Fremont	pig, fish	0.6679 m^2	1014	-0.2253	0.3073	891 kg/s	guinea pig	0.1622	1006 m^3
+5	-12 mph	0.6513 kg/s	Oakland	rat	0.2229 m^2	300	0.6857	0.8291	914 kg/s	RABBIT	0.7748	878 m^3
+1	832 mph	0.5316 kg/s	Stockton	ferret	0.9055 m^2	614	0.5886	0.4894	675 kg/s	guinea pig	0.0715	215 m^3
+0	343 mph	0.39 kg/s	Oakland	guinea pig	1.1022 m^2	825	0.755	0.6882	39 kg/s	reptile	0.7829	27 m^3
+0	176 mph	0.4355 kg/s	San Jose	Guinea Pig	1.0565 m^2	608	0.8054	0.3142	294 kg/s	reptile	0.9685	-286 m^3
+2	670 mph	0.1603 kg/s	Modesto	reptile	0.2074 m^2	548	0.4196	0.9751	433 kg/s	dog	0.2171	799 m^3
+1	994 mph	0.5022 kg/s	Riverside	ferret	0.6391 m^2	435	0.9275	0.4291	604 kg/s	guinea pig	0.2043	238 m^3
+4	533 mph	0.3375 kg/s	San Bernardino	guinea pig	0.5992 m^2	554	0.3955	0.0958	410 kg/s	ferret	0.6381	473 m^3
+3	421 mph	0.5023 kg/s	Fremont	dog	0.5625 m^2	923	-0.155	0.2686	779 kg/s	chicken	0.2609	1073 m^3
+5	-44 mph	0.8147 kg/s	Oakland	hamster	0.2364 m^2	109	0.7534	0.8087	859 kg/s	chicken	0.5894	686 m^3
+1	1147 mph	0.3758 kg/s	Irvine	FERRET	0.8537 m^2	424	0.7153	0.4917	630 kg/s	guinea pig	0.2307	271 m^3
+2	732 mph	-0.1203 kg/s	Modesto	reptile	0.3856 m^2	148	0.2861	0.9151	222 kg/s	dog	0.6903	804 m^3
+2	632 mph	0.2527 kg/s	Santa Ana	bird	0.5354 m^2	189	0.1792	1.1026	415 kg/s	fish	0.6402	704 m^3
+4	726 mph	0.8776 kg/s	Chula Vista	chicken	0.6659 m^2	430	0.5459	0.1978	183 kg/s	ferret	0.4375	288 m^3
+4	675 mph	0.8275 kg/s	sANTA cLARITA	chicken	0.4794 m^2	479	0.4209	0.2688	251 kg/s	pig	0.5048	467 m^3
+5	-43 mph	0.769 kg/s	Oakland	hamster	-0.0765 m^2	n/a	0.8624	0.7282	744 kg/s	cat	0.9169	684 m^3
+4	587 mph	0.7489 kg/s	Bakersfield	reptile	0.6262 m^2	913	0.1061	0.5043	142 kg/s	ferret	0.6929	294 m^3
+1	791 mph	0.4449 kg/s	Oakland	ferret	0.7856 m^2	126		0.5227	496 kg/s	guinea pig	0.1776	198 m^3
+0	155 mph	0.158 kg/s	San Jose	guinea pig	0.8373 m^2	655	0.6104	0.5289	142 kg/s	hamster	0.8888	44 m^3
+0	235 mph	0.2966 kg/s	San Jose	rabbit	0.822 m^2	493	0.9848	0.6127	114 kg/s	reptile	0.9152	101 m^3
+0	250 mph	0.1735 kg/s	San Jose	rabbit	1.0753 m^2	619	0.6702	0.5307	109 kg/s	reptile	0.9987	47 m^3
+4	566 mph	0.9552 kg/s	Stockton	chicken	0.4643 m^2	640	0.4452	0.0779	255 kg/s	pig	0.625	267 m^3
+1	725 mph	0.3187 kg/s	Riverside	ferret	0.9252 m^2	559	0.5812	0.3285	429 kg/s	rabbit	0.145	480 m^3
+1	837 mph	0.4039 kg/s	Riverside	ferret	0.7899 m^2	779	0.8643	0.4678	397 kg/s	guinea pig	0.1235	230 m^3
+0	150 mph	0.36 kg/s	San Jose	guinea pig	0.9691 m^2	713	0.5396	0.5932	303 kg/s	reptile	0.7141	-47 m^3
+5	60 mph	0.9796 kg/s	Oakland	hamster	0.1705 m^2	179	0.9345	0.7181	628 kg/s	chicken	0.9074	1016 m^3
+3	453 mph	0.2575 kg/s	Fremont	fish, dog	0.6766 m^2	1299	-0.0921	-0.0643	988 kg/s	rat	0.3866	1040 m^3
+3	463 mph	0.4519 kg/s	San Francisco	pig, fish	0.8086 m^2	808	0.136	0.2811	891 kg/s	rat	-0.0335	?
+0	328 mph	0.1537 kg/s	Oakland	rabbit	1.0628 m^2	906	0.8326	0.6332	409 kg/s	reptile	0.6357	121 m^3
+1	827 mph	0.4748 kg/s	Riverside	ferret	0.8782 m^2	375	0.7692	0.482	542 kg/s	hamster	0.2982	441 m^3
+5	-73 mph	0.8336 kg/s	Anaheim	hamster	0.3969 m^2	-84	0.8219	0.869	710 kg/s	guinea pig	0.6934	657 m^3
+2	675 mph	0.147 kg/s	Santa Ana	reptile	0.1379 m^2	134	0.1155	1.1222	470 kg/s	dog	0.4775	792 m^3
+2	770 mph	-0.0168 kg/s	Santa Ana	reptile	0.283 m^2	201	0.179	0.9224	160 kg/s	DOG	0.5927	579 m^3
+1	869 mph	0.2788 kg/s	Anaheim	ferret	0.6515 m^2	596	0.7016	0.4495	435 kg/s	guinea pig	0.0126	280 m^3
+1	982 mph	0.4762 kg/s	Irvine	ferret	0.909 m^2	813	N/A	0.1203	821 kg/s		0.2479	406 m^3
+5	-9 mph	0.812 kg/s	Irvine	hamster	0.0773 m^2	2	0.8401	0.7544	832 kg/s	cat	0.9949	765 m^3
+2	619 mph	-0.0407 kg/s	Bakersfield	reptile	0.5309 m^2	-73	0.2935	0.9259	821 kg/s	dog	0.5421	417 m^3
+4	705 mph	0.58 kg/s	Bakersfield	cat	0.4898 m^2	389	0.8258	0.4812	381 kg/s	pig	0.7579	269 m^3
+1	1126 mph	0.3151 kg/s	Riverside	ferret	0.8958 m^2	590	0.573	0.2023	514 kg/s	pig	0.1706	242 m^3
+0	305 mph	0.4041 kg/s	San Jose	guinea pig	0.7993 m^2	521	1.1223	0.4902	78 kg/s	reptile	1.009	-245 m^3
+4	499 mph	0.7697 kg/s	Santa Clarita	cat	0.6424 m^2	377	0.4026	0.2885	613 kg/s	ferret	0.413	380 m^3
+0	188 mph	0.0858 kg/s	San Jose	guinea pig	0.8475 m^2	716	0.7325	0.655	70 kg/s	hamster	0.7463	54 m^3
+3	418 mph	0.5058 kg/s	Fremont	fish, pig	0.6516 m^2	1160	0.3135	0.1193	836 kg/s	rat	0.2497	842 m^3
+0	80 mph	0.424 kg/s	Santa Clarita	guinea pig	0.8259 m^2	806	0.5614	0.5012	17 kg/s	hamster	0.8554	-4 m^3
+0	249 mph	0.349 kg/s	San Jose	rabbit	0.7037 m^2	786	0.6772	0.4448	218 kg/s	hamster	0.6541	-177 m^3
+0	-9 mph	0.2296 kg/s	San Jose	guinea pig	1.2115 m^2	626	0.7854	0.445	43 kg/s	hamster	0.8524	-91 m^3
+5	54 mph	0.9604 kg/s	Long Beach	hamster	0.0714 m^2	50	1.1051	0.8503	989 kg/s	rabbit	0.7166	717 m^3
+3	299 mph	0.3338 kg/s	Fremont	dog	0.7342 m^2	1122	-0.092	0.1778	702 kg/s	rat	0.1647	805 m^3
+4	711 mph	0.793 kg/s	Santa Clarita	chicken	0.4704 m^2	440	0.3309	0.3407	112 kg/s	Pig	0.6969	204 m^3
+4	637 mph	0.6293 kg/s	Chula Vista	cat	0.6783 m^2	528	0.23	0.262	539 kg/s	pig	0.6013	237 m^3
+3	306 mph	0.3918 kg/s	San Francisco	dog	0.6951 m^2	1356	-0.0425	0.3366	1207 kg/s	bird	0.1862	971 m^3
+5	330 mph	0.6145 kg/s	Oakland	hamster	0.156 m^2	-18	0.7824	1.0223	743 kg/s	chicken	0.6808	877 m^3
+5	112 mph	1.0136 kg/s	Long Beach	rat	0.3445 m^2	-32	0.6795	0.6571	824 kg/s	rabbit	0.6952	704 m^3
+2	795 mph	0.2356 kg/s	Modesto	bird	0.292 m^2	331	0.4455	0.9116	247 kg/s	fish	0.4391	762 m^3
+1	971 mph	0.1767 kg/s	Riverside	ferret	0.8959 m^2	304	0.833	0.4612	663 kg/s	guinea pig	0.0418	547 m^3
+1	1056 mph	0.2886 kg/s	Irvine	ferret	0.8341 m^2	518	0.6362	0.3017	478 kg/s	guinea pig	0.1043	283 m^3
+5	-274 mph	0.9108 kg/s	Oakland	hamster	0.1229 m^2	-127	0.8146	0.7829	744 kg/s	cat	0.713	614 m^3
+3	223 mph	0.2798 kg/s	Fremont	pig	0.6999 m^2	972	0.1034	0.0375	1030 kg/s	bird	0.3437	1135 m^3
+3	518 mph	0.4458 kg/s	San Francisco	dog, fish	0.7116 m^2	924	-0.1861	0.0862	778 kg/s	bird	0.1156	1098 m^3
+2	768 mph	0.1861 kg/s	Oakland	reptile	0.1888 m^2	174	0.3749	1.3108	232 kg/s	dog	0.5366	631 m^3
+4	547 mph	0.9546 kg/s	Fremont	chicken	0.7378 m^2	645	0.3833	0.4357	170 kg/s	ferret	0.5015	474 m^3
+3	505 mph	0.647 kg/s	San Francisco	DOG	0.7906 m^2	952	0.3836	0.0806	768 kg/s	rat	0.1769	1041 m^3
+3	422 mph	0.4805 kg/s	San Francisco	pig	0.8167 m^2	1099	0.2299	0.1105	857 kg/s	rat	0.1667	966 m^3
+4	613 mph	0.5194 kg/s	Bakersfield	cat	0.5231 m^2	530	0.049	0.3221	645 kg/s	ferret	0.7732	473 m^3
+4	520 mph	0.6785 kg/s	Chula Vista	bird	0.5748 m^2	455	0.4894	0.2741	311 kg/s	hamster	0.6292	169 m^3
+5	138 mph	1.003 kg/s	Long Beach	guinea pig	0.0269 m^2	N/A	0.8279	0.787	804 kg/s	cat	0.8693	669 m^3
+3	407 mph	0.7283 kg/s	San Francisco	pig	0.662 m^2	1030	0.0484	0.3129	674 kg/s	rat		1052 m^3
+1	1019 mph	0.2177 kg/s	Riverside	ferret	0.9533 m^2	316	0.8147	0.4394	575 kg/s	guinea pig	0.2017	422 m^3
+2	771 mph	0.3048 kg/s	Los Angeles	N/A	0.3467 m^2	369	0.3421	1.02	?	fish	0.4423	622 m^3
+2	738 mph	0.1559 kg/s	fresno	bird	0.3901 m^2	341	0.239	1.0618	460 kg/s	fish	0.6694	681 m^3
+0	393 mph	0.1974 kg/s	San Jose	rabbit	1.1753 m^2	737	0.7184	0.6029	219 kg/s	reptile	0.7471	78 m^3
+0	406 mph	0.1964 kg/s	san jose	guinea pig	0.8383 m^2	653	0.4901	0.4081	138 kg/s	reptile	0.7244	0 m^3
+2	696 mph	0.0751 kg/s	San Diego	bird	0.3133 m^2	473	0.0999	0.907	270 kg/s	dog	0.4422	669 m^3
+1	1061 mph	0.3735 kg/s	Anaheim	ferret	0.8343 m^2	633	0.309	0.3957	749 kg/s	guinea pig	0.053	518 m^3
+0	60 mph	0.4063 kg/s	San Jose	rabbit	1.1603 m^2	729	0.6998	0.5654	-235 kg/s	reptile	0.9653	-47 m^3
+5	108 mph	0.6841 kg/s	Oakland	hamster	NULL	260	0.7561	0.7961	753 kg/s	rabbit	0.7461	905 m^3
+1	980 mph	0.3019 kg/s	Irvine	ferret	0.5136 m^2	351	0.7379	0.6167	278 kg/s	guinea pig	0.2973	228 m^3
+4	693 mph	0.6762 kg/s	Bakersfield	chicken	0.7059 m^2	595	0.3159	0.4171	476 kg/s	pig	0.2812	442 m^3
+1	790 mph	0.1893 kg/s	Long Beach	ferret	0.709 m^2	410	0.6337	0.2174	720 kg/s	guinea pig	0.2542	459 m^3
+3	438 mph	0.5561 kg/s	San Francisco	fish	0.4748 m^2	1227	-0.0238	0.1727	979 kg/s	bird	0.4211	879 m^3
+3	295 mph	0.4231 kg/s	San Francisco	pig, fish	0.6994 m^2	846	-0.1768	0.1314	998 kg/s	bird	0.2368	995 m^3
+2	710 mph	0.1704 kg/s	San Diego	reptile	0.5033 m^2	-92	0.4489	0.9532	504 kg/s	dog	0.3711	537 m^3
+5	n/a	0.9054 kg/s	Oakland	hamster	0.0696 m^2	-262	1.0484	0.9306	927 kg/s	chicken	0.736	730 m^3
+1	1171 mph	0.1747 kg/s	Anaheim	ferret	0.9029 m^2	520	0.9984	0.2521	544 kg/s	guinea pig	0.1706	506 m^3
+5	163 mph	1.2014 kg/s	LONG BEACH	rat	0.3685 m^2	227	0.9338	0.8669	965 kg/s	cat	0.9344	1019 m^3
+4	460 mph	0.5936 kg/s	Santa Clarita	chicken	0.5949 m^2	695	0.1656	0.3091	251 kg/s	ferret	0.5767	305 m^3
+3	367 mph	0.5533 kg/s	San Francisco	dog, pig	0.797 m^2	1057	0.0192	0.2702	608 kg/s	bird	0.2031	708 m^3
+2	?	0.2383 kg/s	Fresno	reptile	0.2006 m^2	6	-0.0454	0.667	44 kg/s	dog	0.5012	634 m^3
+3	404 mph	0.495 kg/s	San Francisco	dog, fish	0.497 m^2	787	0.1253	0.0778	740 kg/s	bird	0.2613	798 m^3
+2	723 mph	0.1248 kg/s	Santa Ana	reptile	0.4905 m^2	307	0.1184	0.8811	617 kg/s	fish	0.4484	660 m^3
+1	909 mph	0.5225 kg/s	Irvine	ferret	0.7457 m^2	644	0.7617	0.4016	832 kg/s	guinea pig	0.1855	394 m^3
+4	657 mph	0.5814 kg/s	Moreno Valley	cat	0.4206 m^2	430	0.566	0.4555	304 kg/s	pig	0.6853	187 m^3
+3	111 mph	0.5713 kg/s	San Francisco	pig	0.7091 m^2	926	0.2332	0.0897	1010 kg/s	bird	0.2767	955 m^3
+5	-80 mph	0.9482 kg/s	Long Beach	rat	0.0775 m^2	-74	0.8352	0.802	724 kg/s	chicken	0.6474	871 m^3
+1	1143 mph	0.3506 kg/s	Irvine	ferret	0.7519 m^2	751	0.5187	0.4045	718 kg/s	guinea pig	0.1239	458 m^3
+3	221 mph	0.3886 kg/s	Fremont	pig, fish	0.8828 m^2	1049	0.0853	0.0098	1023 kg/s	bird	0.3402	779 m^3
+2	863 mph	-0.0212 kg/s	Santa Ana	bird	0.2674 m^2	161	0.3215	1.1965	463 kg/s	dog	0.4604	694 m^3
+0	19 mph	0.3845 kg/s	San Jose	guinea pig	1.2581 m^2	637	0.6867	0.4426	84 kg/s	reptile	0.7325	244 m^3
+0	295 mph	0.2133 kg/s	Long Beach	rabbit	1.0113 m^2	690	0.6903	0.3967	72 kg/s	hamster	0.8867	-235 m^3
+4	768 mph	0.7665 kg/s	Stockton	chicken	0.3517 m^2	239	0.5812	0.4731	238 kg/s	ferret	0.7205	245 m^3
+3	361 mph	0.449 kg/s	San Francisco	dog	0.6253 m^2	1188	0.0629	0.0669	711 kg/s	bird	0.1925	978 m^3
+4	557 mph	0.6702 kg/s	Bakersfield	chicken	0.524 m^2	613	0.4146	0.2805	62 kg/s	pig	0.5778	185 m^3
+5	67 mph	0.78 kg/s	Long Beach	Rat	0.0822 m^2	-34	0.8691	0.7519	851 kg/s	cat	0.8638	832 m^3
+5	-37 mph	0.9687 kg/s	Oakland	rat	0.0511 m^2	20	0.7745	0.6686	742 kg/s	cat	0.9385	774 m^3
+1	974 mph	0.4831 kg/s	Anaheim	ferret	0.8942 m^2	502	0.4487	0.4966	665 kg/s	guinea pig	0.5167	428 m^3
+5	29 mph	1.216 kg/s	Long Beach	rat	0.191 m^2	41	0.862	?	935 kg/s	rabbit	0.5777	918 m^3
+3	367 mph	0.5763 kg/s	San Francisco	fish, pig	0.6497 m^2	1151	0.1235	0.0977	1032 kg/s	rat	-0.0295	1001 m^3
+2	793 mph	0.2133 kg/s	Fresno	bird	0.2759 m^2	190	0.3436	0.7745	423 kg/s	fish	0.415	575 m^3
+2	683 mph	0.032 kg/s	Los Angeles	reptile	0.4244 m^2	372	0.2146	1.0439	324 kg/s	fish	0.3502	669 m^3
+1	777 mph	0.2848 kg/s	Anaheim	ferret	1.0122 m^2	489	0.753	0.3553	830 kg/s	GUINEA PIG	0.0734	249 m^3
+0	126 mph	0.0863 kg/s	San Jose	reptile	1.136 m^2	760	0.7006	0.622	-130 kg/s	reptile	0.9909	170 m^3
+4	623 mph	0.734 kg/s	Chula Vista	cat	0.4923 m^2	457	0.2262	0.3694	176 kg/s	ferret	0.7425	96 m^3
+0	359 mph	0.3333 kg/s	San Jose	rabbit	1.0518 m^2	492	0.7159	0.5684	120 kg/s	reptile	0.662	310 m^3
+5	173 mph	0.927 kg/s	Long Beach	rat	0.1484 m^2	-43	1.0237	0.7296	734 kg/s	chicken	0.9526	647 m^3
+4	575 mph	0.5779 kg/s	Santa Clarita	cat	0.1889 m^2	431	0.6316	0.2389	565 kg/s	ferret	0.5843	432 m^3
+0	80 mph	0.3723 kg/s	san jose	guinea pig	1.0016 m^2	768	0.6111	0.6258	255 kg/s	hamster	0.9698	176 m^3
+1	1123 mph	0.449 kg/s	Irvine	ferret	0.7588 m^2	552	0.7761	0.4773	367 kg/s	guinea pig	-0.0676	325 m^3
+0	591 mph	0.0874 kg/s	San Jose	guinea pig	1.0938 m^2	1024	0.7884	0.7223	557 kg/s	cat	0.7812	15 m^3
+4	555 mph	0.7365 kg/s	Bakersfield	chicken	0.6736 m^2	537	0.4535	0.4674	268 kg/s	pig	0.5775	404 m^3
+3	524 mph	0.5861 kg/s	Fremont	cat	0.7232 m^2	947	0.0442	0.2004	705 kg/s	bird	0.1375	941 m^3
+3	446 mph	0.5815 kg/s	Fremont	dog, fish	0.5372 m^2	1035	NULL	0.3142	645 kg/s	guinea pig	0.1006	846 m^3
+3	345 mph	0.6367 kg/s	Fremont	dog	0.8897 m^2	1139	0.0834	0.2242	931 kg/s	bird	0.0588	1131 m^3
+5	78 mph	0.7729 kg/s	Long Beach	hamster	0.0379 m^2	27	1.01	0.9545	504 kg/s	rabbit	0.6228	684 m^3
+5	235 mph	0.8419 kg/s	Oakland	rat	-0.1315 m^2	211	0.803	0.8101	1041 kg/s	cat	0.6711	568 m^3
+4	920 mph	0.8558 kg/s	Chula Vista	chicken	0.4223 m^2	634	0.1048	0.1753	266 kg/s	pig	0.7641	324 m^3
+0	146 mph	0.4866 kg/s	San Jose	guinea pig	0.8387 m^2	363	0.9068	0.5225	228 kg/s	reptile	0.7523	-249 m^3
+2	675 mph	0.1499 kg/s	San Diego	bird	0.4306 m^2	193	0.3611	1.023	352 kg/s	fish	0.4034	810 m^3
+3	256 mph	0.5541 kg/s	Fremont	pig, dog	0.4538 m^2	1192	0.1456	0.2313	604 kg/s	bird	0.3023	718 m^3
+0	269 mph	0.2146 kg/s	San Jose	rabbit	1.1514 m^2	819	0.492	0.5281	-19 kg/s	hamster	1.0175	126 m^3
+5	19 mph	0.8697 kg/s	Oakland	rat	0.2443 m^2	19	1.1352	0.6515	740 kg/s	cat	0.5463	568 m^3
+2	673 mph	0.1319 kg/s	San Diego	bird	0.3978 m^2	227	0.1174	1.1163	None	fish	0.6055	657 m^3
+2	513 mph	-0.1519 kg/s	Los Angeles	bird	0.3744 m^2	200	0.349	0.9742	65 kg/s	fish	0.4226	307 m^3
+1	1095 mph	0.4861 kg/s	Irvine	ferret	0.7628 m^2	693	0.6177	0.4087	850 kg/s	guinea pig	0.0136	549 m^3
+4	634 mph	0.532 kg/s	Stockton	chicken	0.5022 m^2	511	0.5526	0.497	168 kg/s	ferret	0.4685	298 m^3
+2	566 mph	-0.0561 kg/s	San Diego	bird	0.3596 m^2	16	0.0559	1.0627	365 kg/s	fish	0.3987	761 m^3
+4	761 mph	0.6393 kg/s	San Jose	cat	0.353 m^2	526	0.4391	0.189	305 kg/s	pig	0.3826	373 m^3
+3	266 mph	0.4452 kg/s	Fremont	fish, dog	0.7039 m^2	958	0.2026	0.1079	941 kg/s	rat	0.2119	1065 m^3
+2	831 mph	0.1094 kg/s	Sacramento	bird	0.4519 m^2	112	0.5218	0.9311	524 kg/s	fish	0.3541	605 m^3
+4	631 mph	0.8933 kg/s	Chula Vista	cat	0.4113 m^2	484	0.5649	0.2734	355 kg/s	ferret	0.8008	42 m^3
+0	347 mph	0.0701 kg/s	San Jose	guinea pig	1.097 m^2	861	0.6869	0.5378	-175 kg/s	hamster	0.8776	163 m^3
+0	363 mph	0.2806 kg/s	San Jose	guinea pig	1.0401 m^2	385	0.8079	0.687	200 kg/s	hamster	0.8564	91 m^3
+4	629 mph	0.608 kg/s	Moreno Valley	Cat	0.6206 m^2	301	0.3379	0.2531	418 kg/s	ferret	0.5925	534 m^3
+2	761 mph	0.1634 kg/s	Sacramento	reptile	0.334 m^2	286	-0.0748	0.9625	616 kg/s	dog	0.5012	593 m^3
+0	NULL	0.3166 kg/s	San Jose	rabbit	1.084 m^2	779	0.6405	0.6614	193 kg/s	hamster	0.8131	34 m^3
+4	486 mph	0.8898 kg/s	Moreno Valley	chicken	0.7213 m^2	537	0.1048	0.3174	247 kg/s	ferret	0.5223	121 m^3
+4	559 mph	0.5244 kg/s	Chula Vista	chicken	0.4586 m^2	206	0.5061	0.3999	229 kg/s	ferret	0.5847	352 m^3
+1	905 mph	0.4885 kg/s	Anaheim	ferret	0.6938 m^2	640	0.7189	0.5067	741 kg/s	guinea pig	0.177	270 m^3
+3	170 mph	0.5252 kg/s	SAN FRANCISCO	FISH	0.575 m^2	840	0.1608	0.1717	896 kg/s	dog	0.1989	706 m^3
+5	141 mph	0.8265 kg/s	Long Beach	rat	0.2707 m^2	-139	0.9899	0.952	909 kg/s	chicken	0.7258	834 m^3
+2	918 mph	0.1098 kg/s	San Diego	reptile	0.362 m^2	364	0.4263	0.8724	549 kg/s	reptile	0.5236	443 m^3
+5	-2 mph	0.99 kg/s	Long Beach	hamster	0.0219 m^2	133	0.8579	0.9235	1136 kg/s	rabbit	0.8961	717 m^3
+2	690 mph	0.0341 kg/s	San Jose	reptile	0.036 m^2	262	-0.1276	1.0101	579 kg/s	bird	0.3285	758 m^3
+4	550 mph	0.7038 kg/s	Chula Vista	cat	0.3395 m^2	514	0.3174	0.4321	127 kg/s	ferret	0.5003	333 m^3
+3	237 mph	0.5222 kg/s	San Francisco	pig, fish	0.4931 m^2	1011	-0.103	0.2316	n/a	rat	0.3222	953 m^3
+4	475 mph	0.571 kg/s	Bakersfield	chicken	0.4384 m^2	452	0.3093	0.1408	390 kg/s	ferret	0.8217	309 m^3
+0	22 mph	0.3809 kg/s	San Jose	rabbit	0.7903 m^2	867	0.5886	0.5802	416 kg/s	hamster	0.8432	67 m^3
+0	234 mph	0.3605 kg/s	San Jose	bird	1.3337 m^2	679	0.4387	0.827	-8 kg/s	reptile	0.8861	20 m^3
+4	462 mph	0.7696 kg/s	Santa Clarita	chicken	0.4745 m^2	455	0.3542	0.4732	487 kg/s	ferret	0.6944	554 m^3
+0	373 mph	0.2126 kg/s	San Jose	guinea pig	1.0295 m^2	961	0.8655	0.4731	75 kg/s	reptile	0.6563	136 m^3
+4	621 mph	0.7443 kg/s	SAN BERNARDINO	chicken	0.4162 m^2	N/A	0.6476	0.2475	640 kg/s	pig	0.7404	228 m^3
+3	431 mph	0.3417 kg/s	Fremont	dog, pig	0.786 m^2	855	0.0158	0.2021	674 kg/s	bird	0.145	1040 m^3
+5	112 mph	0.997 kg/s	Long Beach	rat	-0.073 m^2	21	1.1381	0.9782	541 kg/s	chicken	0.9305	729 m^3
+3	280 mph	0.5687 kg/s	San Francisco	fish	0.6262 m^2	1166	0.1632	0.0593	689 kg/s	bird	0.0059	1267 m^3
+5	351 mph	1.1011 kg/s	Oakland	rat	-0.2725 m^2	263	1.0128	0.9595	593 kg/s	cat	0.9747	861 m^3
+2	900 mph	-0.0245 kg/s	Los Angeles	reptile	0.4955 m^2	130	0.1469	1.0553	374 kg/s	fish	0.5735	574 m^3
+3	347 mph	0.6218 kg/s	San Francisco	fish, pig	0.6036 m^2	1007	0.0438	0.1924	792 kg/s	rat	0.138	1018 m^3
+2	902 mph	0.2072 kg/s	Sacramento	reptile	0.1382 m^2	20	0.0984	0.9322	573 kg/s	rabbit	0.2048	715 m^3
+4	615 mph	0.7219 kg/s	Chula Vista	cat	0.5779 m^2	156	0.4052	0.3716	187 kg/s	pig	0.4953	338 m^3
+4	935 mph	0.6723 kg/s	Bakersfield	cat	0.5044 m^2	n/a	0.4715	0.3363	238 kg/s	pig	0.699	193 m^3
+5	148 mph	0.8615 kg/s	Long Beach	hamster	0.3781 m^2	93	0.7755	0.8376	821 kg/s	chicken	0.8421	816 m^3
+4	743 mph	0.7914 kg/s	Stockton	chicken	0.6761 m^2	617	0.5054	0.2563	366 kg/s	ferret	0.706	309 m^3
+3	251 mph	0.5003 kg/s	San Francisco	pig, fish	0.626 m^2	1010	0.3595	-0.0559	1143 kg/s	bird	0.115	1146 m^3
+4	792 mph	0.5747 kg/s	Stockton	Chicken	0.4424 m^2	636	0.4135	0.3579	364 kg/s	pig	0.5586	331 m^3
+4	534 mph	0.9419 kg/s	Irvine	ferret	0.9849 m^2	600	0.3792	0.41	543 kg/s	pig	0.5595	257 m^3
+4	508 mph	0.3873 kg/s	Stockton	ferret	0.621 m^2	222	0.6223	0.3214	-20 kg/s	cat	0.7588	75 m^3
+2	803 mph	0.1954 kg/s	Modesto	bird	0.4805 m^2	17	0.053	1.103	530 kg/s	bird	0.4693	677 m^3
+0	216 mph	0.4657 kg/s	San Jose	guinea pig	1.0734 m^2	736	0.5529	0.6997	363 kg/s	reptile	0.876	-19 m^3
+0	121 mph	0.3856 kg/s	San Jose	guinea pig	1.2112 m^2	565	0.7073	0.692	34 kg/s	reptile	0.8917	-143 m^3
+2	797 mph	0.1743 kg/s	San Diego	bird	0.456 m^2	276	0.2967	1.105	83 kg/s	dog	0.2003	824 m^3
+3	233 mph	0.5371 kg/s	San Francisco	dog, fish	0.8447 m^2	928	-0.0778	0.012	872 kg/s	rat	0.1107	1185 m^3
+0	333 mph	0.1878 kg/s	San Jose	guinea pig	0.9389 m^2	790	0.6912	0.5091	186 kg/s	hamster	0.6959	NULL
+2	776 mph	0.0418 kg/s	Long Beach	bird	0.3949 m^2	143	0.4331	1.0604	525 kg/s	dog	0.208	659 m^3
+5	59 mph	1.0673 kg/s	Long Beach	cat	0.0956 m^2	-35	0.7737	0.7827	599 kg/s	chicken	0.7366	871 m^3
+1	884 mph	0.3376 kg/s	N/A	ferret	1.008 m^2	329	0.6585	0.4654	548 kg/s	guinea pig	0.2979	272 m^3
+1	944 mph	0.2557 kg/s	Anaheim	ferret	0.78 m^2	243	0.5657	0.4738	455 kg/s	guinea pig	0.2597	183 m^3
+3	656 mph	0.2743 kg/s	Fremont	fish, pig	0.7438 m^2	925	-0.0614	0.0705	830 kg/s	rat	0.0833	904 m^3
+0	316 mph	0.1281 kg/s	San Jose	rabbit	1.0559 m^2	862	0.7486	0.4294	302 kg/s	hamster	0.9447	250 m^3
+2	652 mph	0.1226 kg/s	Modesto	reptile	0.2709 m^2	227	0.317	0.8211	261 kg/s	dog	0.2535	719 m^3
+1	855 mph	0.5392 kg/s	Riverside	ferret	0.837 m^2	?	0.5574	0.667	523 kg/s	cat	0.0751	136 m^3
+5	58 mph	0.8765 kg/s	San Jose	rat	-0.0084 m^2	71	0.8708	0.9133	911 kg/s	cat	0.7283	873 m^3
+2	791 mph	0.1828 kg/s	Santa Ana	reptile	0.3817 m^2	-16	0.2445	0.946	472 kg/s	fish	0.4152	477 m^3
+2	783 mph	0.1201 kg/s	Los Angeles	REPTILE	0.1961 m^2	325	0.2548	0.9026	200 kg/s	hamster	0.4884	689 m^3
+2	738 mph	0.2523 kg/s	Sacramento	bird	0.2209 m^2	282	0.2834	1.1636	560 kg/s	fish	0.4732	503 m^3
+1	960 mph	0.3552 kg/s	Riverside	ferret	0.6676 m^2	70	0.5863	0.4616	666 kg/s	guinea pig	-0.0228	378 m^3
+4	728 mph	0.6739 kg/s	San Bernardino	chicken	0.471 m^2	664	0.531	0.4836	470 kg/s	pig	0.6212	350 m^3
+5	58 mph	0.7659 kg/s	Long Beach	hamster	0.0874 m^2	-113	0.942	0.6928	661 kg/s	cat	0.9045	878 m^3
+3	306 mph	0.514 kg/s	Fremont	fish, pig	0.9071 m^2	878	-0.1437	0.0565	801 kg/s	rat	0.2914	760 m^3
+1	886 mph	0.135 kg/s	Riverside	ferret	0.7656 m^2	566	0.4259	0.3165	570 kg/s	guinea pig	0.2182	136 m^3
+2	548 mph	0.0465 kg/s	Santa Ana	bird	0.3447 m^2	405	0.4977	1.1734	627 kg/s	fish	0.4153	769 m^3
+4	678 mph	0.8836 kg/s	mORENO vALLEY	cat	0.2615 m^2	231	0.1264	0.4865	414 kg/s	ferret	0.5421	437 m^3
+5	0 mph	0.9167 kg/s	Oakland	HAMSTER	-0.0673 m^2	19	0.7154	0.7581		rabbit	0.6679	677 m^3
+0	181 mph	0.1363 kg/s	San Jose	guinea pig	0.5567 m^2	678	0.6585	0.5833	346 kg/s	reptile	1.0101	-25 m^3
+3	313 mph	0.4155 kg/s	San Francisco	dog, pig	0.7655 m^2	861	0.0864	0.1	914 kg/s	rat	0.2676	944 m^3
+3	230 mph	0.5564 kg/s	Fremont	fish	0.7934 m^2	719	0.2058	0.2126	700 kg/s		0.44	910 m^3
+3	238 mph	0.5416 kg/s	San Francisco	Pig, Fish	0.747 m^2	981	-0.1046	0.3663	740 kg/s	rat	0.1626	757 m^3
+4	743 mph	0.6991 kg/s	Santa Clarita	CAT	0.4441 m^2	335	0.3365	0.4502	412 kg/s	pig	0.4277	318 m^3
+1	947 mph	0.308 kg/s	Anaheim	ferret	0.807 m^2	553	0.7603	0.4479	426 kg/s	guinea pig	0.1785	387 m^3
+4	518 mph	0.8623 kg/s	moreno valley	cat	0.4629 m^2	358	0.3631	0.5749	34 kg/s	FERRET	0.7553	298 m^3
+4	863 mph	0.7274 kg/s	San Bernardino	cat	0.154 m^2	332	0.3582	0.1581	381 kg/s	ferret	0.6034	410 m^3
+1	941 mph	0.65 kg/s	Riverside	ferret	0.7655 m^2	697	0.6311	0.3893	828 kg/s	guinea pig		155 m^3
+4	912 mph	0.6145 kg/s	Stockton	cat	0.6172 m^2	368	0.4522	0.367	430 kg/s	ferret	0.5309	438 m^3
+0	89 mph	0.2598 kg/s	San Jose	rabbit	1.0143 m^2	843	0.8699	0.6235	-33 kg/s	hamster	0.8171	-131 m^3
+3	413 mph	0.3199 kg/s	Fremont	dog	0.8509 m^2	831	-0.1787	0.1828	641 kg/s	bird	0.3465	908 m^3
+4	450 mph	0.7535 kg/s	Stockton	chicken	0.3279 m^2	290	0.5412	0.2915	250 kg/s	ferret	0.7247	246 m^3
+5	243 mph	0.9099 kg/s	Long Beach	hamster	0.34 m^2	31	1.0315	0.7487	600 kg/s	cat	0.6628	770 m^3
+3	350 mph	0.7642 kg/s	Oakland	pig, fish	0.4993 m^2	1041	0.0419	0.1896	785 kg/s	bird	0.306	891 m^3
+3	359 mph	0.496 kg/s	Fremont	pig, dog	0.6747 m^2	826	0.1942	NULL	1187 kg/s	rat	0.2685	812 m^3
+5	94 mph	0.7831 kg/s	Long Beach	HAMSTER	0.1471 m^2	-54	0.7705	0.8307	1027 kg/s	cat	0.7811	757 m^3
+0	45 mph	0.2891 kg/s	San Jose	rabbit	0.7546 m^2	442	0.4358	0.5663	496 kg/s	hamster	0.9974	-56 m^3
+2	703 mph	0.2263 kg/s	Modesto	bird	0.2755 m^2	86	0.2193	0.9261	439 kg/s	dog	0.2765	722 m^3
+5	-49 mph	1.0364 kg/s	Oakland	rat	0.235 m^2	18	0.732	0.7126	587 kg/s	cat	0.6867	773 m^3
+2	670 mph	0.2329 kg/s	Santa Ana	reptile	0.3185 m^2	99	0.214	0.9839	124 kg/s	fish	0.4069	992 m^3
+0	211 mph	0.3172 kg/s	San Jose	rabbit	1.0606 m^2	795	0.6899	0.816	79 kg/s	hamster	0.8642	134 m^3
+0	327 mph	0.4008 kg/s	San Jose	rabbit	0.8 m^2	819	0.4652	0.5113	133 kg/s	hamster	0.7893	297 m^3
+1	1057 mph	0.187 kg/s	Anaheim	ferret	0.6256 m^2	569	0.7365	0.1764	452 kg/s	guinea pig	0.0815	492 m^3
+4	722 mph	0.7797 kg/s	Riverside	cat	0.5439 m^2	515	0.3648	0.4458	296 kg/s	pig	0.4933	456 m^3
+5	12 mph	0.848 kg/s	Long Beach	rat	0.0129 m^2	-169	0.8919	0.8137	556 kg/s	chicken	N/A	736 m^3
+3	262 mph	0.5085 kg/s	San Francisco	dog	0.3976 m^2	1030	-0.2005	-0.1692	1004 kg/s	rat	0.4244	803 m^3
+0	16 mph	0.2666 kg/s	San Jose	guinea pig	0.9167 m^2	858	0.5338	0.5388	299 kg/s	reptile	0.9307	52 m^3
+1	657 mph	0.166 kg/s	Anaheim	ferret	0.5795 m^2	663	0.7221	0.2027	697 kg/s	guinea pig	0.0333	359 m^3
+4	526 mph	0.5666 kg/s	Fremont	chicken	0.1903 m^2	403	0.4017	0.4721	195 kg/s	pig	0.563	278 m^3
+1	957 mph	0.4052 kg/s	Riverside	ferret	0.7818 m^2	818	0.6621	0.5747	573 kg/s	guinea pig	0.146	231 m^3
+1	1033 mph	0.4229 kg/s	Irvine	ferret	0.4716 m^2	532	0.7684	0.3257	428 kg/s	guinea pig	0.0748	447 m^3
+1	890 mph	0.3514 kg/s	San Jose	ferret	0.9099 m^2	234	0.93	0.3326	660 kg/s	guinea pig	-0.114	274 m^3
+1	767 mph	0.3807 kg/s	Anaheim	ferret	0.6025 m^2	583	0.9511	0.4152	568 kg/s	guinea pig	0.1058	181 m^3
+4	803 mph	0.7334 kg/s	Moreno Valley	cat	0.5587 m^2	656	0.2121	0.2904	289 kg/s	ferret	0.5033	687 m^3
+1	1008 mph	0.6494 kg/s	Moreno Valley	ferret	0.7362 m^2	194	0.8052	0.4836	715 kg/s	guinea pig	-0.0109	159 m^3
+0	120 mph	0.091 kg/s	San Jose	fish	0.8776 m^2	707	None	0.6319	125 kg/s	reptile	0.8159	-106 m^3
+4	692 mph	0.5086 kg/s	Chula Vista	chicken	0.6602 m^2	713	0.5348	0.3838	576 kg/s	ferret	0.4467	265 m^3
+0	148 mph	0.2527 kg/s	San Jose	guinea pig	0.8926 m^2	199	0.8338	0.4952	104 kg/s	reptile	0.8758	131 m^3
+3	574 mph	None	Fremont	pig, fish	0.3788 m^2	1281	0.0652	0.1671	793 kg/s	bird	0.305	1254 m^3
+5	16 mph	0.8786 kg/s	Oakland	hamster	0.2801 m^2	-13	0.8172	0.7843	793 kg/s	Chicken	0.7075	684 m^3
+4	541 mph	0.8225 kg/s	Chula Vista	chicken	0.4617 m^2	605	0.4282	0.1931	277 kg/s	pig	0.8126	523 m^3
+3	355 mph	0.5259 kg/s	Fremont	dog	0.7777 m^2	901	0.1508	0.0337	1089 kg/s	reptile	0.2103	808 m^3
+1	1013 mph	0.1986 kg/s	Irvine	ferret	0.7687 m^2	468	0.7442	0.3034	389 kg/s	guinea pig	0.098	250 m^3
+4	759 mph	0.5756 kg/s	Bakersfield	chicken	0.6567 m^2	518	0.5578	0.367	40 kg/s	ferret	0.4879	267 m^3
+2	398 mph	0.1333 kg/s	Santa Ana	reptile	0.0214 m^2	357	0.2361	1.072	-7 kg/s	fish	0.3618	690 m^3
+0	61 mph	0.1919 kg/s	San Jose	guinea pig	0.9511 m^2	322	0.7601	0.5734	-196 kg/s	hamster	1.0201	191 m^3
+2	570 mph	0.2444 kg/s	Santa Clarita	reptile	0.391 m^2	351	0.728	1.2537	195 kg/s	dog	0.5554	687 m^3
+3	186 mph	0.3944 kg/s	San Francisco	dog, pig	0.6619 m^2	986	-0.1696	0.3535	1152 kg/s	rat	0.2352	801 m^3
+4	770 mph	0.662 kg/s	Chula Vista	chicken	0.5789 m^2	484	0.6023	0.458	124 kg/s	pig	0.4974	218 m^3
+5	114 mph	1.0083 kg/s	Long Beach	rat	0.2521 m^2	-61	1.076	0.7289	703 kg/s	cat	0.6979	863 m^3
+2	710 mph	0.1124 kg/s	modesto	reptile	0.3539 m^2	415	0.2261	0.9438	716 kg/s	dog	0.4561	580 m^3
+3	495 mph	0.6163 kg/s	San Francisco	dog	0.5541 m^2	881	0.397	0.1364	763 kg/s	rat	0.3982	789 m^3
+1	891 mph	0.5437 kg/s	Anaheim	ferret	0.5905 m^2	420	0.7852	0.2586	595 kg/s	guinea pig	0.0604	298 m^3
+1	1008 mph	0.3261 kg/s	Riverside	ferret	0.6023 m^2	637	0.8234	0.3982	377 kg/s	guinea pig	-0.0153	373 m^3
+1	951 mph	0.3084 kg/s	San Jose	ferret	0.7117 m^2	450	0.6701	0.3493	107 kg/s	Guinea Pig	0.1529	369 m^3
+0	202 mph	0.2189 kg/s	San Jose	guinea pig	0.9701 m^2	794	1.1025	0.6775	142 kg/s	reptile	0.9092	-2 m^3
+2	645 mph	0.1903 kg/s	Fresno	reptile	0.1493 m^2	328	0.312	0.8927	477 kg/s	fish	0.4871	549 m^3
+1	901 mph	0.504 kg/s	Riverside	ferret	0.9078 m^2	228	0.7034	0.3286	NULL	guinea pig	0.0982	285 m^3
+0	313 mph	0.583 kg/s	San Jose	rabbit	0.7796 m^2	584	0.6868	0.6577	204 kg/s	hamster	0.7532	-64 m^3
+0	230 mph	0.2447 kg/s	San Jose	guinea pig	1.3271 m^2	758	0.7179	0.5851	183 kg/s	reptile	0.6735	8 m^3
+4	814 mph	0.7652 kg/s	Moreno Valley	cat	0.3898 m^2	247	0.2679	0.1712	350 kg/s	pig	0.779	709 m^3
+5	165 mph	1.0255 kg/s	Oakland	rat	0.0366 m^2	231	1.1282	0.736	815 kg/s	cat	0.627	894 m^3
+2	526 mph	0.2696 kg/s	Modesto	reptile	0.4795 m^2	514	0.3983	1.211	450 kg/s	?	0.6925	835 m^3
+5	-57 mph	1.0191 kg/s	Oakland	hamster	0.2475 m^2	91	NULL	0.7408	738 kg/s	chicken	0.8033	907 m^3
+1	n/a	0.4283 kg/s	Irvine	FERRET	0.722 m^2	256	0.7624	0.361	538 kg/s	guinea pig	0.2351	312 m^3
+5	59 mph	0.7467 kg/s	Long Beach	rat	0.2734 m^2	143	0.7429	0.5368	842 kg/s	cat	0.4983	850 m^3
+1	1127 mph	0.5735 kg/s	Irvine	ferret	0.6608 m^2	494	1.1463	0.3581	563 kg/s	guinea pig	0.5548	303 m^3
+2	736 mph	0.3483 kg/s	San Jose	bird	0.0623 m^2	516	0.0632	1.0346	398 kg/s	fish	0.4959	551 m^3
+0	262 mph	0.2604 kg/s	San Jose	guinea pig	0.8047 m^2	734	0.7302	0.5051	-5 kg/s	reptile	0.7124	251 m^3
+4	626 mph	0.6236 kg/s	Bakersfield	cat	0.4137 m^2	626	0.3916	0.2154	188 kg/s	pig	0.3913	158 m^3
+3	290 mph	0.3926 kg/s	Fremont	N/A	0.7862 m^2	1316	0.0315	0.3102	765 kg/s	rat	0.0817	818 m^3
+2	728 mph	0.0066 kg/s	Modesto	bird	0.4628 m^2	239	0.0048	0.9203	274 kg/s	dog	0.3914	438 m^3
+1	875 mph	0.2497 kg/s	Anaheim	ferret	0.5823 m^2	358	0.6886	0.6044	165 kg/s	guinea pig	0.1368	456 m^3
+0	249 mph	0.4001 kg/s	San Jose	rabbit	1.1079 m^2	911	0.6872	0.6063	-89 kg/s	hamster	0.9631	46 m^3
+4	760 mph	0.5246 kg/s	Moreno Valley	cat	0.28 m^2	470	0.3394	0.4115	207 kg/s	pig	0.3951	296 m^3
+5	144 mph	0.7498 kg/s	Long Beach	hamster	0.0537 m^2	-104	1.0219	0.8085	815 kg/s	rabbit	0.5927	973 m^3
+0	204 mph	0.1532 kg/s	Modesto	rabbit	0.9949 m^2	910	0.6419	0.271	16 kg/s	hamster	0.8019	76 m^3
+0	280 mph	0.3717 kg/s	San Jose	rabbit	0.958 m^2	641	0.711	0.7613	171 kg/s	reptile	0.8236	292 m^3
+4	594 mph	0.5898 kg/s	San Bernardino	N/A	None	714	0.442	0.2739	385 kg/s	ferret	0.3827	n/a
+2	646 mph	0.0109 kg/s	San Diego	bird	0.2753 m^2	421	0.4186	1.083	642 kg/s	fish	0.498	627 m^3
+4	415 mph	0.7457 kg/s	San Bernardino	chicken	0.6378 m^2	416	0.239	0.4594	395 kg/s	pig	0.7239	254 m^3
+0	305 mph	0.2531 kg/s	San Jose	rabbit	0.8499 m^2	697	0.87	0.7415	8 kg/s	hamster	1.0335	252 m^3
+0	361 mph	0.4294 kg/s	San Jose	guinea pig	1.0574 m^2	865	0.7236	0.4051	143 kg/s	HAMSTER	0.819	161 m^3
+3	516 mph	0.4575 kg/s	Fremont	fish	0.4923 m^2	1083	-0.1999	0.1254	916 kg/s	rat	0.3117	956 m^3
+0	270 mph	0.2155 kg/s	San Jose	rabbit	0.9477 m^2	910	0.8967	0.615	-114 kg/s	hamster	None	86 m^3
+2	645 mph	0.2063 kg/s	Modesto	reptile	0.6111 m^2	115	0.1223	0.9058	476 kg/s	dog	0.7517	729 m^3
+3	125 mph	0.3991 kg/s	Fremont	fish, dog	0.7375 m^2	1144	0.0257	0.0478	859 kg/s	rat	0.2194	989 m^3
+2	770 mph	0.1048 kg/s	San Diego	bird	0.0863 m^2	302	0.4023	0.9617	373 kg/s	dog	0.4496	898 m^3
+3	188 mph	0.4717 kg/s	Fremont	fish	0.691 m^2	1027	0.0914	0.0344	863 kg/s	rat	0.2006	1173 m^3
+2	870 mph	0.1041 kg/s	Modesto	bird	0.332 m^2	367	0.2564	0.8912	305 kg/s	fish	0.5646	695 m^3
+4	426 mph	0.7661 kg/s	Santa Clarita	chicken	0.5059 m^2	671	0.2075	0.3706	372 kg/s	ferret	0.7037	366 m^3
+1	1051 mph	0.38 kg/s	Irvine	ferret	0.6138 m^2	462	0.7823	0.3306	789 kg/s	guinea pig	0.1091	247 m^3
+5	369 mph	1.0003 kg/s	Long Beach	rat		-262	1.2933	0.8766	719 kg/s	chicken	0.7859	706 m^3
+4	814 mph	0.7126 kg/s	Chula Vista	CAT	0.5167 m^2	378	0.3131	0.316	237 kg/s	ferret	0.464	328 m^3
+5	-26 mph	0.7765 kg/s	Oakland	rat	0.0561 m^2	-19	1.0408	0.7632	770 kg/s	chicken	0.6304	1019 m^3
+2	707 mph	0.1621 kg/s	Sacramento	reptile	0.3319 m^2	185	0.2253	0.808	315 kg/s	fish	0.6886	542 m^3
+4	453 mph	0.7906 kg/s	San Bernardino	chicken	0.7503 m^2	479	0.2654	0.3582	400 kg/s	pig	0.7085	224 m^3
+1	1045 mph	0.5416 kg/s	Anaheim	rat	0.7517 m^2	397	0.6101	0.3049	807 kg/s	guinea pig	0.1623	192 m^3
+4	567 mph	0.6663 kg/s	Santa Clarita	cat	0.5259 m^2	671	0.3645	0.2384	201 kg/s	ferret	0.5457	259 m^3
+2	576 mph	0.183 kg/s	Santa Ana	bird	0.4808 m^2	440	-0.0832	0.8911	104 kg/s	dog	0.53	700 m^3
+1	1096 mph	0.3877 kg/s	Riverside	ferret	0.446 m^2	523	0.4815	0.3593	680 kg/s	dog	-0.0447	489 m^3
+4	745 mph	0.7789 kg/s	Moreno Valley	Chicken	0.6263 m^2	592	0.5367	0.3572	305 kg/s	ferret	0.8199	307 m^3
+1	741 mph	0.2091 kg/s	Riverside	ferret	0.6801 m^2	744	0.6517	0.2719	586 kg/s	guinea pig	0.1134	347 m^3
+2	651 mph	0.0776 kg/s	Santa Ana	reptile	0.4171 m^2	354	0.4082	0.9343	358 kg/s	fish	0.5172	643 m^3
+1	1113 mph	0.3022 kg/s	Anaheim	ferret	0.6469 m^2	638	0.6415	0.3931	602 kg/s	rat	0.2492	554 m^3
+0	186 mph	0.3547 kg/s	San Jose	rabbit	0.9274 m^2	810	0.5811	0.6861	210 kg/s	hamster	0.7868	133 m^3
+1	880 mph	0.1911 kg/s	Riverside	ferret	0.7824 m^2	713	0.5664	0.482	341 kg/s	guinea pig	0.1528	356 m^3
+0	156 mph	0.436 kg/s	San Jose	guinea pig	0.8591 m^2	516	0.6885	0.5134	120 kg/s	hamster	1.0821	106 m^3
+5	-54 mph	1.0386 kg/s	Long Beach	Rat	0.2191 m^2	279	1.1707	0.8658	1155 kg/s	pig	0.5856	659 m^3
+1	815 mph	0.1796 kg/s	Anaheim	ferret	0.8199 m^2	651	0.5223	0.3726	664 kg/s	guinea pig	0.2413	470 m^3
+0	108 mph	0.1842 kg/s	San Jose	rabbit	0.8295 m^2	535	0.5644	0.5194	15 kg/s	reptile	0.7297	105 m^3
+1	1063 mph	0.3607 kg/s	Irvine	ferret	0.8509 m^2	389	0.855	0.267	127 kg/s	guinea pig	0.2726	N/A
+0	212 mph	0.2024 kg/s	San Jose	guinea pig	0.9983 m^2	657	0.8209	0.4231	114 kg/s	bird	0.8589	None
+1	905 mph	0.3896 kg/s	Irvine	ferret	0.853 m^2	546	0.7346	0.4459	668 kg/s	guinea pig	0.0756	453 m^3
+2	589 mph	0.1501 kg/s	santa ana	reptile	0.61 m^2	98	0.0487	1.1601	326 kg/s	dog	0.4605	624 m^3
+3	415 mph	0.5735 kg/s	Fremont	dog	0.7353 m^2	1045	0.1359	0.3536	857 kg/s	rat	0.0534	1088 m^3
+4	667 mph	0.6216 kg/s	Chula Vista	chicken	0.5461 m^2	267	n/a	0.4058	207 kg/s	ferret	0.409	639 m^3
+3	332 mph	0.3719 kg/s	Fremont	fish, dog	0.7007 m^2	840	-0.2175	-0.0664	619 kg/s	rat	0.4386	782 m^3
+0	252 mph	0.5174 kg/s	San Jose	rabbit	1.3032 m^2	626	0.7775	0.6004	204 kg/s	reptile	0.9412	175 m^3
+1	929 mph	0.5137 kg/s	Anaheim	ferret	0.7009 m^2	546	0.6824	0.3993	787 kg/s	guinea pig	0.1972	416 m^3
+2	649 mph	0.2111 kg/s	San Diego	reptile	0.2559 m^2	363	0.3385	0.9243	496 kg/s	fish	0.2957	590 m^3
+0	385 mph	0.3609 kg/s	San Jose	rabbit	0.9023 m^2	518	0.7479	0.5071	222 kg/s	reptile	0.9026	84 m^3
+5	20 mph	0.9267 kg/s	Oakland	rat	0.0124 m^2	103	0.7359	0.6836	867 kg/s	chicken	0.867	870 m^3
+5	161 mph	0.923 kg/s	Long Beach	rat	-0.0758 m^2	62	0.7488	0.8594	512 kg/s	chicken	0.9008	662 m^3
+1	990 mph	0.3602 kg/s	San Bernardino	ferret	0.7087 m^2	599	0.6785	0.5467	828 kg/s	guinea pig	0.1409	402 m^3
+4	707 mph	0.7993 kg/s	Bakersfield	cat	0.6219 m^2	577	0.4944	0.4775	425 kg/s	ferret	0.4227	101 m^3
+0	329 mph	0.2691 kg/s	SAN JOSE	rabbit	1.1 m^2	531	0.6323	0.5675	189 kg/s	hamster	0.7229	251 m^3
+2	406 mph	0.0228 kg/s	Fresno	bird	0.1587 m^2	218	0.0554	1.0623	529 kg/s	dog	0.5183	642 m^3
+1	1105 mph	0.4586 kg/s	Riverside	ferret	0.5795 m^2	730	0.5838	0.1772	419 kg/s	guinea pig	0.0849	
+0	263 mph	0.2351 kg/s	San Jose	guinea pig	0.7275 m^2	584	0.4709	0.8467	128 kg/s	hamster	0.9571	-77 m^3
+0	100 mph	0.1847 kg/s	San Jose	guinea pig	0.9142 m^2	472	0.9337	0.5686	-97 kg/s	hamster	0.9598	213 m^3
+1	912 mph	0.2534 kg/s	Irvine	ferret	0.6475 m^2	502	0.5604	0.4905	533 kg/s	guinea pig	0.1287	384 m^3
+4	311 mph	0.8439 kg/s	Chula Vista	cat	0.6741 m^2	527	0.2775	0.4361	324 kg/s	pig	0.5863	309 m^3
+0	279 mph	0.2162 kg/s	San Jose	rabbit	0.7244 m^2	796	0.5689	0.7387	125 kg/s	hamster	0.9946	73 m^3
+2	641 mph	0.0811 kg/s	Los Angeles	reptile	0.3034 m^2	97	NULL	1.0337	276 kg/s	fish	0.3344	793 m^3
+5	-93 mph	0.6941 kg/s	Long Beach	hamster	0.0027 m^2	143	0.9387	0.9744	985 kg/s	cat	0.8216	903 m^3
+1	998 mph	0.3321 kg/s	Irvine	ferret	0.7128 m^2	509	0.5258	0.4288	641 kg/s	guinea pig	0.1163	334 m^3
+3	191 mph	0.5786 kg/s	Fremont	fish	1.0217 m^2	1109	NULL	-0.0378	941 kg/s	rat	0.25	1034 m^3
+2	751 mph	0.0275 kg/s	Sacramento	bird	0.497 m^2	204	0.4604	1.0242	138 kg/s	dog	0.6839	637 m^3
+4	678 mph	0.6175 kg/s	San Jose	cat	0.4774 m^2	528	0.3301	0.3576	240 kg/s	ferret	0.7851	425 m^3
+5	242 mph	0.8462 kg/s	San Jose	ferret	-0.0004 m^2	181	1.1442	0.9315	664 kg/s	rabbit	0.7014	594 m^3
+2	820 mph	0.1352 kg/s	Sacramento	reptile	0.1873 m^2	474	0.4895	0.9101	299 kg/s	fish	0.2605	761 m^3
+5	81 mph	0.9421 kg/s	Long Beach	hamster	0.2424 m^2	130	0.9529	0.6109	775 kg/s	chicken	0.684	807 m^3
+3	349 mph	0.234 kg/s	San Francisco	pig, dog	0.7628 m^2	811	-0.1329	0.0316	911 kg/s	rat	0.0904	870 m^3
+2	869 mph	0.1093 kg/s	Santa Ana	bird	0.6078 m^2	223	0.2114	0.8907	251 kg/s	dog	0.3537	919 m^3
+2	509 mph	0.0297 kg/s	Fresno	reptile	0.4842 m^2	271	0.1385	1.131	576 kg/s	dog	0.5584	518 m^3
+5	-4 mph	0.8764 kg/s	San Jose	rat	0.2284 m^2	136	0.9285	0.809	918 kg/s	rabbit	0.56	710 m^3
+0	131 mph	0.2219 kg/s	San Jose	guinea pig	0.7606 m^2	719	0.6896	0.544	52 kg/s	reptile	0.7396	257 m^3
+4	374 mph	0.615 kg/s	Stockton	chicken	0.3601 m^2	515	0.3373	0.2271	262 kg/s	ferret	0.4519	420 m^3
+2	559 mph	0.119 kg/s	Modesto	reptile	0.3193 m^2	144	0.2587	1.0303	541 kg/s	dog	0.5967	622 m^3
+4	610 mph	0.487 kg/s	San Bernardino	cat	0.4749 m^2	470	0.6779	?	17 kg/s	pig	0.5682	448 m^3
+0	270 mph	0.2057 kg/s	San Jose	guinea pig	0.7538 m^2	749	0.6416	0.7389	392 kg/s	HAMSTER	0.8774	117 m^3
+1	958 mph	0.5122 kg/s	Anaheim	ferret	0.7154 m^2	179	0.6027	0.5062	692 kg/s	ferret	0.1118	174 m^3
+3	536 mph	0.7874 kg/s	San Bernardino	fish	0.8837 m^2	1186	0.0856	0.2164	650 kg/s	bird	0.3266	633 m^3
+3	357 mph	0.6207 kg/s	Fremont	dog	0.4307 m^2	1346	-0.0153	0.1921	1120 kg/s	rat	0.2436	874 m^3
+2	616 mph	-0.0528 kg/s	San Diego	reptile	0.492 m^2	274	-0.0192	0.8932	144 kg/s	fish	0.3679	817 m^3
+2	701 mph	0.1276 kg/s	Irvine	bird	0.1974 m^2	133	-0.1025	0.9896	270 kg/s	fish	0.3947	748 m^3
+3	344 mph	0.8784 kg/s	Fremont	pig	0.6597 m^2	1104	0.2585	0.2938	1132 kg/s	rat	0.2869	1047 m^3
+5	105 mph	0.7131 kg/s	Oakland	hamster	0.113 m^2	-164	0.7323	1.0501	974 kg/s	cat	0.9739	605 m^3
+1	977 mph	0.2496 kg/s	Irvine	ferret	0.868 m^2	599	0.5531	0.5364	739 kg/s	guinea pig	0.0617	468 m^3
+3	583 mph	0.5163 kg/s	Anaheim	pig	0.6907 m^2	831	0.1716	0.1046	863 kg/s	rat	0.2907	993 m^3
+5	130 mph	0.9369 kg/s	Long Beach	rat	0.265 m^2	-116	0.7854	0.6959	761 kg/s	chicken	0.7064	838 m^3
+0	149 mph	0.1881 kg/s	San Jose	guinea pig	1.001 m^2	779	0.6972	0.618	-9 kg/s	hamster	0.9398	116 m^3
+5	64 mph	0.844 kg/s	Long Beach	hamster	0.2129 m^2	236	0.8769	0.7791	884 kg/s	rabbit	0.7022	781 m^3
+1	1185 mph	0.2172 kg/s	Irvine	ferret	0.8016 m^2	325	0.5995	0.371	616 kg/s	guinea pig	-0.005	265 m^3
+2	579 mph	0.1396 kg/s	Modesto	bird	0.4485 m^2	332	0.064	1.1833	387 kg/s	fish	0.4272	669 m^3
+1	886 mph	0.327 kg/s	rIVERSIDE	ferret	0.6501 m^2	338	0.4041	0.1713	681 kg/s	guinea pig	0.1646	378 m^3
+3	560 mph	0.5886 kg/s	San Diego	fish	0.4675 m^2	839	0.1816	0.2057	793 kg/s	bird	0.1964	676 m^3
+2	671 mph	0.2333 kg/s	Modesto	bird	0.0809 m^2	261	0.424	1.0292	21 kg/s	fish	0.4869	869 m^3
+2	581 mph	0.0758 kg/s	Fresno	reptile	0.1751 m^2	-200	0.3002	0.8945	259 kg/s	fish	0.4215	742 m^3
+4	699 mph	0.6772 kg/s	Moreno Valley	cat	0.5142 m^2	452	0.3	0.248	-135 kg/s	ferret	0.4986	38 m^3
+5	-38 mph	0.8272 kg/s	Long Beach	rat	-0.0102 m^2	192	0.8081	1.0054	676 kg/s	rabbit	0.8128	974 m^3
+3	265 mph	0.4175 kg/s	San Francisco	fish	0.5657 m^2	1000	-0.0581	0.2219	807 kg/s	bird	0.0425	709 m^3
+1	1006 mph	0.2386 kg/s	Riverside	ferret	0.8078 m^2	500	0.7761	0.2794	380 kg/s	guinea pig	0.1031	300 m^3
+3	459 mph	0.4004 kg/s	Fremont	fish	0.7323 m^2	1193	0.137	0.0956	890 kg/s	bird	0.3489	982 m^3
+4	879 mph	0.7321 kg/s	Santa Clarita	chicken	0.5748 m^2	542	0.5538	0.2567	251 kg/s	pig	0.6799	475 m^3
+2	744 mph	0.1214 kg/s	Fremont	reptile	0.1459 m^2	194	0.0158	1.1553	546 kg/s	Dog	0.4955	498 m^3
+4	558 mph	0.6317 kg/s	Stockton	cat	0.5058 m^2	356	0.557	0.2407	371 kg/s	pig	0.5099	143 m^3
+1	1043 mph	0.264 kg/s	Oakland	ferret	1.0128 m^2	387	0.769	0.5067	505 kg/s	guinea pig	0.2927	183 m^3
+0	161 mph	0.2002 kg/s	San Jose	guinea pig	0.9539 m^2	513	0.669	0.5787	13 kg/s	reptile	0.9581	-79 m^3
+3	309 mph	0.4002 kg/s	San Francisco	dog, pig	0.6521 m^2	1201	0.1615	0.179	905 kg/s	bird	0.1531	888 m^3
+2	693 mph	0.0583 kg/s	San Jose	bird	0.2506 m^2	327	0.4859	0.98	315 kg/s	dog	0.4568	738 m^3
+4	681 mph	0.5557 kg/s	Santa Clarita	rabbit	0.5879 m^2	743	0.3036	0.3552	400 kg/s	ferret	0.6229	477 m^3
+0	388 mph	0.2521 kg/s	San Jose	rabbit	0.8859 m^2	604	0.7941	0.4449	132 kg/s	hamster	0.7409	139 m^3
+3	304 mph	0.4063 kg/s	San Francisco	pig	0.9833 m^2	1103	0.3703	0.1545		rat	0.213	1006 m^3
+2	714 mph	0.1405 kg/s	LOS ANGELES	bird	0.5273 m^2	428	0.3478	1.1816	462 kg/s	cat	0.3782	709 m^3
+5	-56 mph	0.8952 kg/s	Oakland	rat	-0.0539 m^2	252	0.8765	1.0405	518 kg/s	fish	0.748	533 m^3
+1	1025 mph	0.2981 kg/s	Riverside	ferret	0.77 m^2	439	0.4773	0.6911	561 kg/s	guinea pig	-0.0297	435 m^3
+5	196 mph	0.8734 kg/s	Oakland	hamster	0.0716 m^2	107	0.6902	0.9966	686 kg/s	cat	0.738	655 m^3
+0	260 mph	0.4854 kg/s	sAN jOSE	guinea pig	1.2024 m^2	816	NULL	0.8661	20 kg/s	hamster	0.7543	245 m^3
+1	1243 mph	0.4725 kg/s	Irvine	ferret	0.5499 m^2	567	0.4604	0.4012	688 kg/s	guinea pig	-0.022	352 m^3
+0	223 mph	0.2368 kg/s	San Jose	rabbit	1.0756 m^2	668	0.6467	0.6216	-112 kg/s	hamster	0.75	145 m^3
+0	382 mph	0.4285 kg/s	Long Beach	rabbit	0.7975 m^2	466	0.7777	0.7176	595 kg/s	hamster	0.645	-96 m^3
+5	-225 mph	0.782 kg/s	Oakland	rat	0.3126 m^2	-92	0.8307	0.9484	952 kg/s	guinea pig	0.9809	840 m^3
+2	670 mph	-0.0395 kg/s	Los Angeles	bird	0.2206 m^2	542	0.6235	0.947	132 kg/s	dog	0.5184	797 m^3
+2	741 mph	0.1333 kg/s	Sacramento	bird	0.25 m^2	281	0.0226	0.9063	647 kg/s	dog	0.5452	778 m^3
+3	523 mph	0.6058 kg/s	Fremont	fish	0.4374 m^2	931	0.0524	0.3381	1071 kg/s	bird	0.1833	966 m^3
+2	846 mph	0.0439 kg/s	Stockton	bird	0.418 m^2	-36	0.3346	1.1447	144 kg/s	dog	0.6095	628 m^3
+2	676 mph	0.1346 kg/s	San Diego	REPTILE	0.3937 m^2	172	-0.016	0.8811	341 kg/s	fish	0.4014	554 m^3
+2	666 mph	0.0907 kg/s	Sacramento	reptile	0.1166 m^2	205	0.362	1.0277	118 kg/s	fish	0.4017	657 m^3
+3	461 mph	0.4364 kg/s	San Jose	pig	n/a	999	0.1421	-0.0196	766 kg/s	bird	0.2354	918 m^3
+4	796 mph	0.8291 kg/s	Oakland	cat	0.4462 m^2	235	0.2475	0.3408	506 kg/s	ferret	0.6434	216 m^3
+1	1195 mph	0.375 kg/s	Irvine	ferret	1.0455 m^2	708	0.4628	0.646	449 kg/s	guinea pig	0.0651	N/A
+0	176 mph	0.2001 kg/s	Stockton	rabbit	0.6342 m^2	780	0.6958	0.5451	160 kg/s	reptile	0.7925	35 m^3
+3	301 mph	0.5543 kg/s	N/A	fish, dog	0.7246 m^2	1109	-0.1622	0.0898	754 kg/s	bird	0.2285	891 m^3
+1	1040 mph	0.3346 kg/s	Anaheim	ferret	0.7636 m^2	425	0.6646	0.4877	677 kg/s	guinea pig	0.035	399 m^3
+0	231 mph	0.3238 kg/s	San Jose	rabbit	1.0369 m^2	773	0.5085	0.7457	242 kg/s	reptile	0.7319	-114 m^3
+5	5 mph	0.8954 kg/s	Long Beach	hamster	0.1538 m^2	-178	0.7362	0.7616	770 kg/s	chicken	0.7064	717 m^3
+4	798 mph	0.6776 kg/s	STOCKTON	pig, dog	0.603 m^2	506	0.5578	0.2551	485 kg/s	pig	0.5335	None
+5	-33 mph	0.8983 kg/s	Oakland	hamster	0.1501 m^2	-167	0.9972	0.8207	857 kg/s	rabbit	0.8804	631 m^3
+3	476 mph	0.5313 kg/s	Fremont	dog	0.4578 m^2	1214	-0.1164	0.1633	843 kg/s	rat	0.0249	853 m^3
+0	146 mph	0.071 kg/s	San Jose	rabbit	1.0725 m^2	388	0.7437	0.4579	-74 kg/s	chicken	0.8629	173 m^3
+5	81 mph	0.7804 kg/s	Oakland	pig	0.2405 m^2	17	1.1167	0.899	832 kg/s	chicken	0.556	821 m^3
+0	171 mph	0.5441 kg/s	San Jose	guinea pig	0.9541 m^2	385	0.669	0.7123	288 kg/s	hamster	1.0163	104 m^3
+0	365 mph	0.3482 kg/s	San Jose	guinea pig	0.8673 m^2	757	0.6344	0.4876	232 kg/s	hamster	0.9001	20 m^3
+3	317 mph	0.5394 kg/s	San Francisco	dog	0.9 m^2	1039	0.0012	0.163	718 kg/s	bird	0.1639	989 m^3
+2	763 mph	-0.029 kg/s	Santa Ana	bird	0.2875 m^2	176	0.6713	1.0323	566 kg/s	dog	0.5338	713 m^3
+5	235 mph	0.7305 kg/s	Long Beach	rabbit	0.021 m^2	176	0.9235	0.9651	896 kg/s	rabbit	0.7805	862 m^3
+0	434 mph	0.2654 kg/s	San Jose	guinea pig	1.1355 m^2	871	0.7819	0.5116	225 kg/s	hamster	0.8608	228 m^3
+3	441 mph	0.3132 kg/s	Fremont	dog	0.6224 m^2	756	-0.0297	-0.0747	738 kg/s	bird	0.2436	953 m^3
+0	262 mph	0.3805 kg/s	San Jose	rabbit		776	0.5185	0.5361	314 kg/s	hamster	0.9353	90 m^3
+2	885 mph	0.356 kg/s	Fresno	reptile	0.3408 m^2	198	0.2737	1.01	269 kg/s	dog	0.5401	776 m^3
+5	-4 mph	0.9998 kg/s	Oakland	hamster	0.0584 m^2	-97	0.8394	0.7474	879 kg/s	cat	0.7998	822 m^3
+4	630 mph	0.6582 kg/s	NULL	cat	0.2969 m^2	388	0.5615	0.343	536 kg/s	ferret	0.5888	358 m^3
+1	1020 mph	0.151 kg/s	Riverside	ferret	0.5445 m^2	314	0.5763	0.3182	553 kg/s	guinea pig	0.2361	450 m^3
+3	488 mph	N/A	Fremont	dog	0.7421 m^2	1016	0.0452	0.0159	996 kg/s	rat	0.4652	828 m^3
+2	616 mph	0.0716 kg/s	San Diego	reptile	0.4861 m^2	100	0.1686	1.0235	385 kg/s	fish	0.615	505 m^3
+0	149 mph	0.3307 kg/s	san jose	chicken	1.1089 m^2	750	0.6249	0.4505	181 kg/s	hamster	0.8985	-107 m^3
+0	225 mph	0.3363 kg/s	San Jose	rabbit	0.8587 m^2	752	0.5296	0.5957	57 kg/s	hamster	0.757	58 m^3
+3	338 mph	0.6154 kg/s	Fremont	fish	0.5794 m^2	781	-0.1604	-0.0004	1047 kg/s	chicken	0.4066	835 m^3
+5	-50 mph	0.8726 kg/s	Oakland	rat	-0.0373 m^2	29	0.7527	0.8363	784 kg/s	rabbit	0.7451	829 m^3
+0	363 mph	0.2196 kg/s	San Jose	guinea pig	0.7163 m^2	641	0.5357	0.6146	68 kg/s	hamster	0.879	167 m^3
+1	1037 mph	0.3152 kg/s	Riverside	ferret	0.8424 m^2	716	0.4565	0.2887	468 kg/s	guinea pig	0.0653	354 m^3
+3	405 mph	0.3224 kg/s	Fremont	pig	0.7123 m^2	1225	0.0509	0.0779	706 kg/s	bird	0.1121	912 m^3
+5	35 mph	0.6413 kg/s	Oakland	rat	-0.1393 m^2	-248	1.1665	0.8675	723 kg/s	cat	0.6655	409 m^3
+3	402 mph	0.484 kg/s	San Francisco	pig, dog	0.7851 m^2	1021	-0.1337	0.0425	1117 kg/s	bird	0.4251	731 m^3
+4	643 mph	0.7579 kg/s	Moreno Valley	cat	0.4935 m^2	596	None	0.2292	389 kg/s	ferret	0.5854	373 m^3
+4	796 mph	0.7952 kg/s	Bakersfield	cat	0.4855 m^2	507		0.3492	106 kg/s	pig	0.5981	396 m^3
+1	1254 mph	0.3197 kg/s	Irvine	ferret	0.8319 m^2	316	0.689	0.1713	638 kg/s	guinea pig	0.1765	357 m^3
+0	12 mph	0.4491 kg/s	San Jose	rabbit	0.9322 m^2	658	0.6646	0.6486	117 kg/s	hamster	0.843	-67 m^3
+2	906 mph	0.2184 kg/s	Sacramento	bird	0.2073 m^2	175	0.4293	0.9502	259 kg/s	dog	0.2496	679 m^3
+0	145 mph	0.2558 kg/s	San Jose	rabbit	0.8791 m^2	863	0.7089	0.5624	279 kg/s	hamster	0.763	73 m^3
+3	217 mph	0.4134 kg/s	San Francisco	fish	0.7467 m^2	938	0.1189	0.0337		bird	0.266	965 m^3
+2	651 mph	0.2408 kg/s	None	reptile	0.5578 m^2	72	0.1668	0.8492	361 kg/s	dog	0.4264	639 m^3
+3	424 mph	0.5608 kg/s	Oakland	fish, dog	0.5985 m^2	1064	0.1636	0.1947	756 kg/s	bird	0.1383	1108 m^3
+4	685 mph	0.4499 kg/s	Santa Clarita	chicken	0.5289 m^2	312	0.3864	0.224	261 kg/s	pig	0.5591	563 m^3
+4	705 mph	0.7859 kg/s	San Bernardino	chicken	0.4678 m^2	511	0.5277	0.5371	415 kg/s	GUINEA PIG	0.4619	323 m^3
+5	146 mph	0.8074 kg/s	Long Beach	rat	0.2021 m^2	219	0.6096	1.0351	891 kg/s	reptile	0.9958	618 m^3
+0	262 mph	0.2157 kg/s	San Jose	rabbit	0.8811 m^2	974	0.5887	0.6048	320 kg/s	hamster	1.0669	-32 m^3
+3	504 mph	0.5323 kg/s	Fremont	fish, dog	0.5937 m^2	805	0.2368	0.1684	1122 kg/s	rat	0.2718	853 m^3
+0	186 mph	0.3788 kg/s	San Jose	guinea pig	1.0467 m^2	386	1.1362	0.4697	87 kg/s	hamster	0.7385	273 m^3
+4	565 mph	0.7315 kg/s	San Bernardino	chicken	0.4294 m^2	663	0.4529	0.3308	147 kg/s	guinea pig	0.5494	435 m^3
+2	650 mph	0.2698 kg/s	Modesto	bird	0.4078 m^2	234	0.2542	1.099	213 kg/s	dog	0.6615	585 m^3
+0	299 mph	0.4565 kg/s	Santa Clarita	GUINEA PIG	0.8637 m^2	615	0.511	0.5946	196 kg/s	reptile	0.8069	162 m^3
+0	186 mph	0.0457 kg/s	Chula Vista	guinea pig	0.92 m^2	612	0.535	0.4103	418 kg/s	hamster	0.7894	16 m^3
+4	677 mph	0.6784 kg/s	Moreno Valley	rat	0.4062 m^2	458	0.3532	0.286	366 kg/s	ferret	0.5154	401 m^3
+4	570 mph	0.4917 kg/s	San Bernardino	cat	0.6722 m^2	541	0.5211	0.3326	368 kg/s	ferret	0.3536	278 m^3
+1	1004 mph	0.3897 kg/s	Irvine	ferret	0.7721 m^2	775	0.7233	0.4083	623 kg/s	guinea pig	0.1247	427 m^3
+2	722 mph	0.0897 kg/s	Los Angeles	reptile	0.1789 m^2	421	0.1559	0.7699	343 kg/s	dog	0.4383	949 m^3
+0	140 mph	0.2628 kg/s	San Jose	guinea pig	1.2018 m^2	592	0.946	0.5364	197 kg/s	reptile	0.7512	177 m^3
+1	750 mph	0.5543 kg/s	Riverside	ferret	0.8391 m^2	493	0.5515	0.3235	566 kg/s	guinea pig	0.1065	458 m^3
+5	113 mph	0.8655 kg/s	Long Beach	hamster	0.0416 m^2	9	0.8759	0.8323	782 kg/s	rabbit	0.6447	831 m^3
+4	437 mph	0.7389 kg/s	Bakersfield	chicken	0.4096 m^2	674	0.4144	0.4296	839 kg/s	ferret	0.624	227 m^3
+4	706 mph	0.7503 kg/s	San Bernardino	cat	0.7202 m^2	337	0.4252	0.3679	203 kg/s	FERRET	0.5478	473 m^3
+1	987 mph	0.3226 kg/s	Anaheim	ferret	0.9817 m^2	488	0.3943	0.1196	308 kg/s	guinea pig	0.0094	267 m^3
+4	581 mph	0.7299 kg/s	Stockton	chicken	0.7054 m^2	573	0.4218	0.2411	338 kg/s	ferret	0.4437	545 m^3
+0	286 mph	0.3205 kg/s	San Jose	guinea pig	0.8307 m^2	659	0.6309	0.6122	155 kg/s	reptile	0.807	-12 m^3
+4	867 mph	0.4428 kg/s	Bakersfield	guinea pig	0.8234 m^2	509	0.3171	0.4437	392 kg/s	pig	0.5978	629 m^3
+1	1126 mph	0.5903 kg/s	Anaheim	ferret	0.7034 m^2	694	0.4926	0.4704	365 kg/s	guinea pig	0.129	388 m^3
+3	482 mph	0.604 kg/s	San Francisco	pig, fish	0.567 m^2	1046	0.0754	0.1963	889 kg/s	chicken	0.2577	867 m^3
+5	91 mph	0.9613 kg/s	Oakland	hamster	0.0012 m^2	199	0.9827	0.8604	824 kg/s	chicken	0.8778	930 m^3
+3	575 mph	0.2531 kg/s	san francisco	pig	0.6355 m^2	913	0.1463	0.2172	977 kg/s	rat	0.1771	1002 m^3
+1	945 mph	0.1957 kg/s	Anaheim	ferret	0.9001 m^2	592	0.7484	0.6152	768 kg/s	guinea pig	0.1961	499 m^3
+3	648 mph	0.5248 kg/s	San Francisco	dog, fish	0.5932 m^2	786	-0.0852	0.1479	1193 kg/s	rat	0.3061	1095 m^3
+5	-123 mph	1.0756 kg/s	Oakland	hamster	0.1608 m^2	44	0.8279	0.9451	787 kg/s	rabbit	0.6251	803 m^3
+5	50 mph	0.864 kg/s	Oakland	hamster	0.0634 m^2	68	0.7706	0.8936	413 kg/s	fish	0.7556	744 m^3
+5	77 mph	0.9372 kg/s	Oakland	rat	-0.1595 m^2	228	0.8491	0.9083	548 kg/s	rabbit	0.8574	718 m^3
+1	1008 mph	0.2574 kg/s	Anaheim	ferret	0.8878 m^2	491	0.6151	0.6548	702 kg/s	guinea pig	0.189	336 m^3
+5	-38 mph	0.9705 kg/s	Oakland	rat	0.2537 m^2	9	0.89	0.7964	806 kg/s	chicken	0.6462	577 m^3
+2	555 mph	0.0839 kg/s	Los Angeles	bird	0.3015 m^2	117	0.5786	1.0205	135 kg/s	fish	0.3923	524 m^3
+5	111 mph	0.9031 kg/s	Oakland	rat	0.1391 m^2	-1	0.8775	0.7876	790 kg/s	N/A	0.8528	771 m^3
+5	-8 mph	0.787 kg/s	Long Beach	Rat	0.0689 m^2	315	0.8159	0.6211	830 kg/s	CHICKEN	0.7796	1123 m^3
+4	559 mph	0.6279 kg/s	Stockton	cat	0.5073 m^2	568	0.1193	0.52	484 kg/s	pig	0.5088	222 m^3
+2	776 mph	0.1534 kg/s	Sacramento	reptile	0.3332 m^2	164	0.3573	0.8281	524 kg/s	fish	0.4246	821 m^3
+3	442 mph	0.6454 kg/s	Fremont	fish, pig	0.8553 m^2	997	0.312	0.2282	868 kg/s	bird	0.4734	856 m^3
+2	625 mph	-0.0691 kg/s	Sacramento	reptile	0.2815 m^2	320	0.3298	1.0166	197 kg/s	dog	0.515	723 m^3
+0	292 mph	0.5636 kg/s	San Jose	guinea pig	1.0365 m^2	788	0.3373	0.4472	77 kg/s	reptile	0.9051	79 m^3
+2	606 mph	0.3272 kg/s	Sacramento	cat	0.2313 m^2	584	0.2515	0.8904	313 kg/s	fish	0.524	490 m^3
+5	-150 mph	0.952 kg/s	Long Beach	rat	0.0805 m^2	458	0.8581	1.0634	761 kg/s	cat	0.6789	822 m^3
+3	283 mph	0.6165 kg/s	San Francisco	pig	0.5987 m^2	1157	-0.0854	0.1152	1075 kg/s	bird	0.1943	816 m^3
+2	402 mph	0.0344 kg/s	Fresno	reptile	0.4712 m^2	417	0.1665	1.0061	467 kg/s	fish	0.6666	686 m^3
+0	229 mph	0.4199 kg/s	San Jose	guinea pig	0.9391 m^2	360	0.3486	0.6832	430 kg/s	rat	0.8476	-70 m^3
+2	766 mph	-0.0787 kg/s	Santa Ana	bird	0.1461 m^2	391	0.1467	0.8205	159 kg/s	dog	0.1741	636 m^3
+5	201 mph	0.7314 kg/s	Irvine	hamster	0.1752 m^2	-4	0.8342	0.9668	707 kg/s	cat	0.7482	828 m^3
+4	657 mph	0.5149 kg/s	Chula Vista	chicken	0.6576 m^2	559	0.6034	0.2394	404 kg/s	ferret	0.5014	?
+0	300 mph	0.034 kg/s	San Jose	rabbit	0.8056 m^2	595	0.825	0.5898	141 kg/s	hamster	0.8174	-8 m^3
+3	429 mph	0.5437 kg/s	San Francisco	fish	0.7739 m^2	1021	0.0424	0.1942	1098 kg/s	bird	0.4117	887 m^3
+2	769 mph	0.0954 kg/s	Fresno	reptile	0.3516 m^2	246	0.2632	1.2138	347 kg/s	dog	0.3014	628 m^3
+1	899 mph	0.2826 kg/s	Irvine	ferret	0.8353 m^2	480	0.6231	NULL	683 kg/s	guinea pig	0.2393	441 m^3
+1	960 mph	0.4511 kg/s	Riverside	ferret	0.6855 m^2	428	0.4989	0.1913	574 kg/s	guinea pig	0.103	292 m^3
+2	718 mph	-0.1094 kg/s	San Diego	bird	0.1383 m^2	304	-0.0133	0.9531	642 kg/s	fish	0.447	632 m^3
+0	255 mph	N/A	San Jose	guinea pig	1.0611 m^2	942	0.5857	0.6276	173 kg/s	reptile	0.8946	288 m^3
+0	74 mph	0.2215 kg/s	San Jose	rabbit	0.9336 m^2	334	0.881	0.5116	257 kg/s	reptile	1.0248	-40 m^3
+0	216 mph	0.1613 kg/s	San Jose	rabbit	0.8836 m^2	938	0.6081	0.6809	278 kg/s	reptile	0.8328	102 m^3
+1	822 mph	0.4998 kg/s	Riverside	FERRET	1.1313 m^2	452	0.5348	0.2877	528 kg/s	hamster	0.0142	367 m^3
+1	1051 mph	0.4113 kg/s	Riverside	ferret	0.6738 m^2	419	0.6561	0.4017	730 kg/s	guinea pig	0.3026	445 m^3
+1	886 mph	n/a	Irvine	ferret	0.7528 m^2	597	0.5728	0.4261	522 kg/s	fish	0.1843	365 m^3
+4	673 mph	0.7682 kg/s	Moreno Valley	CAT	0.3731 m^2	338	0.3407	0.1402	69 kg/s	ferret	0.562	454 m^3
+4	666 mph	0.7342 kg/s	Stockton	chicken	0.5406 m^2	399	0.2197	0.2041	192 kg/s	fish	0.655	277 m^3
+5	N/A	0.7657 kg/s	Riverside	hamster	0.15 m^2	-165	0.8002	0.8071	960 kg/s	chicken	0.865	592 m^3
+4	561 mph	0.6138 kg/s	Stockton	rat	0.3659 m^2	569	-0.0113	0.1618	132 kg/s	pig	0.8272	131 m^3
+1	909 mph	0.3717 kg/s	Fremont	ferret	0.7695 m^2	451	0.7236	N/A	579 kg/s	guinea pig	0.2236	475 m^3
+4	581 mph	0.97 kg/s	Moreno Valley	chicken	0.3644 m^2	483	0.2021	0.3012	237 kg/s	pig	None	481 m^3
+1	1029 mph	0.3975 kg/s	Riverside	ferret	0.6124 m^2	392	0.8444	0.5364	830 kg/s	guinea pig	0.2207	403 m^3
+2	520 mph	0.1517 kg/s	Modesto	bird	0.2535 m^2	491	0.3079	1.0653	369 kg/s	dog	0.6912	719 m^3
+2	628 mph	0.1519 kg/s	Modesto	reptile	0.372 m^2	269	0.2981	0.886	288 kg/s	dog	0.4791	815 m^3
+2	644 mph	-0.0634 kg/s	Los Angeles	reptile	0.4001 m^2	10	0.1163	1.072	530 kg/s	n/a	0.5363	463 m^3
+2	645 mph	0.1813 kg/s	Modesto	reptile	0.2508 m^2	416	0.1194	0.8516	599 kg/s	fish	0.572	816 m^3
+1	1070 mph	0.394 kg/s	Anaheim	ferret	0.7031 m^2	688	0.7284	0.3712	153 kg/s	guinea pig	0.0295	201 m^3
+3	325 mph	0.4649 kg/s	San Francisco	pig, fish	0.7014 m^2	936	-0.0617	-0.0431	988 kg/s	rat	0.1775	1060 m^3
+3	150 mph	0.2909 kg/s	Fremont	dog	0.452 m^2	1006	0.2356	-0.0406	678 kg/s	bird	0.4034	854 m^3
+2	586 mph	-0.0825 kg/s	Modesto	bird	0.3647 m^2	42	0.1145	0.8175	394 kg/s	fish	0.2978	706 m^3
+4	513 mph	0.8574 kg/s	San Bernardino	chicken	0.46 m^2	766	0.3543	0.3026	117 kg/s	pig	0.6413	236 m^3
+3	223 mph	0.5325 kg/s	San Francisco	dog, pig	0.69 m^2	1140	0.3546	0.0593	864 kg/s	rat	0.314	925 m^3
+4	843 mph	0.5494 kg/s	San Bernardino	cat	0.73 m^2	397	0.7309	0.1628	272 kg/s	ferret	0.4947	485 m^3
+2	564 mph	0.0894 kg/s	San Diego	reptile	0.5436 m^2	367	0.2611	0.8059	420 kg/s	dog	0.5312	562 m^3
+0	394 mph	0.1673 kg/s	San Jose	rabbit	1.0562 m^2	426	0.6331	0.6159	120 kg/s	hamster	0.9381	280 m^3
+0	190 mph	0.1858 kg/s	San Jose	rabbit	0.921 m^2	958	0.6316	0.5067	396 kg/s	hamster	0.8423	20 m^3
+3	195 mph	0.4422 kg/s	Fremont	fish	0.4147 m^2	968	0.284	0.0834	966 kg/s	RAT	0.3591	800 m^3
+2	736 mph	0.0689 kg/s	Modesto	reptile	0.2798 m^2	362	0.1162	1.003	385 kg/s	fish	0.5121	612 m^3
+0	264 mph	0.1053 kg/s	San Jose	guinea pig	0.9933 m^2	553	0.5402	0.7629	350 kg/s	hamster	0.6785	-46 m^3
+3	273 mph	0.5131 kg/s	Fremont	fish, dog		942	0.0256	0.139	903 kg/s	rat	0.2031	1023 m^3
+2	745 mph	-0.1469 kg/s	Los Angeles	bird	0.2953 m^2	176	0.2755	1.1335	417 kg/s	dog	0.5112	240 m^3
+1	880 mph	0.3862 kg/s	Irvine	ferret	0.6932 m^2	501	0.5054	0.5815	745 kg/s	guinea pig	0.1427	537 m^3
+5	-136 mph	0.8624 kg/s	lONG bEACH	rat	0.2579 m^2	-199	0.8158	0.67	821 kg/s	rabbit	0.7614	933 m^3
+1	985 mph	0.2912 kg/s	Sacramento	ferret	0.765 m^2	237	0.5921	0.2381	421 kg/s	guinea pig	0.3569	354 m^3
+5	-6 mph	0.8006 kg/s	San Francisco	hamster	0.0973 m^2	-23	0.8873	0.7666	611 kg/s	rabbit	0.8485	739 m^3
+5	170 mph	0.8044 kg/s	Long Beach	hamster	0.2874 m^2	191	0.8454	0.6483	542 kg/s	chicken	0.67	774 m^3
+0	312 mph	0.1471 kg/s	SAN JOSE	guinea pig	1.088 m^2	765	0.4098	0.5642	-29 kg/s	reptile	0.8289	88 m^3
+2	654 mph	0.0421 kg/s	Los Angeles	bird	0.2459 m^2	296	0.4009	1.0108	370 kg/s	dog	0.6547	703 m^3
+0	258 mph	0.3719 kg/s	San Jose	rabbit	1.0622 m^2	739	0.7703	0.8601	48 kg/s	hamster	0.9605	134 m^3
+2	926 mph	0.1269 kg/s	Los Angeles	BIRD	0.4185 m^2	174	0.2103	1.1277	500 kg/s	fish	0.452	700 m^3
+5	47 mph	1.0346 kg/s	Oakland	hamster	0.2812 m^2	166	0.7024	0.7416	617 kg/s	rabbit	0.7675	602 m^3
+3	630 mph	0.4452 kg/s	Fremont	dog	0.5294 m^2	1253	0.2014	0.15	956 kg/s	rat	0.1642	901 m^3
+3	329 mph	0.5528 kg/s	Fremont	fish	0.8146 m^2	1177	-0.0802	-0.1193	852 kg/s	rat	0.1761	993 m^3
+4	846 mph	0.49 kg/s	NULL	chicken	0.6914 m^2	466	0.1098	0.2021	296 kg/s	pig	0.6054	451 m^3
+2	658 mph	-0.1176 kg/s	Santa Ana	ferret	0.2797 m^2	358	0.5127	1.0349	378 kg/s	fish	0.2998	828 m^3
+3	266 mph	0.7525 kg/s	Fremont	pig, fish	0.8314 m^2	963	0.0208	0.1301	1053 kg/s	bird	0.0014	1056 m^3
+1	1056 mph	0.475 kg/s	Stockton	ferret	0.7804 m^2	237	0.7459	0.4402	349 kg/s	guinea pig	0.1873	245 m^3
+2	681 mph	0.0232 kg/s	Sacramento	reptile	0.4529 m^2	15	0.3371	0.9333	239 kg/s	fish	0.3492	842 m^3
+0	142 mph	0.244 kg/s	San Jose	rabbit	1.1288 m^2	667	0.6638	0.6301	208 kg/s	hamster	1.0453	207 m^3
+0	149 mph	0.3831 kg/s	San Jose	rabbit	0.7902 m^2	610	0.7109	0.6763	155 kg/s	reptile	0.9598	169 m^3
+4	611 mph	0.8121 kg/s	Stockton	cat	0.7277 m^2	-46	0.3816	0.3987	397 kg/s	pig	0.4774	307 m^3
+1	1158 mph	0.4257 kg/s	Anaheim	ferret	1.0286 m^2	510	0.6444	0.4517	672 kg/s	guinea pig	0.0371	576 m^3
+4	589 mph	0.6173 kg/s	mORENO vALLEY	bird	0.5539 m^2	684	0.5336	0.2175	200 kg/s	ferret	0.6724	386 m^3
+5	299 mph	0.8914 kg/s	Oakland	hamster	0.0919 m^2	102	0.8069	0.7853	667 kg/s	rabbit	0.8519	739 m^3
+3	471 mph	N/A	San Francisco	dog	0.7374 m^2	1183	0.0451	0.0446	824 kg/s	bird	0.215	979 m^3
+5	156 mph	0.845 kg/s	Oakland	hamster	0.1562 m^2	-152	1.1185	0.7748	732 kg/s	cat	0.6607	728 m^3
+0	191 mph	0.2901 kg/s	San Jose	RABBIT	0.9295 m^2	860	0.8175	0.5299	249 kg/s	reptile	0.8059	109 m^3
+3	502 mph	0.5481 kg/s	Fremont	pig, fish	0.7057 m^2	1218	0.0062	0.2007	829 kg/s	bird	0.5995	895 m^3
+1	827 mph	0.5761 kg/s	Fremont	ferret	0.8666 m^2	425	0.798	0.3094	471 kg/s	guinea pig	0.1412	206 m^3
+5	129 mph	0.7986 kg/s	Fresno	hamster	0.2475 m^2	-130	0.9875	1.0939	820 kg/s	cat	NULL	625 m^3
+3	360 mph	0.4301 kg/s	San Francisco	fish, dog	0.5507 m^2	850	-0.037	0.0909	654 kg/s	bird	0.2191	849 m^3
+2	620 mph	-0.0961 kg/s	Los Angeles	reptile	0.4113 m^2	309	-0.0193	1.2823	112 kg/s	bird	0.2831	892 m^3
+4	534 mph	0.5673 kg/s	Stockton	cat	0.2732 m^2	333	0.4074	0.3937	374 kg/s	pig	0.6226	377 m^3
+2	742 mph	0.1853 kg/s	Modesto	bird	0.3572 m^2	100	0.2286	1.0292	348 kg/s	fish	None	601 m^3
+1	885 mph	0.3814 kg/s	Riverside	ferret	0.9393 m^2	189	0.676	0.4255	448 kg/s	chicken	0.1944	210 m^3
+1	1066 mph	0.3834 kg/s	ANAHEIM	ferret	0.8422 m^2	532	0.6469	0.5793	708 kg/s	guinea pig	0.3623	263 m^3
+1	970 mph	0.4337 kg/s	Irvine	ferret	0.7402 m^2	860	0.4984	0.4633	425 kg/s	guinea pig	0.1543	302 m^3
+1	986 mph	0.4002 kg/s	Riverside	rat	0.7751 m^2	506	0.7879	0.2685	365 kg/s	guinea pig	0.1287	437 m^3
+3	512 mph	0.5114 kg/s	Fremont	dog	0.8041 m^2	1041	0.3417	0.0297	870 kg/s	rat	0.1468	870 m^3
+3	397 mph	0.5589 kg/s	FREMONT	fish	0.5729 m^2	1043	0.1203	0.0711	605 kg/s	bird	-0.0665	1028 m^3
+3	338 mph	0.6702 kg/s	Fremont	guinea pig	0.3643 m^2	966	0.1894	0.04	989 kg/s	rat	0.4305	953 m^3
+1	710 mph	0.1987 kg/s	Irvine	ferret	0.8784 m^2	454	0.6254	0.2254	628 kg/s	guinea pig	0.1232	359 m^3
+2	386 mph	0.1718 kg/s	Los Angeles	bird	0.2028 m^2	501	0.065	0.8766	351 kg/s	dog	0.4047	913 m^3
+3	164 mph	0.8197 kg/s	Fremont	pig	0.5627 m^2	1072	-0.0642	0.131	1104 kg/s	cat	0.2792	1184 m^3
+1	932 mph	0.178 kg/s	Irvine	FERRET	0.833 m^2	759	0.4821	0.425	443 kg/s	guinea pig	0.1289	247 m^3
+1	1117 mph	-0.0665 kg/s	San Francisco	ferret	0.7165 m^2	475	0.6876	0.4279	589 kg/s	Guinea Pig	0.2315	244 m^3
+0	295 mph	0.0143 kg/s	San Jose	guinea pig	1.0618 m^2	710	0.4749	0.6914	40 kg/s	reptile	0.7007	82 m^3
+0	167 mph	0.4089 kg/s	San Jose	guinea pig	1.122 m^2	776	0.5641	0.646	290 kg/s	rat	0.804	228 m^3
+5	30 mph	0.8438 kg/s	Long Beach	rat	0.141 m^2	85	0.8862	0.7883	784 kg/s	rabbit	0.6812	740 m^3
+1	1009 mph	0.3249 kg/s	Anaheim	ferret	0.6706 m^2	621	0.6431	0.4838	647 kg/s	bird	0.1708	335 m^3
+1	1091 mph	0.3415 kg/s	Anaheim	ferret	0.5517 m^2	346	0.7178	0.389	656 kg/s	guinea pig	0.1934	370 m^3
+4	711 mph	0.6855 kg/s	Chula Vista	cat	0.5104 m^2	589	0.3059	0.2005	302 kg/s	pig	0.5576	177 m^3
+1	1172 mph	0.1802 kg/s	Anaheim	ferret	0.8423 m^2	500	0.993	0.3161	609 kg/s	guinea pig	0.0612	502 m^3
+3	310 mph	0.5108 kg/s	San Francisco	dog, fish	0.6495 m^2	1046	-0.1444	0.2465	818 kg/s	bird	0.3	1016 m^3
+4	527 mph	0.6227 kg/s	Santa Clarita	chicken	0.6026 m^2	633	0.3137	0.2106	264 kg/s	ferret	0.8769	357 m^3
+4	701 mph	0.7518 kg/s	Long Beach	chicken	0.3815 m^2	560	0.2206	0.2737	316 kg/s	Pig	0.651	404 m^3
+1	1105 mph	0.3287 kg/s	Irvine	ferret	0.6886 m^2	576	0.6624	0.4589	793 kg/s	guinea pig	0.3053	338 m^3
+1	754 mph	0.3652 kg/s	Fremont	ferret	0.6233 m^2	785	1.0209	0.4803	770 kg/s	guinea pig	0.3954	NULL
+4	567 mph	0.6 kg/s	Moreno Valley	cat	0.4593 m^2	489	0.6544	0.036	15 kg/s	reptile	0.5093	284 m^3
+4	664 mph	0.6925 kg/s	Chula Vista	cat	0.4732 m^2	390	0.6265	0.5354	460 kg/s	Pig	0.6252	388 m^3
+1	947 mph	0.4194 kg/s	San Francisco	ferret	0.6805 m^2	687	0.7492	0.3927	511 kg/s	guinea pig	0.3535	365 m^3
+2	655 mph	-0.0099 kg/s	NULL	bird	0.274 m^2	102	0.3221	0.695	399 kg/s	dog	0.5425	805 m^3
+0	191 mph	0.3444 kg/s	Modesto	guinea pig	1.0153 m^2	780	0.5127	0.3471	301 kg/s	hamster	0.6051	134 m^3
+0	216 mph	0.3485 kg/s	San Jose	guinea pig	0.9706 m^2	882	0.6531	0.5284	-195 kg/s	hamster	0.9236	22 m^3
+1	938 mph	0.2171 kg/s	Irvine	ferret	0.6766 m^2	677	0.3029	0.298	157 kg/s	guinea pig	0.1364	560 m^3
+2	801 mph	0.0602 kg/s	Fresno	reptile	0.4615 m^2	236	0.2127	1.0099	448 kg/s	fish	0.7934	632 m^3
+3	276 mph	0.3514 kg/s	Fremont	fish, pig	0.7452 m^2	1092	0.0385	0.0228	932 kg/s	bird	0.2781	1090 m^3
+1	968 mph	0.3805 kg/s	Irvine	ferret	0.6945 m^2	612	0.4291	0.2907	670 kg/s	guinea pig	-0.0007	460 m^3
+3	358 mph	0.5844 kg/s	Fremont	fish, dog	0.6185 m^2	941	0.174	0.31	1159 kg/s	rat	0.1847	1086 m^3
+3	239 mph	0.7896 kg/s	fremont	pig, dog	0.3883 m^2	1166	-0.0802	0.2078	1154 kg/s	rat	0.1753	921 m^3
+4	594 mph	0.8057 kg/s	Bakersfield	cat	0.5383 m^2	581	0.2121	0.2631	548 kg/s	ferret	0.4382	374 m^3
+4	714 mph	0.5203 kg/s	Oakland	cat	0.5796 m^2	488	0.4047	0.2	345 kg/s	rabbit	0.6082	320 m^3
+4	428 mph	0.6333 kg/s	Santa Clarita	cat	0.3637 m^2	546	0.5424	0.3649	392 kg/s	pig	0.6185	317 m^3
+4	535 mph	0.9387 kg/s	Santa Clarita	cat	0.4536 m^2	632	0.7203	0.4317	501 kg/s	pig	0.5055	224 m^3
+5	-43 mph	1.1448 kg/s	Oakland	hamster	-0.0561 m^2	-256		0.6845	878 kg/s	cat	0.889	816 m^3
+2	582 mph	0.1625 kg/s	Modesto	bird	0.3575 m^2	266	0.1334	1.0124	209 kg/s	fish	0.5134	689 m^3
+5	87 mph	0.7661 kg/s	FREMONT	hamster	0.0931 m^2	-155	0.7198	0.7852	741 kg/s	cat	0.9951	849 m^3
+0	245 mph	0.4072 kg/s	San Jose	Bird	0.7505 m^2	662	NULL	0.6015	-94 kg/s	Reptile	0.8371	-175 m^3
+2	551 mph	0.1373 kg/s	Los Angeles	reptile	0.3052 m^2	161	0.2833	0.9766	803 kg/s	dog	0.2703	704 m^3
+1	1050 mph	0.6646 kg/s	Los Angeles	ferret	1.1523 m^2	645	0.548	0.341	750 kg/s	guinea pig	-0.0993	511 m^3
+4	488 mph	0.7592 kg/s	Bakersfield	chicken	0.4349 m^2	426	0.4676	0.4111	369 kg/s	pig	0.6596	142 m^3
+5	66 mph	1.0212 kg/s	Oakland	hamster	0.1658 m^2	37	0.9292	0.7708	795 kg/s	cat	0.9062	658 m^3
+2	654 mph	0.022 kg/s	Modesto	bird	0.2026 m^2	307	0.2729	0.8936	190 kg/s	dog	0.442	688 m^3
+4	684 mph	0.7661 kg/s	Stockton	chicken	0.452 m^2	243	0.5713	0.3349	256 kg/s	ferret	0.5782	380 m^3
+1	984 mph	0.6371 kg/s	Riverside	ferret	0.6541 m^2	708	0.7	0.241	533 kg/s	guinea pig	0.1329	397 m^3
+2	1032 mph	0.0981 kg/s	Santa Ana	bird	0.3543 m^2	224	0.2533	1.0183	652 kg/s	fish	0.4365	857 m^3
+0	349 mph	0.4235 kg/s	San Jose	guinea pig	0.9156 m^2	841	0.7892	0.7621	244 kg/s	reptile	0.9967	103 m^3
+5	56 mph	0.9118 kg/s	Fremont	rat	0.4455 m^2	101	0.9016	0.8562	745 kg/s	chicken	0.6521	710 m^3
+4	829 mph	0.6381 kg/s	Bakersfield	chicken	0.4127 m^2	424	0.5534	0.2882	603 kg/s	pig	0.7371	404 m^3
+4	678 mph	0.7509 kg/s	San Francisco	cat	0.2687 m^2	275	0.5616	0.2069	440 kg/s	hamster	0.5396	423 m^3
+2	728 mph	0.1023 kg/s	Los Angeles	reptile	0.457 m^2	440	-0.1271	0.746	NULL	fish	0.4963	703 m^3
+1	943 mph	0.2315 kg/s	Riverside	ferret	0.6799 m^2	661	0.7248	0.6009	683 kg/s	guinea pig	0.1382	85 m^3
+4	862 mph	0.68 kg/s	Chula Vista	cat	0.1967 m^2	181	0.309	0.3509	599 kg/s	FERRET	0.5729	573 m^3
+3	218 mph	0.6844 kg/s	Fremont	ferret	0.8556 m^2	1006	0.0223	0.2829	595 kg/s	bird	0.0356	788 m^3
+2	825 mph	0.0291 kg/s	Santa Ana	reptile	0.3967 m^2	151	0.1864	1.0352	272 kg/s	fish	0.4562	412 m^3
+0	106 mph	0.1872 kg/s	San Jose	guinea pig	1.0194 m^2	646	0.6345	0.7142	-86 kg/s	reptile	0.6477	24 m^3
+3	209 mph	0.4648 kg/s	Fremont	fish, dog	0.8717 m^2	1112	0.2525	0.2018	1048 kg/s	rat	-0.0154	968 m^3
+3	329 mph	0.7345 kg/s	Fremont	pig	0.6521 m^2	1024	-0.0118	0.0277	702 kg/s	bird	0.2036	959 m^3
+2	662 mph	0.2212 kg/s	Sacramento	reptile	0.3044 m^2	347	0.3439	0.9829	377 kg/s	dog	0.457	759 m^3
+1	1010 mph	0.267 kg/s	Riverside	ferret	0.5663 m^2	484	0.4768	0.3866	486 kg/s	GUINEA PIG	0.1846	399 m^3
+5	125 mph	0.8369 kg/s	Long Beach	hamster	0.1397 m^2	-294	1.0106	0.9392	392 kg/s	chicken	0.7274	888 m^3
+1	1188 mph	0.4542 kg/s	Irvine	ferret	0.505 m^2	424	0.2686	0.3826	498 kg/s	guinea pig	0.0659	354 m^3
+1	791 mph	0.195 kg/s	Oakland	ferret	0.5044 m^2	364	0.5509	0.3282	638 kg/s	guinea pig	0.1261	379 m^3
+0	186 mph	0.0731 kg/s	San Jose	rabbit	1.1018 m^2	580	0.7175	0.553	152 kg/s	reptile	0.9521	100 m^3
+0	193 mph	0.4384 kg/s	San Jose	rabbit	0.9479 m^2	907	0.8253	0.4214	300 kg/s	reptile	0.8375	-25 m^3
+2	660 mph	-0.0844 kg/s	Santa Ana	reptile	0.2153 m^2	385	0.1711	1.1328	345 kg/s	dog	0.4209	650 m^3
+5	103 mph	1.0627 kg/s	Long Beach	rat	0.2374 m^2	185	0.7524	0.9317	928 kg/s	chicken	0.7568	872 m^3
+2	619 mph	-0.0626 kg/s	San Diego	bird	0.38 m^2	93	0.2926	0.951	450 kg/s	cat	0.2066	550 m^3
+2	738 mph	-0.0368 kg/s	Santa Ana	reptile	0.4024 m^2	362	0.4424	0.9747	284 kg/s	dog	0.345	966 m^3
+4	778 mph	0.5058 kg/s	Bakersfield	cat	0.5899 m^2	666	0.3074	0.3058	55 kg/s	ferret	0.4768	170 m^3
+3	442 mph	0.6735 kg/s	San Francisco	fish	0.7264 m^2	852	0.0435	0.1954	1075 kg/s	rat	0.2232	845 m^3
+3	420 mph	0.5304 kg/s	San Diego	fish, dog	0.4816 m^2	953	0.0318	0.1983	634 kg/s	hamster	0.0655	814 m^3
+5	142 mph	0.7863 kg/s	Long Beach	rat	-0.0891 m^2	37	0.8652	1.0177	993 kg/s	chicken	0.8326	673 m^3
+5	15 mph	0.8011 kg/s	Santa Clarita	rat	0.1489 m^2	13	0.8524	0.8444	686 kg/s	chicken	0.8101	689 m^3
+5	279 mph	0.8067 kg/s	Oakland	RAT	0.1197 m^2	151	0.8766	0.7731	460 kg/s	chicken	0.7095	817 m^3
+0	346 mph	0.3826 kg/s	San Jose	guinea pig	0.7974 m^2	587	0.7723	0.5585	-16 kg/s	reptile	0.8822	-42 m^3
+5	-119 mph	0.7648 kg/s	Oakland	rat	0.2218 m^2	199	0.9599	0.897	757 kg/s	chicken	0.6348	697 m^3
+1	932 mph	0.3169 kg/s	Irvine	cat	1.0523 m^2	536	0.6631	0.3681	553 kg/s	guinea pig	0.0754	130 m^3
+1	891 mph	0.3495 kg/s	ANAHEIM	ferret	NULL	303	0.9165	0.4752	668 kg/s	guinea pig	0.1381	624 m^3
+3	309 mph	0.5296 kg/s	Fremont	FISH, PIG	0.5083 m^2	1177	0.1656	0.1541	1036 kg/s	rat	0.2949	901 m^3
+2	734 mph	0.3573 kg/s	Santa Ana	reptile	0.2408 m^2	557	0.2365	0.9058	447 kg/s	dog	0.3391	491 m^3
+5	97 mph	0.7782 kg/s	Oakland	rat	0.1403 m^2	12	0.7801	1.0391	640 kg/s	chicken	0.7867	720 m^3
+2	753 mph	0.3172 kg/s	Sacramento	bird	0.2372 m^2	45	0.1122	0.9543	283 kg/s	fish	0.3669	558 m^3
+2	471 mph	0.2189 kg/s	Modesto	reptile	0.3998 m^2	-86	0.2181	0.987	275 kg/s	fish	0.2258	685 m^3
+3	293 mph	0.6267 kg/s	San Francisco	DOG, PIG	0.7074 m^2	967	0.2955	0.0729	893 kg/s	rat	0.2913	1100 m^3
+4	565 mph	0.6476 kg/s	Riverside	chicken	0.465 m^2	455	0.3549	0.4092	221 kg/s	ferret	0.5333	285 m^3
+0	317 mph	0.1497 kg/s	Fresno	guinea pig	1.0255 m^2	605	0.4016	0.5045	310 kg/s	hamster	0.8671	224 m^3
+5	28 mph	0.9684 kg/s	Long Beach	hamster	0.1113 m^2	10	0.6777	0.8963	843 kg/s	rabbit	0.7425	843 m^3
+0	370 mph	0.2893 kg/s	San Jose	guinea pig	0.7797 m^2	551	0.5599	0.6174	214 kg/s	reptile	0.7316	-82 m^3
+5	0 mph	0.8563 kg/s	Modesto	hamster	0.011 m^2	-219	0.6985	0.9606	885 kg/s	cat	0.5793	770 m^3
+2	667 mph	0.0152 kg/s	Fresno	bird	0.4427 m^2	295	0.331	0.9278	299 kg/s	fish	0.1929	538 m^3
+4	642 mph	0.6451 kg/s	Chula Vista	chicken	0.56 m^2	711	0.3205	0.2774	134 kg/s	pig	0.6973	594 m^3
+3	355 mph	0.5672 kg/s	Fremont	fish, pig	0.3998 m^2	1035	0.2855	0.153	1011 kg/s	rat	0.1585	849 m^3
+2	737 mph	0.0565 kg/s	Los Angeles	reptile	0.2113 m^2	268	0.293	0.9714	439 kg/s	fish	0.4973	628 m^3
+0	210 mph	0.3499 kg/s	San Jose	rabbit	0.959 m^2	536	0.8734	0.4984	317 kg/s	reptile	0.8468	13 m^3
+3	300 mph	0.5906 kg/s	Fremont	pig, fish	n/a	703	0.0271	-0.0314	551 kg/s	bird	0.4158	1009 m^3
+3	297 mph	0.6155 kg/s	San Francisco	dog	0.7125 m^2	915	0.0879	0.1894	n/a	bird	0.2836	1125 m^3
+5	150 mph	0.8187 kg/s	OAKLAND	hamster	-0.133 m^2	-205	0.7735	0.8767	831 kg/s	cat	0.6645	733 m^3
+2	374 mph	-0.0412 kg/s	Los Angeles	dog	0.2588 m^2	230	0.1651	0.7305	230 kg/s	dog	0.4668	621 m^3
+0	-24 mph	0.0779 kg/s	San Jose	guinea pig	1.024 m^2	956	0.5637	0.6482	374 kg/s	hamster	0.8194	116 m^3
+1	855 mph	0.3593 kg/s	Anaheim	ferret	0.8036 m^2	380	0.4785	0.4427	572 kg/s	guinea pig	0.1498	172 m^3
+4	620 mph	0.6619 kg/s	Santa Clarita	cat	0.3475 m^2	293	0.6559	0.3667	495 kg/s	ferret	0.54	396 m^3
+3	272 mph	0.5072 kg/s	san francisco	pig	0.6478 m^2	1199	0.0098	0.0741	658 kg/s	rat	0.0885	1033 m^3
+2	800 mph	-0.0147 kg/s	Modesto	bird	0.3204 m^2	-78	0.1834	0.9709	19 kg/s	dog	0.5481	707 m^3
+1	942 mph	0.3435 kg/s	Riverside	ferret	0.8489 m^2	313	0.6018	0.3386	645 kg/s	guinea pig	0.234	275 m^3
+1	?	0.4878 kg/s	Anaheim	ferret	0.7821 m^2	498	0.4443	0.476	746 kg/s	fish	0.2871	477 m^3
+5	240 mph	0.9191 kg/s	Oakland	rat	0.0449 m^2	-67	0.7347	0.6589	713 kg/s	cat	0.8495	423 m^3
+3	492 mph	0.4467 kg/s	Fremont	FISH, PIG	0.6325 m^2	1021	0.0679	0.0245	735 kg/s	BIRD	0.3618	1063 m^3
+0	192 mph	0.3249 kg/s	San Jose	rabbit	1.0939 m^2	550	1.0455	0.6592	235 kg/s	hamster	0.9159	156 m^3
+3	338 mph	0.4586 kg/s	Fremont	dog	0.7412 m^2	897	0.1345	-0.1044	668 kg/s	bird	0.2064	703 m^3
+5	267 mph	0.8247 kg/s	Long Beach	hamster	0.1776 m^2	-97	0.9984	0.7227	788 kg/s	chicken	0.5249	707 m^3
+2	741 mph	0.0528 kg/s	Los Angeles	bird	0.2806 m^2	156	-0.044	1.0158	163 kg/s	fish	0.5867	391 m^3
+2	593 mph	0.1503 kg/s	Fresno	bird	-0.0007 m^2	226	0.4368	1.0583	182 kg/s	dog	0.6338	660 m^3
+0	266 mph	0.3873 kg/s	Oakland	guinea pig	1.0102 m^2	644	0.6797	0.65	172 kg/s	reptile	0.8341	-64 m^3
+5	76 mph	0.8599 kg/s	Long Beach	rat	0.202 m^2	271	1.0997	0.9148	840 kg/s	cat	0.73	698 m^3
+5	17 mph	0.8567 kg/s	Long Beach	hamster	-0.0714 m^2	107	0.9236	0.7176	784 kg/s	chicken	0.8743	801 m^3
+4	689 mph	0.8825 kg/s	Long Beach	cat	0.5903 m^2	439	0.4559	0.5101	513 kg/s	pig	0.5357	345 m^3
+1	1064 mph	0.4021 kg/s	Anaheim	ferret	0.8565 m^2	455	0.4037	0.3329	651 kg/s	guinea pig	0.1856	489 m^3
+3	450 mph	0.6247 kg/s	Fremont	fish	0.5382 m^2	737	-0.0212	0.0966	585 kg/s	n/a	0.2899	1012 m^3
+1	1097 mph	0.5531 kg/s	Irvine	ferret	1.0054 m^2	404	0.5562	0.3945	271 kg/s	guinea pig	-0.029	250 m^3
+5	134 mph	1.2255 kg/s	Long Beach	guinea pig	0.1339 m^2	80	0.8919	1.0018	691 kg/s	rabbit	0.641	678 m^3
+2	676 mph	-0.0502 kg/s	Modesto	reptile	0.4581 m^2	448	0.4181	1.04	579 kg/s	fish	0.6875	462 m^3
+1	957 mph	0.4818 kg/s	Irvine	ferret	NULL	682	0.6624	0.2111	589 kg/s	NULL	0.0923	302 m^3
+4	743 mph	0.4688 kg/s	Oakland	chicken	0.3758 m^2	475	0.0285	0.2479	2 kg/s	pig	0.6253	303 m^3
+3	483 mph	0.6278 kg/s	Anaheim	pig, dog	0.985 m^2	975	0.1115	0.2018	1131 kg/s	bird	0.2683	934 m^3
+5	143 mph	0.8056 kg/s	Oakland	rat	0.0776 m^2	-17	0.7986	0.6541	649 kg/s	rabbit	1.0809	920 m^3
+0	300 mph	0.373 kg/s	San Jose	guinea pig	0.7843 m^2	745	0.3654	0.5569	301 kg/s	hamster	0.7754	251 m^3
+1	564 mph	n/a	Irvine	ferret	0.7394 m^2	712	0.6771	0.2801	812 kg/s	guinea pig	0.3531	317 m^3
+5	212 mph	0.7714 kg/s	Long Beach	hamster	0.3962 m^2	-133	0.8271	0.8199	694 kg/s	cat	0.6906	745 m^3
+5	155 mph	0.9684 kg/s	Oakland	hamster	0.288 m^2	-161	0.7241	0.8418	693 kg/s	cat		719 m^3
+2	512 mph	-0.0129 kg/s	San Diego	bird	0.2378 m^2	-20	0.2894	1.0951	371 kg/s	fish	0.3717	866 m^3
+2	696 mph	0.2317 kg/s	Fresno	bird	0.4406 m^2	175	0.3669	0.8511	265 kg/s	reptile	0.567	478 m^3
+3	328 mph	0.6311 kg/s	Fremont	PIG	0.7066 m^2	951	0.0704	0.1668	893 kg/s	rat	0.2204	796 m^3
+0	113 mph	0.3025 kg/s	San Jose	guinea pig	0.6411 m^2	694	0.7325	0.6931	103 kg/s	hamster	0.9144	194 m^3
+1	967 mph	0.3582 kg/s	Riverside	ferret	0.8592 m^2	279	0.8044	0.3714	575 kg/s	guinea pig	0.0192	405 m^3
+0	370 mph	0.2804 kg/s	San Jose	guinea pig	0.9755 m^2	759	0.7366	0.52	30 kg/s	REPTILE	0.8495	244 m^3
+0	406 mph	0.2737 kg/s	San Jose	rabbit	1.0218 m^2	805	0.5704	0.4139	245 kg/s	fish	0.8557	111 m^3
+1	950 mph	0.095 kg/s	Irvine	ferret	0.8647 m^2	530	0.546	0.4975	726 kg/s	guinea pig	0.0775	484 m^3
+0	125 mph	0.2045 kg/s	San Jose	guinea pig	1.1777 m^2	536	0.6549	0.6433	-166 kg/s	reptile	0.9629	-166 m^3
+1	1045 mph	0.3213 kg/s	Irvine	ferret	0.6081 m^2	484	0.6626	0.5463	924 kg/s	guinea pig	0.0686	40 m^3
+4	966 mph	0.9844 kg/s	Moreno Valley	chicken	0.402 m^2	723	0.5715	0.5346	267 kg/s	ferret	0.6274	386 m^3
+3	246 mph	0.4436 kg/s	Fremont	pig	0.6092 m^2	995	0.0764	0.1574	1028 kg/s	bird	-0.0582	979 m^3
+1	877 mph	0.3528 kg/s	Riverside	ferret	0.8039 m^2	73	0.7581	0.253	719 kg/s	guinea pig	-0.0068	415 m^3
+2	667 mph	0.257 kg/s	Fresno	bird	0.4772 m^2	192	0.1128	0.7695	499 kg/s	dog	0.4969	639 m^3
+4	584 mph	0.6513 kg/s	Stockton	cat	0.2963 m^2	442	0.5054	0.2304	420 kg/s	pig	0.6697	500 m^3
+4	557 mph	0.8484 kg/s	Moreno Valley	chicken	0.4856 m^2	499	0.3077	0.2579	240 kg/s	pig	0.5349	379 m^3
+1	886 mph	0.4457 kg/s	Riverside	ferret	0.8047 m^2	430	0.4835	0.3229	656 kg/s	rat	0.0665	509 m^3
+0	368 mph	0.1496 kg/s	San Jose	rabbit	1.046 m^2	773	0.4158	0.5428	47 kg/s	reptile	1.0495	248 m^3
+2	758 mph	0.0121 kg/s	Los Angeles	n/a	0.4644 m^2	310	0.3616	n/a	178 kg/s	fish	0.6045	833 m^3
+2	496 mph	0.2087 kg/s	Santa Ana	reptile		159	-0.0001	0.8068	600 kg/s	fish	0.424	824 m^3
+1	1103 mph	0.3232 kg/s	Irvine		0.8952 m^2	251	0.4473	0.3535	371 kg/s	guinea pig	0.0854	280 m^3
+5	295 mph	0.8174 kg/s	Oakland	rat	-0.1115 m^2	-34	0.9865	0.9098	882 kg/s	chicken	1.039	939 m^3
+3	362 mph	0.5934 kg/s	San Francisco	fish	0.6922 m^2	880	-0.0064	-0.0224	937 kg/s	rat	0.1918	868 m^3
+1	807 mph	0.3556 kg/s	Riverside	ferret	0.7985 m^2	318	0.9026	0.4112	683 kg/s	guinea pig	0.1397	369 m^3
+3	558 mph	0.4749 kg/s	?	dog	0.8972 m^2	936	0.3587	0.0746	1068 kg/s	bird	0.3033	897 m^3
+3	336 mph	0.4264 kg/s	Riverside	reptile	0.7841 m^2	1242	0.2008	0.2588	1057 kg/s	bird	0.2938	938 m^3
+3	214 mph	0.6639 kg/s	Fremont	dog, fish	0.6704 m^2	1284	-0.0693	-0.0725	894 kg/s	bird	0.4372	1197 m^3
+5	47 mph	0.7872 kg/s	Oakland	rat	0.2339 m^2	63	1.0364	0.7848	729 kg/s	cat	0.7861	954 m^3
+4	480 mph	0.8185 kg/s	Chula Vista	cat	0.4978 m^2	706	0.3763	0.3395	139 kg/s	ferret	0.5738	400 m^3
+3	560 mph	0.4845 kg/s	San Francisco	dog	0.4594 m^2	714	0.0378	0.2833	702 kg/s	rat	0.1042	870 m^3
+3	219 mph	0.5419 kg/s	San Francisco	dog, pig	0.8923 m^2	621	0.1893	0.1238	987 kg/s	rat	0.3776	991 m^3
+5	-126 mph	0.9783 kg/s	San Jose	ferret	0.2165 m^2	-14	0.764	0.6281	686 kg/s	cat	0.5295	674 m^3
+0	138 mph	0.2245 kg/s	San Jose	guinea pig	0.887 m^2	563	0.7177	0.4616	245 kg/s	None	0.8844	66 m^3
+4	736 mph	?	Chula Vista	cat	0.4211 m^2	580	0.2787	0.1872	349 kg/s	pig	0.5427	86 m^3
+0	388 mph	0.3469 kg/s	Los Angeles	guinea pig	1.1172 m^2	833	0.5293	0.5269	318 kg/s	reptile	0.9652	238 m^3
+2	697 mph	0.2955 kg/s	Los Angeles	reptile	0.3487 m^2	580	0.3083	0.9477	506 kg/s	fish	0.363	534 m^3
+2	770 mph	0.1268 kg/s	Fresno	bird	0.2824 m^2	297	0.2035	0.8753	390 kg/s	chicken	0.4348	847 m^3
+1	877 mph	0.3215 kg/s	Riverside	ferret	0.5416 m^2	396	0.549	0.4135	520 kg/s	guinea pig	0.2236	372 m^3
+2	930 mph	0.2131 kg/s	Los Angeles	bird	0.4059 m^2	289	0.4134	1.0311	531 kg/s	fish	0.2838	732 m^3
+2	758 mph	0.1327 kg/s	Los Angeles	reptile	0.4034 m^2	284	0.1328	1.1271	425 kg/s	fish	0.4991	927 m^3
+2	783 mph	-0.1398 kg/s	San Diego	n/a	0.2515 m^2	283	0.2608	0.8338	551 kg/s	dog	0.5988	928 m^3
+0	184 mph	0.2711 kg/s	SAN JOSE	guinea pig	0.9504 m^2	447	0.7248	0.5775	304 kg/s	reptile	0.6719	26 m^3
+2	766 mph	0.1768 kg/s	Sacramento	reptile	0.405 m^2	556	0.1662	0.8124	649 kg/s	fish	0.6316	652 m^3
+0	207 mph	0.4148 kg/s	San Jose	guinea pig	0.6538 m^2	808	0.6773	0.4726	284 kg/s	reptile	0.7945	49 m^3
+4	693 mph	0.7017 kg/s	Chula Vista	cat	0.4293 m^2	206	0.4224	0.323	209 kg/s	ferret	0.5951	283 m^3
+2	745 mph	0.1473 kg/s	Los Angeles	bird	0.2609 m^2	548	0.2312	1.1006	379 kg/s	fish	0.4871	860 m^3
+4	853 mph	0.4171 kg/s	Moreno Valley	chicken	0.5474 m^2	441	0.304	0.3065	348 kg/s	ferret	0.5559	373 m^3
+3	249 mph	0.7109 kg/s	San Francisco	fish, dog	0.7519 m^2	962	-0.1162	0.2529	1114 kg/s	bird	?	1094 m^3
+5	-39 mph	0.789 kg/s	lONG bEACH	hamster	-0.0866 m^2	125	0.6787	0.8089	708 kg/s	chicken	0.7312	935 m^3
+5	126 mph	0.9429 kg/s	Oakland	hamster	0.1306 m^2	106	0.8554	0.6707	599 kg/s	rabbit	0.6167	890 m^3
+4	681 mph	0.6757 kg/s	Bakersfield	chicken	0.299 m^2	500	0.5906	0.3256	433 kg/s	ferret	0.6621	368 m^3
+2	713 mph	0.2438 kg/s	San Diego	bird	0.3715 m^2	191	0.1504	0.8719	94 kg/s	dog	0.5346	621 m^3
+3	375 mph	0.4722 kg/s	Fremont	dog, pig	0.7318 m^2	942	0.1099	0.0609	899 kg/s	bird	0.2064	914 m^3
+1	900 mph	0.2378 kg/s	Riverside	ferret	0.7547 m^2	549	0.7518	0.3346	408 kg/s	guinea pig	0.3005	510 m^3
+2	828 mph	0.2821 kg/s	Fremont	bird	0.4151 m^2	100	0.3324	0.8788	240 kg/s	fish	0.6195	578 m^3
+1	824 mph	0.4447 kg/s	Riverside	ferret	0.7808 m^2	666	0.561	0.566	667 kg/s	guinea pig	0.1128	398 m^3
+4	824 mph	0.7833 kg/s	Chula Vista	chicken	0.4668 m^2	669	0.3364	0.0887	396 kg/s	ferret	0.5459	367 m^3
+3	199 mph	0.6309 kg/s	San Francisco	fish, pig	0.7607 m^2	881	0.0483	0.2728	738 kg/s	chicken	0.4073	1059 m^3
