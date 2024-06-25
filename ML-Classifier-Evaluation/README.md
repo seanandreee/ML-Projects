@@ -1,15 +1,8 @@
-# Hands-On 5 (HO5)
+Authored by Sean Andre Membrido
 
-Before beginning, make sure your environment is properly set up.
-This was documented in Hands-On 0: https://github.com/ucsc-cse-40/HO0
 
-In this assignment, you will be doing an end-to-end analysis on a unique dataset.
-You will start with an unprocessed dataset and do all the steps from previous assignments to clean, explore, visualize, and analyze your dataset.
+In this project, I perform an end-to-end analysis on a unique dataset.
 
-## Submitting the Assignment
+Given an unprocessed dataset, I clean, explore, visualize, and analyze the data, while comparing the performance of various classifiers that are being tested on said data. 
 
-Submit your code by running `python3 -m autograder.cli.submission.submit assignment.ipynb` from your local repository directory.
-This script will check for your cruzid, password, and assignment id in `config.json`
-and submit your work to a server controlled by the TAs where tests will be run, reporting the results back to you.
-
-Submit your written portion as a PDF on Canvas.
+The uncleaned dataset can be found in the repository. Running the Jupyter notebook will give live analysis on the dataset. 
