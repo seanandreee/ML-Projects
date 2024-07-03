@@ -1,5 +1,7 @@
 # FashionMNIST Classifier
 
+Authored by Sean Andre Membrido
+
 This project implements a simple neural network classifier for the FashionMNIST dataset using PyTorch. The FashionMNIST dataset consists of 60,000 training images and 10,000 test images of clothing items, each labeled with one of ten classes.
 
 ## Project Structure
