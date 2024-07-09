@@ -35,6 +35,7 @@ def data_plot(df):
 		ax.tick_params(axis="x", rotation=30, labelsize=10, length=5)
 		ax.xaxis.set_major_locator(mdates.AutoDateLocator())
 	fig.tight_layout()
+	plt.savefig('openprice-history.png')
 	plt.show()
 
 data_plot(df)
@@ -180,6 +181,7 @@ x = np.linspace(1,num_epochs,num_epochs)
 plt.plot(x,train_hist,scalex=True, label="Training loss")
 plt.plot(x, test_hist, label="Test loss")
 plt.legend()
+plt.savefig('training_test_loss.png')
 plt.show()
 
 # Define the number of future time steps to forecast
@@ -243,5 +245,5 @@ plt.ylabel('Value')
 plt.legend()
 plt.title('Time Series Forecasting')
 plt.grid(True)
-
+plt.savefig('forecasting_plot.png')
 plt.show()
