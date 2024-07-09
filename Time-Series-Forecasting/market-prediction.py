@@ -20,7 +20,7 @@ from datetime import date, timedelta, datetime
 end_date = date.today().strftime("%Y-%m-%d") #end date for our data retrieval will be current date 
 start_date = '2000-01-01' # Beginning date for our historical data retrieval 
 
-df = yf.download('AAPL', start=start_date, end=end_date)# Function used to fetch the data 
+df = yf.download('NVDA', start=start_date, end=end_date)# Function used to fetch the data 
 
 def data_plot(df):
 	df_plot = df.copy()
@@ -244,3 +244,4 @@ plt.legend()
 plt.title('Time Series Forecasting')
 plt.grid(True)
 
+plt.show()
