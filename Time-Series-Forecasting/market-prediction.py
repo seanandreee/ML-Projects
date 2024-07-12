@@ -10,7 +10,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 from torch.utils.data import Dataset, DataLoader
-
+import ta
 
 # Loading the Nvidia Stock Data
 
@@ -52,6 +52,7 @@ print(train_data.shape, test_data.shape)
 
 # Selecting Open Price values
 dataset_train = train_data.Open.values
+
 # Reshaping 1D to 2D array
 dataset_train = np.reshape(dataset_train, (-1,1))
 dataset_train.shape
